@@ -5,6 +5,6 @@
 int main()
 {
     using namespace std;
-    cout << "이름 : 신ㄷㅇ\n주소 : 강원도 춘천시 ~~";
+    cout << "이름 : 신00\n주소 : 강원도 춘천시 ~~";
     return 0;
 }
