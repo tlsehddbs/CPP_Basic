@@ -4,3 +4,26 @@
 분 값을 입력하시오 : 28
 시각 : 9:28
 */
+
+#include <iostream>
+
+using namespace std;
+
+void Time(int Hour, int Minute);
+
+int main()
+{
+    int H, M;
+    cout << "시간을 입력하시오 : ";
+    cin >> H;
+    cout << "분을 입력하시오 : ";
+    cin >> M;
+
+    Time(H, M); 
+    return 0;
+}
+
+void Time(int Hour, int Minute)
+{
+    cout << "시각 : " << Hour << ":" << Minute;
+}
