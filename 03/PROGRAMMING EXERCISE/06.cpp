@@ -7,15 +7,13 @@ int main()
 {
     using namespace std;
 
-    float miles;
-    float gallons;
+    float miles, gallons;
     cout << "주행한 거리를 마일 단위로 입력하시오 : ";
     cin >> miles;
     cout << "소비한 휘발유의 양을 갤런 단위로 입력하시오 : ";
     cin >> gallons;
-    float MPG = miles / gallons;
 
-    cout << "갤런당 마일 수는 " << MPG << "입니다." << endl;
+    cout << "갤런당 마일 수는 " << miles / gallons << "입니다." << endl;
 
     return 0;
 }
