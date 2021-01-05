@@ -7,28 +7,29 @@
 
 #include <iostream>
 
+using namespace std;
+
 int main()
 {
-    using namespace std;
+    // 1일, 1시간, 1분의 수를 기호상수로 사용하지 않았음
+    const int DAY = 86400;
+    const int HOUR = 3600;
+    const int MIN = 60;
 
-    int Time, OTime;
+    long Time;
     cout << "초 수를 입력하십시오 : ";
     cin >> Time;
-    OTime = Time;
 
-    int Day, Hrs, Min, Sec;
-    Day = Time / 86400;
-    Time = Time - (Day * 86400);    // 계산할 때마다 Time을 업데이트 안해줘도 되게끔 하자
+    long Day, Hrs, Min, Sec;
+    Day = Time / DAY;
 
-    Hrs = Time / 3600;
-    Time = Time - (Hrs * 3600);
+    Hrs = (Time % DAY) / HOUR;
 
-    Min = Time / 60;
-    Time = Time - (Min * 60);
+    Min = (Time % HOUR) / MIN;
 
-    Sec = Time;
+    Sec = Time % MIN;
 
-    cout << OTime << "초 = " << Day << "일, " << Hrs << "시간, " << Min << "분, " << Sec << "초" << endl;
+    cout << Time << "초 = " << Day << "일, " << Hrs << "시간, " << Min << "분, " << Sec << "초" << endl;
 
     return 0;
 }

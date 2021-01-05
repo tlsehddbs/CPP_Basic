@@ -12,9 +12,7 @@ int main()
     cout << "키를 CM로 입력하시오 : ___\b\b\b";
     cin >> Height;
 
-    int M = Height / Meter;
-    int CM = Height % Meter;
-    cout << Height << "cm는 " << M << "m " << CM << "cm 입니다." << endl;
+    cout << Height << "cm는 " << Height / Meter << "m " << Height % Meter << "cm 입니다." << endl;
 
     return 0;
 }
