@@ -12,6 +12,22 @@ BMI를 계산하려면 먼저 피트와 인치 단위로 주어진 키를 인치
 int main()
 {
     using namespace std;
+    float feet, inches, pound;
+    const float FEET_INCHES = 12;
+    const float MITER_INCHES = 0.0254;
+    const float KG_POUND = 2.2;
 
+    cout << "키 중 피트 단위만 입력하시오 : ";
+    cin >> feet;
+    cout << "키 중 인치 단위만 입력하시오 : ";
+    cin >> inches;
+    cout << "체중을 파운드 단위로 입력하시오 : ";
+    cin >> pound;
+
+    double height = ((feet * FEET_INCHES) + inches) * MITER_INCHES;
+    double kilogram = pound * KG_POUND;
+    double BMI = kilogram / (height * height);
+
+    cout << "BMI지수는 " << BMI << "입니다.";
     return 0;
 }
