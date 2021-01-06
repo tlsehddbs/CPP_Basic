@@ -11,7 +11,7 @@ using namespace std;
 
 int main()
 {
-    // 1일, 1시간, 1분의 수를 기호상수로 사용하지 않았음
+    // 기호상수를 사용해야 한다는 것을 잊어버림
     const int DAY = 86400;
     const int HOUR = 3600;
     const int MIN = 60;
