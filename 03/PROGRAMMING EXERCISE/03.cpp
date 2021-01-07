@@ -14,6 +14,21 @@
 int main()
 {
     using namespace std;
+    int degree, minute, second;
+    double latitude;    // 위도 : latitude
+    const double DEG_MIN = 60;
+    const double MIN_SEC = 60;
+
+    cout << "위도를 도, 분, 초 단위로 입력하시오 : \n";
+    cout << "먼저, 도각을 입력하시오 : ";
+    cin >> degree;
+    cout << "다음에, 분각을 입력하시오 : ";
+    cin >> minute;
+    cout << "끝으로, 초각을 입력하시오 : ";
+    cin >> second;
+
+    latitude = degree + (minute + second / DEG_MIN) / MIN_SEC;
+    cout << degree << "도, " << minute << "분, " << second << "초 = " << latitude << "도";
 
     return 0;
 }

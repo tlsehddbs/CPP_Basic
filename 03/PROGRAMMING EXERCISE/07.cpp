@@ -7,6 +7,13 @@
 int main()
 {
     using namespace std;
+    double liters, mpg;
+    const double KM_Miles = 62.14;
+    const double G_Liter = 3.875; 
 
+    cout << "100킬로미터당 리터 수를 입력하시오 : ";
+    cin >> liters;
+    mpg = KM_Miles * G_Liter / liters;
+    cout << "갤런당 마일 수는" << mpg << "입니다.";
     return 0;
 }
