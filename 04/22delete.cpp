@@ -8,11 +8,11 @@ int main()
     char * name;            // 포인터를 만들지만 메모리는 대입하지 않는다
 
     name = getname();       // 문자열의 주소를 name에 대입한다
-    cout << (int *) name << " : " << endl << "\n";
+    cout << (int *) name << " : " << name << "\n";
     delete [] name;         // 메모리를 해제한다
 
     name = getname();       // 문자열의 주소를 다시 사용한다
-    cout << (int *) name << " : " << endl << "\n";
+    cout << (int *) name << " : " << name << "\n";
     delete [] name;         // 메모리를 다시 해제한다
     return 0;
 }
