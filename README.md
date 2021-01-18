@@ -6,6 +6,17 @@
 **C++ 기초 플러스 6판 소스코드, 프로그래밍 연습문제 풀이** <br><br>
 
 ## **01** C++ 첫걸음 
+<details>
+<summary>학습 목표</summary>
+<div markdown="1">
+● C와 C++ 언어의 역사와 철학<br>
+● C++가 C 언어에 추가한 일반화 프로그래밍 개념<br>
+● 절차적 프로그래밍과 객체 지향 프로그래밍<br>
+● 프로그래밍 언어의 표준<br>
+● C++가 C 언어에 추가한 객체 지향 개념<br>
+● 프로그램 작성 요령<br>
+</div>
+</details>
 
 * ### **01.1** C++를 배우자 : 앞으로 배우게 될 내용에 대하여
 
@@ -32,6 +43,21 @@
 ### [Listing 1 SUMMARY](https://github.com/tlsehddbs/CPP_Basic/blob/main/01/.SUMMARY1.md ".SUMMARY1.md")
 ___
 ## **02** C++ 시작하기
+<details>
+<summary>학습 목표</summary>
+<div markdown="1">
+● C++ 프로그램 작성법<br>
+● c++ 프로그램의 일반적인 형식<br>
+● #include 전처리 지시자<br>
+● main() 함수<br>
+● cout 객체를 사용한 출력<br>
+● C++ 프로그램에 주석문 달기<br>
+● endl의 사용하는 시점과 방법<br>
+● 변수의 선언과 사용<br>
+● cin 객체를 사용한 입력<br>
+● 간단한 함수의 정의와 사용<br>
+</div>
+</details>
 
 * ### **02.1** C++의 시작 
   * - [[myfirst.cpp]](https://github.com/tlsehddbs/CPP_Basic/blob/main/02/01myfirst.cpp "Listing 2.1")
@@ -78,6 +104,23 @@ ___
 ### [Note](https://github.com/tlsehddbs/CPP_Basic/blob/main/02/Note(Listing2).md "Note(Listing2).md") | [Tip](https://github.com/tlsehddbs/CPP_Basic/blob/main/02/Tip(Listing2).md "Tip(Listing2).md")
 ___
 ## **03** 데이터 처리
+<details>
+<summary>학습 목표</summary>
+<div markdown="1">
+● C++의 변수 이름을 정하는 규칙<br>
+● const 제한자를 사용하여 기호 상수 만들기<br>
+● C++에 내장된 정수형 : unsigned long, long, unsigned int, int unsigned short, short, char, unsigned char, signed char, bool<br>
+● C++에 내장된 부동 소수점형 : float, double, long double<br>
+● C++11에서 추가된 변수형 unsigned long long, long long<br>
+● 여러 부동 소수점형의 시스템 한계값을 나타내는 cflost 파일<br>
+● 여러 정수형 시스템 한계값을 나타내는 climits 파일<br>
+● 여러 부동 소수점형의 수치 상수들<br>
+● 여러 정수형의 수치 상수들<br>
+● C++의 산술 연산자<br>
+● 자동 데이터형 변환<br>
+● 강제 데이터형 변환<br>
+</div>
+</details>
 
 * ### **03.1** 간단한 변수
   * 변수 이름
@@ -140,6 +183,25 @@ ___
 ### [Compatibility](https://github.com/tlsehddbs/CPP_Basic/blob/main/03/Compatibility(Listing3).md "Compatibility(Listing3).md") | [Note](https://github.com/tlsehddbs/CPP_Basic/blob/main/03/Note(Listing3).md "Note(Listing3).md") | [Tip](https://github.com/tlsehddbs/CPP_Basic/blob/main/03/Tip(Listing3).md "Tip(Listing3).md")
 ___
 ## **04** 복합 데이터형
+<details>
+<summary>학습 목표</summary>
+<div markdown="1">
+● 배열의 생성과 사용<br>
+● C 스타일 문자열의 생상과 사용<br>
+● string 클래스 문자열의 생성과 사용<br>
+● 문자열을 읽는 getline()과 get() 메서드의 사용<br>
+● 문자열과 수치의 혼합 입력<br>
+● 구조체의 생성과 사용<br>
+● 공용체의 생성과 사용<br>
+● 열거체의 생성과 사용<br>
+● 포인터의 생성과 사용<br>
+● new와 delete를 사용한 동적 메모리 관리<br>
+● 동적 배열의 생성<br>
+● 동적 구조체의 생성<br>
+● 자동 기억 공간, 정적 기억 공간, 동적 기억 공간<br>
+● 벡터(vector)와 배열에 대한 소개<br>
+</div>
+</details>
 
 * ### **04.1** 배열 
   * - [[arrayone.cpp]](https://github.com/tlsehddbs/CPP_Basic/blob/main/04/01arrayone.cpp "Listing 4.1")
@@ -247,6 +309,24 @@ ___
 ### [Compatibility](https://github.com/tlsehddbs/CPP_Basic/blob/main/04/Compatibility(Listing4).md "Compatibility(Listing4).md") | [Note](https://github.com/tlsehddbs/CPP_Basic/blob/main/04/Note(Listing4).md "Note(Listing4).md") | [Tip](https://github.com/tlsehddbs/CPP_Basic/blob/main/04/Tip(Listing4).md "Tip(Listing4).md")
 ___
 ## **05** 루프와 관계 표현식
+<details>
+<summary>학습 목표</summary>
+<div markdown="1">
+● for 루프<br>
+● 표현식과 구문<br>
+● 증가 연산자와 감소 연산자(++와 --)<br>
+● 조합 대입 연산자<br>
+● 복합 구문(블록)<br>
+● 콤마 연산자<br>
+● 관계 연산자(>, >=, ==, <=, <, !=)<br>
+● while 루프<br>
+● typedef 기능<br>
+● do while 루프<br>
+● 문자 입력 메서드 get()<br>
+● 파일 끝 조건<br>
+● 중첩 루프와 2차원 배열<br>
+</div>
+</details>
 
 * ### **05.1** for 루프 
   * - [[forloop.cpp]](https://github.com/tlsehddbs/CPP_Basic/blob/main/05/01forloop.cpp "Listing 5.1")
@@ -321,6 +401,20 @@ ___
 ### [Compatibility](https://github.com/tlsehddbs/CPP_Basic/blob/main/05/Compatibility(Listing5).md "Compatibility(Listing5).md") | [Note](https://github.com/tlsehddbs/CPP_Basic/blob/main/05/Note(Listing5).md "Note(Listing5).md") | [Tip](https://github.com/tlsehddbs/CPP_Basic/blob/main/05/Tip(Listing5).md "Tip(Listing5).md") | [Remamber](https://github.com/tlsehddbs/CPP_Basic/blob/main/05/Remember(Listing5).md "Remember(Listing5).md") 
 ___
  ## **06** 분기 구문과 논리 연산자
+ <details>
+<summary>학습 목표</summary>
+<div markdown="1">
+● if 구문<br>
+● if else 구문<br>
+● 논리 연산자(&&, ||, !)<br>
+● 문자 함수들이 들어 있는 cctype 라이브러리<br>
+● 조건 연산자(? :)<br>
+● switch 구문<br>
+● continue와 break 구문<br>
+● 수를 읽어들이는 루프<br>
+● 기본적인 파일 입력/출력<br>
+</div>
+</details>
 
  * ### **06.1** if 구문 
     - [[if.cpp]](https://github.com/tlsehddbs/CPP_Basic/blob/main/06/01if.cpp "Listing 6.1")
@@ -381,6 +475,21 @@ ___
 
 ___
 ## **07** 함수-C++의 프로그래밍 모듈
+<details>
+<summary>학습 목표</summary>
+<div markdown="1">
+● 함수의 기초(복습)<br>
+● 함수의 원형<br>
+● 함수 매개변수를 값으로 전달<br>
+● 배열을 처리하는 함수의 설계<br>
+● const 포인터 매개변수<br>
+● 문자열을 처리하는 함수의 설계<br>
+● 구조체를 처리하는 함수의 설계<br>
+● string 클래스 객체를 처리하는 함수의 설계<br>
+● 자기 자신을 호출하는 (재귀)함수<br>
+● 하수를 지시하는 포인터<br>
+</div>
+</details>
 
 * ### **07.1** 함수의 기초(복습) 
   - - [[calling.cpp]](https://github.com/tlsehddbs/CPP_Basic/blob/main/07/01calling.cpp "Listing 7.1")
@@ -465,6 +574,18 @@ ___
 ### [Note](https://github.com/tlsehddbs/CPP_Basic/blob/main/07/Note(Listing7).md "Note(Listing7).md") | [Tip](https://github.com/tlsehddbs/CPP_Basic/blob/main/07/Tip(Listing7).md "Tip(Listing7).md")
 ___
 ## **08** 함수의 활용
+<details>
+<summary>학습 목표</summary>
+<div markdown="1">
+● 인라인 함수<br>
+● 참조 변수<br>
+● 함수 매개변수를 참조로 전달<br>
+● 디폴트 매개변수<br>
+● 함수 오버로딩<br>
+● 함수 템플릿<br>
+● 함수 템플릿의 특수화<br>
+</div>
+</details>
 
 * ### **08.1** C++ 인라인(inline) 함수 
   -  * [[inline.cpp]](https://github.com/tlsehddbs/CPP_Basic/blob/main/08/01inline.cpp "Listing 8.1")
@@ -529,6 +650,15 @@ ___
 ### [Compatibility](https://github.com/tlsehddbs/CPP_Basic/blob/main/08/Compatibility(Listing8).md "Compatibility(Listing8.md") | [Note](https://github.com/tlsehddbs/CPP_Basic/blob/main/08/Note(Listing8).md "Note(Listing8).md") | [Tip](https://github.com/tlsehddbs/CPP_Basic/blob/main/08/Tip(Listing8).md "Tip(Listing8).md")
 ___
 ## **09** 메모리 모델과 이름 공간
+<details>
+<summary>학습 목표</summary>
+<div markdown="1">
+● 분할 컴파일<br>
+● 위치 지정 new<br>
+● 기억 존속 시간, 사용 범위, 링크<br>
+● 이름 공간<br>
+</div>
+</details>
 
 * ### **09.1** 분할 컴파일
     * [[coordin.h]](https://github.com/tlsehddbs/CPP_Basic/blob/main/09/01coordin.h "Listing 9.1") 
@@ -577,31 +707,50 @@ ___
     * 이름 공간에 대한 보충
     * 이름을 명명하지 않은 이름 공간
   * 이름 공간 예제 
-    * [[]]() 
-    * [[]]() 
-    * [[]]()
+    * [[namesp.h]](https://github.com/tlsehddbs/CPP_Basic/blob/main/09/11namesp.h "Listing 9.11") 
+    * [[namesp.cpp]](https://github.com/tlsehddbs/CPP_Basic/blob/main/09/12namesp.cpp "Listing 9.12") 
+    * [[usenmsp.cpp]](https://github.com/tlsehddbs/CPP_Basic/blob/main/09/13usenmsp.cpp "Listing 9.13")
   * 이름 공간의 미래
 
 ### [Listing 9 SUMMARY](https://github.com/tlsehddbs/CPP_Basic/blob/main/09/.SUMMARY9.md ".SUMMARY9.md")  
 ### [Listing 9 Programming Exercise](https://github.com/tlsehddbs/CPP_Basic/tree/main/09/PROGRAMMING%20EXERCISE)
+### [Compatibility](https://github.com/tlsehddbs/CPP_Basic/blob/main/09/Compatibility(Listing9).md "Compatibility(Listing9.md") | [Note](https://github.com/tlsehddbs/CPP_Basic/blob/main/09/Note(Listing9).md "Note(Listing9).md")
 ___
 ## **10** 객체와 클래스
+<details>
+<summary>학습목표</summary>
+<div markdown="1">
+● 절차식 프로그래밍과 객체 지향 프로그래밍<br>
+● 클래스의 개념<br>
+● 클래스의 정의와 구현<br>
+● public, private 클래스에 접근하기<br>
+● 클래스 데이터 멤버<br>
+● 클래스 메서드(클래스 함수 멤버)<br>
+● 클래스 객체의 생성과 사용<br>
+● 클래스 생성자와 파괴<br>
+● const 멤버 함수<br>
+● this 포인터<br>
+● 객체 배열의 생성<br>
+● 클래스의 사용범위<br>
+● 추상 데이터형(ADT)<br>
+</div>
+</details>
 
 * ### **10.1** 절차식 프로그래밍과 객체 지향 프로그래밍
   
 * ### **10.2** 추상화와 클래스
   * 데이터형이란 무엇인가?
   * C++의 클래스 
-    - [[]]()
+    - [[stock00.h]](https://github.com/tlsehddbs/CPP_Basic/blob/main/10/01stock00.h "Listing 10.1")
     * 접근 제어
     * 멤버 접근 제어 : public 또는 private?
   * 클래스 맴버 함수의 구현 
-    - [[]]()
+    - [[stock00.cpp]](https://github.com/tlsehddbs/CPP_Basic/blob/main/10/02stock00.cpp "Listing 10.2")
     * 멤버 함수 설명
     * 인라인 메서드
     * 어느 객체가 메서드를 사용할까?
   * 클래스 사용하기 
-    * [[]]()
+    * [[usestock00.cpp]](https://github.com/tlsehddbs/CPP_Basic/blob/main/10/03usestock00.cpp "Listing 10.3")
   * 실행상의 변경
   * 지금까지의 설명 요약
   
@@ -612,34 +761,35 @@ ___
   * 파괴자
   * Stock 클래스 개선하기
     * 헤더 파일 
-      * [[]]()
+      * [[stock10.h]](https://github.com/tlsehddbs/CPP_Basic/blob/main/10/04stock10.h "Listing 10.4")
     * 세부 구현 파일 
-      * [[]]()
+      * [[stock10.cpp]](https://github.com/tlsehddbs/CPP_Basic/blob/main/10/05stock10.cpp "Listing 10.5")
     * 클라이언트 파일 
-      * [[]]()
+      * [[usestok1.cpp]](https://github.com/tlsehddbs/CPP_Basic/blob/main/10/06usestok1.cpp "Listing 10.6")
     * 프로그램 분석
     * C++11의 리스트 초기화
     * const 멤버 함수
   * 생성자와 파괴자에 대한 요약
   
 * ### **10.4** 객체 들여다보기, this 포인터 
-    * [[]]() 
-    * [[]]()
+    * [[stock20.h ]](https://github.com/tlsehddbs/CPP_Basic/blob/main/10/07stock20.h "Listing 10.7") 
+    * [[stock20.cpp]](https://github.com/tlsehddbs/CPP_Basic/blob/main/10/08stock20.cpp "Listing 10.8")
 
 * ### **10.5** 객체 배열 
-    * [[]]()
+    * [[usestok2.cpp]](https://github.com/tlsehddbs/CPP_Basic/blob/main/10/09usestok2.cpp "Listing 10.9")
 
 * ### **10.6** 클래스 사용 범위
   * 클래스 사용 범위 상수
   * 범위가 정해진 열거(C++11)
   
 * ### **10.7** 추상화 데이터형 
-    * [[]]() 
-    * [[]]() 
-    * [[]]()
+    * [[stack.h]](https://github.com/tlsehddbs/CPP_Basic/blob/main/10/10stack.h "Listing 10.10") 
+    * [[stack.cpp]](https://github.com/tlsehddbs/CPP_Basic/blob/main/10/11stack.cpp "Listing 10.11") 
+    * [[stacker.cpp]](https://github.com/tlsehddbs/CPP_Basic/blob/main/10/12stacker.cpp "Listing 10.12")
 
 ### [Listing 10 SUMMARY](https://github.com/tlsehddbs/CPP_Basic/blob/main/10/.SUMMARY10.md ".SUMMARY10.md")  
 ### [Listing 10 Programming Exercise](https://github.com/tlsehddbs/CPP_Basic/tree/main/10/PROGRAMMING%20EXERCISE)
+### [Compatibility](https://github.com/tlsehddbs/CPP_Basic/blob/main/10/Compatibility(Listing10).md "Compatibility(Listing10.md") | [Note](https://github.com/tlsehddbs/CPP_Basic/blob/main/10/Note(Listing10).md "Note(Listing10).md") | [Tip](https://github.com/tlsehddbs/CPP_Basic/blob/main/10/Tip(Listing10).md "Tip(Listing10).md") | [Remamber](https://github.com/tlsehddbs/CPP_Basic/blob/main/10/Remember(Listing10).md "Remember(Listing10).md") 
 ___
 ## **11** 클래스의 활용
 
