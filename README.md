@@ -400,7 +400,7 @@ ___
 ### [Listing 5 Programming Exercise](https://github.com/tlsehddbs/CPP_Basic/tree/main/05/PROGRAMMING%20EXERCISE)
 ### [Compatibility](https://github.com/tlsehddbs/CPP_Basic/blob/main/05/Compatibility(Listing5).md "Compatibility(Listing5).md") | [Note](https://github.com/tlsehddbs/CPP_Basic/blob/main/05/Note(Listing5).md "Note(Listing5).md") | [Tip](https://github.com/tlsehddbs/CPP_Basic/blob/main/05/Tip(Listing5).md "Tip(Listing5).md") | [Remamber](https://github.com/tlsehddbs/CPP_Basic/blob/main/05/Remember(Listing5).md "Remember(Listing5).md") 
 ___
- ## **06** 분기 구문과 논리 연산자
+## **06** 분기 구문과 논리 연산자
  <details>
 <summary>학습 목표</summary>
 <div markdown="1">
