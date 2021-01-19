@@ -7,7 +7,7 @@
 
 ## **01** C++ 첫걸음 
 <details>
-<summary>학습 목표</summary>
+<summary>학습목표</summary>
 <div markdown="1">
 ● C와 C++ 언어의 역사와 철학<br>
 ● C++가 C 언어에 추가한 일반화 프로그래밍 개념<br>
@@ -44,7 +44,7 @@
 ___
 ## **02** C++ 시작하기
 <details>
-<summary>학습 목표</summary>
+<summary>학습목표</summary>
 <div markdown="1">
 ● C++ 프로그램 작성법<br>
 ● c++ 프로그램의 일반적인 형식<br>
@@ -105,7 +105,7 @@ ___
 ___
 ## **03** 데이터 처리
 <details>
-<summary>학습 목표</summary>
+<summary>학습목표</summary>
 <div markdown="1">
 ● C++의 변수 이름을 정하는 규칙<br>
 ● const 제한자를 사용하여 기호 상수 만들기<br>
@@ -184,7 +184,7 @@ ___
 ___
 ## **04** 복합 데이터형
 <details>
-<summary>학습 목표</summary>
+<summary>학습목표</summary>
 <div markdown="1">
 ● 배열의 생성과 사용<br>
 ● C 스타일 문자열의 생상과 사용<br>
@@ -310,7 +310,7 @@ ___
 ___
 ## **05** 루프와 관계 표현식
 <details>
-<summary>학습 목표</summary>
+<summary>학습목표</summary>
 <div markdown="1">
 ● for 루프<br>
 ● 표현식과 구문<br>
@@ -402,7 +402,7 @@ ___
 ___
 ## **06** 분기 구문과 논리 연산자
  <details>
-<summary>학습 목표</summary>
+<summary>학습목표</summary>
 <div markdown="1">
 ● if 구문<br>
 ● if else 구문<br>
@@ -476,7 +476,7 @@ ___
 ___
 ## **07** 함수-C++의 프로그래밍 모듈
 <details>
-<summary>학습 목표</summary>
+<summary>학습목표</summary>
 <div markdown="1">
 ● 함수의 기초(복습)<br>
 ● 함수의 원형<br>
@@ -575,7 +575,7 @@ ___
 ___
 ## **08** 함수의 활용
 <details>
-<summary>학습 목표</summary>
+<summary>학습목표</summary>
 <div markdown="1">
 ● 인라인 함수<br>
 ● 참조 변수<br>
@@ -651,7 +651,7 @@ ___
 ___
 ## **09** 메모리 모델과 이름 공간
 <details>
-<summary>학습 목표</summary>
+<summary>학습목표</summary>
 <div markdown="1">
 ● 분할 컴파일<br>
 ● 위치 지정 new<br>
@@ -792,22 +792,34 @@ ___
 ### [Compatibility](https://github.com/tlsehddbs/CPP_Basic/blob/main/10/Compatibility(Listing10).md "Compatibility(Listing10.md") | [Note](https://github.com/tlsehddbs/CPP_Basic/blob/main/10/Note(Listing10).md "Note(Listing10).md") | [Tip](https://github.com/tlsehddbs/CPP_Basic/blob/main/10/Tip(Listing10).md "Tip(Listing10).md") | [Remamber](https://github.com/tlsehddbs/CPP_Basic/blob/main/10/Remember(Listing10).md "Remember(Listing10).md") 
 ___
 ## **11** 클래스의 활용
+<details>
+<summary>학습목표</summary>
+<div markdown="1">
+● 연산자 오버로딩<br>
+● 프렌드 함수<br>
+● rand()함수를 이용한 무작위 값 생성<br>
+● 클래스와 관련된 자동 데이터형 변환과 데이터형 캐스트<br>
+● 출력을 위한 << 연산자 오버로딩<br>
+● 클래스 변환 함수<br>
+● 상태 멤버<br>
+</div>
+</details>
 
 * ### **11.1** 연산자 오버로딩
 
 * ### **11.2** 잠깐의 휴식 : 연산자 오버로딩 예제 
-    - [[]]() 
-    - [[]]() 
-    - [[]]()
+    - [[mytime0.h]](https://github.com/tlsehddbs/CPP_Basic/blob/main/11/01mytime0.h "Listing 11.1") 
+    - [[mytime0.cpp]](https://github.com/tlsehddbs/CPP_Basic/blob/main/11/02mytime0.cpp "Listing 11.4") 
+    - [[usetime0.cpp]](https://github.com/tlsehddbs/CPP_Basic/blob/main/11/03usetime0.cpp "Listing 11.5")
   * 덧셈 연산자의 추가 
-    * [[]]() 
-    * [[]]() 
-    * [[]]()
+    * [[mytime1.h]](https://github.com/tlsehddbs/CPP_Basic/blob/main/11/04mytime1.h "Listing 11.4") 
+    * [[mytime1.cpp]](https://github.com/tlsehddbs/CPP_Basic/blob/main/11/05mytime1.cpp "Listing 11.5") 
+    * [[usetime1.cpp]](https://github.com/tlsehddbs/CPP_Basic/blob/main/11/06usetime1.cpp "Listing 11.6")
   * 오버로딩 제약
   * 오버로딩 연산자 보충 
-    * [[]]() 
-    * [[]]() 
-    * [[]]()
+    * [[mytime2.h]](https://github.com/tlsehddbs/CPP_Basic/blob/main/11/07mytime2.h "Listing 11.7") 
+    * [[mytime2.cpp]](https://github.com/tlsehddbs/CPP_Basic/blob/main/11/08mytime2.cpp "Listing 11.8") 
+    * [[usetime2.cpp]](https://github.com/tlsehddbs/CPP_Basic/blob/main/11/09usetime2.cpp "Listing 11.9")
   
 * ### **11.3** 프렌드의 도입
   * 프렌드 생성하기
@@ -847,14 +859,37 @@ ___
 
 ### [Listing 11 SUMMARY](https://github.com/tlsehddbs/CPP_Basic/blob/main/11/.SUMMARY11.md ".SUMMARY11.md")  
 ### [Listing 11 Programming Exercise](https://github.com/tlsehddbs/CPP_Basic/tree/main/11/PROGRAMMING%20EXERCISE)
+### [Compatibility](https://github.com/tlsehddbs/CPP_Basic/blob/main/11/Compatibility(Listing11).md "Compatibility(Listing11.md") | [Note](https://github.com/tlsehddbs/CPP_Basic/blob/main/11/Note(Listing11).md "Note(Listing11).md") | [Tip](https://github.com/tlsehddbs/CPP_Basic/blob/main/11/Tip(Listing11).md "Tip(Listing11).md")
 ___
 ## **12** 클래스와 동적 메모리 대입
+<details>
+<summary>학습목표</summary>
+<div markdown="1">
+● 클래스 멤버를 위한 동적 메모리 대입<br>
+● 암시적/명시적 복사 생성자<br>
+● 암시적/명시적 오버로딩 대입 연산자<br>
+● 생성자에 new 사용하기<br>
+● static 클래스 멤버<br>
+● 객체에 위치 지정 new 사용하기<br>
+● 객체를 지시하는 포인터<br>
+● 큐 ADT 구현<br>
+</div>
+</details>
 
 * ### **12.1** 동적 메모리와 클래스
   * 복습을 위한 예제와 static 클래스 멤버
-  * 특별 멤버 함수
+      * [[]]()
+      * [[]]()
+      * [[]]()
+    * 프로그램 분석
+  * 특별 멤버 함수 
+    * 디폴트 생성자
+    * 복사 생성자
   * Stringbad로 회귀 : 복사 생성자에서 어디가 잘못되었나
+    * 명시적 복사 생성자로 이 문제를 해결하자
   * 기타 Stringbad 문제점 : 대입 연산자
+    * 대입에서 어디가 잘못되었나
+    * 대입에서 발생하는 문제의 해결책
   
 * ### **12.2** 새롭게 개선된 Srting 클래스
   * 개선된 디폴트 생성자
@@ -862,6 +897,9 @@ ___
   * [] 표기를 사용하여 개별 문자에 접근하기
   * static 클래스 오버로딩에 대한 보충
   * 대입 연산자 오버로딩에 대한 보충
+      * [[]]()
+      * [[]]()
+      * [[]]()
   
 * ### **12.3** 생성자에 new를 사용할 때 주의할 사항
   * 사용하지 말아야 할 것과 사용해도 좋은 것
@@ -874,9 +912,12 @@ ___
   * const 객체 리턴
   
 * ### **12.5** 객체를 지시하는 포인터
+    * - [[]]()
   * new와 delete 복습
   * 포인터와 객체에 대한 요약
   * 위치 지정 new 다시 살펴보기
+    * [[]]()
+    * [[]]()
   
 * ### **12.6** 테크닉의 복습
   * << 연산자의 오버로딩
@@ -885,169 +926,420 @@ ___
   
 * ### **12.7** 큐 시뮬레이션
   * Queue 클래스
+    * Queue 클래스 인터페이스
+    * Queue 클래스 세부 구현
+    * 클래스 메서드들
+    * 그 밖의 클래스 메서드들
   * Customer 클래스
+    * [[]]()
+    * [[]]()
   * ATM 시뮬레이션
+    * [[]]()
 
 ### [Listing 12 SUMMARY](https://github.com/tlsehddbs/CPP_Basic/blob/main/12/.SUMMARY12.md ".SUMMARY12.md")  
 ### [Listing 12 Programming Exercise](https://github.com/tlsehddbs/CPP_Basic/tree/main/12/PROGRAMMING%20EXERCISE)
 ___
 ## **13** 클래스의 상속
+<details>
+<summary>학습목표</summary>
+<div markdown="1">
+● is - a 관계로 상속하기<br>
+● 다른 클래스로부터 public으로 파생된 클래스<br>
+● protected 접근<br>
+● 생성자 멤버 초기자 리스트<br>
+● 업캐스팅과 다운캐스팅<br>
+● 가상 멤버 함수<br>
+● 초기 (정적) 결합과 말기 (동적) 결합<br>
+● 추상화 기초 클래스<br>
+● 순수 가상 함수<br>
+● public 상속은 언제 어떻게<br>
+</div>
+</details>
 
 * ### **13.1** 간단한 기초 클래스로부터 시작하자
+    * * [[]]()
+    * * [[]]()
+    * * [[]]()
   * 클래스 파생시키기
   * 생성자 : 접근에 대하여
   * 파생 클래스 사용하기
+    * [[]]
+    * [[]]
+    * [[]]
   * 파생 클래스와 기초 클래스의 특별한 관계
   
 * ### **13.2** 상속 : is-a 관계
 
 * ### **13.3** public 다형 상속
   * Brass와 BrassPlus 클래스의 개발
+    * [[]]
+    * 클래스의 구현
+      * [[]]
+      * [[]]
+    * 가상 메서드의 행동
+      * [[]]
+    * 가상 파괴자는 왜 필요할까?
   
 * ### **13.4** 정적 결합과 동적 결합
   * 포인터와 참조형의 호환
   * 가상 멤버 함수와 동적 결합
+    * 왜 두 종류의 결합이 필요한가? 왜 정적 결합이 디폴트인가?
+    * 가상 함수는 어떨게 동작하는가?
   * 가상 메서드에 대해 알아야 할 사항
+    * 생성자
+    * 파괴자
+    * 프렌드
+    * 가상 함수를 다시 정의하지 않으면
+    * 가상 함수를 다시 정의하면 메서드가 은닉된다
   
 * ### **13.5** 접근 제어 : protected
   
 * ### **13.6** 추상화 기초 클래스
   * ABC 개념의 적용
+    * [[]]
+    * [[]]
+    * [[]]
   * ABC 철학
   
 * ### **13.7** 상속과 동적 메모리 대입
   * 경우 1 - 파생 클래스가 new를 사용하지 않는다
   * 경우 2 - 파생 클래스가 new를 사용한다
   * 동적 메모리 대입과 프렌드를 사용하는 상속 예제
+    * [[]]
+    * [[]]
+    * [[]]
 
 * ### **13.8** 클래스 설계 복습
   * 컴파일러가 자동으로 생성하는 멤버 함수들
+    * 디폴트 생성자
+    * 복사 생성자
+    * 대입 연산자
   * 클래스 메서드에 관련된 그 밖의 고려 사항
+    * 생성자 관련 사항
+    * 파괴자 관련 사항
+    * 변환 관련 사항
+    * 값으로 전달과 참조로 리턴
+    * 객체 리턴과 참조 리턴
+    * const의 사용
   * public 상속에 관련된 그 밖의 고려 사항
+    * is-a 관계
+    * 상속되지 않는 것
+    * 대입 연산자 관련 사항
+    * private 멤버와 protected 멤버
+    * 가상 메서드
+    * 파괴자 관련 사항
+    * 프렌드 관련 사항
+    * 기초 클래스 메서드의 활용
   * 클래스 함수 요약
 
 ### [Listing 13 SUMMARY](https://github.com/tlsehddbs/CPP_Basic/blob/main/13/.SUMMARY13.md ".SUMMARY13.md")  
 ### [Listing 13 Programming Exercise](https://github.com/tlsehddbs/CPP_Basic/tree/main/13/PROGRAMMING%20EXERCISE)
 ___
 ## **14** C++ 코드의 재활용
+<details>
+<summary>학습목표</summary>
+<div markdown="1">
+● has - a 관계<br>
+● 객체 멤버를 가지는 클래스(컨테인먼트)<br>
+● valarray 템플릿 클래스<br>
+● private 상속과 protected 상속<br>
+● 다중 상속<br>
+● 가상 기초 템플릿<br>
+● 클래스 템플릿 만들기<br>
+● 클래스 템플릿 사용하기<br>
+● 템플릿 특수롸<br>
+</div>
+</details>
 
 * ### **14.1** 객체 멤버를 가지는 클래스
   * valarray 클래스 : 훑어보기
   * Student 클래스 설계
   * Student 클래스 예제
+    * [[]]()
+    * 내포된 객체의 초기화
+    * 내포된 객체의 인터페이스 사용
+      * [[]]()
+    * student 클래스 사용
+      * [[]]()
   
 * ### **14.2** private 상속
   * Student 클래스 예제(새 버전)
+    * 기초 클래스 성분의 초기화
+      * [[]]()
+    * 기초 클래스 메서드에 접근하기
+    * 기초 클래스 객체에 접근하기
+    * 기초 클래스 프렌드에 접근하기
+      * [[]])
+    * 개정된 Student 클래스 사용하기
+      * [[]]()
   * 컨테인먼트와 private 상속
   * protected 상속
+  * using을 사용하여 접근 다시 정의하기
   
 * ### **14.3** 다중 상속
+    * - [[]]()
+    * - [[]]()
+    * - [[]]()
   * 사원 수는 몇 명인가?
+    * 가상 기초 클래스
+    * 새로운 생성자 기초
   * 어느 메서드를 사용하는가?
+    * [[]]()
+    * [[]]()
+    * [[]]()
+    * 가상 기초 클래스와 가상이 아닌 기초 클래스의 혼합
+    * 가상 기초 클래스와 비교 우위
   * 다중 상속 요약
   
 * ### **14.4** 클래스 템플릿
   * 클래스 템플릿 정의
+    * [[]]()
   * 템플릿 클래스 사용
+    * [[]]()
   * 템플릿 클래스 자세히 들여다보기
+    * 포인터들의 스택을 잘못 사용하는 경우
+    * 포인터들의 스택을 바르게 사용하는 경우
+      * [[]]()
+      * [[]]()
+    * 프로그램 분석
   * 배열 템플릿 예제와 데이터형이 아닌 매개변수
+    * [[]]()
   * 템플릿의 융통성
+    * 템플릿의 재귀적 사용
+      * [[]]()
+    * 하나 이상의 데이터형 매개변수 사용
+      * [[]]
+    * 클래스 템플릿 디폴트 데이터형 매개변수
   * 템플릿 특수화
+    * 암시적 구체화
+    * 명시적 구체화
+    * 명시적 특수화
+    * 부분적인 특수화
+  * 멤버 템플릿
+    * [[]]()
   * 매개변수 템플릿
+    * [[]]()
   * 템플릿 클래스와 프렌드 함수
+    * 템플릿 클래스에 대합 템플릿이 아닌 프렌드 함수
+      * [[]]()
+    * 템플릿 클래스에 대한 바운드 템플릿 프렌드 함수
+      * [[]]()
+    * 템플릿 클래스에 대한 언바운드 템플릿 프렌드 함수
+      * [[]]()
   * 템플릿 별칭(C++11)
 
 ### [Listing 14 SUMMARY](https://github.com/tlsehddbs/CPP_Basic/blob/main/14/.SUMMARY14.md ".SUMMARY14.md")  
 ### [Listing 14 Programming Exercise](https://github.com/tlsehddbs/CPP_Basic/tree/main/14/PROGRAMMING%20EXERCISE)
 ___
 ## **15** 프렌드, 예외, 기타사항
+<details>
+<summary>학습목표</summary>
+<div markdown="1">
+● 프렌드 클래스<br>
+● 프렌드 클래스의 메서드<br>
+● 내포된 클래스<br>
+● 예외 처리, try 블록, catch 블록<br>
+● 예외 클래스<br>
+● RTTI(실행 시간 데이터형 정보)<br>
+● dynamic_cast와 typeid<br>
+● static_cast, const_cast, reinterpret_cast<br>
+</div>
+</details>
 
 * ### **15.1** 프렌드
   * 프렌드 클래스
+    * [[]]()
+    * [[]]()
+    * [[]]()
   * 프렌드 멤버 함수
+    * [[]]()
   * 그 밖에 프렌드 관계
   * 공유 프렌드
   
 * ### **15.2** 내포 클래스 
   * 내포 클래스와 접근
+    * 사용 범위
+    * 접근 제어
   * 템플릿에서의 내포
+    * [[]]()
+    * [[]]()
   
 * ### **15.3** 예외
   * abort() 호출
+    * [[]]()
   * 에러 코드 리턴
+    * [[]]()
+    * 프로그램 분석
   * 예외 메커니즘
+    * [[]]()
+    * 프로그램 분석
   * 예외로 객체 사용하기
+    * [[]]()
+    * [[]]()
   * C++11에서의 예외 규격
   * 스택 풀기
+    * [[]]()
+    * 프로그램 분석
   * 예외의 그 밖의 기능
   * exception 클래스
+    * stdexcept 예외 클래스
+    * bad_alloc 예외와 new
+      * [[]]()
+    * NULL 포인터와 new
   * 예외, 클래스, 상속
+    * [[]]()
+    * [[]]()
+    * [[]]()
   * 잘못된 예외
   * 예외 주의사할
   
 * ### **15.4** RTTI
   * RTTI의 목적
   * RTTI의 동작 방식
+    * [[]]()
+    * typeid 연산자와 typr_info 클래스
+      * [[]]()
   * RTTI의 오용
   
 * ### **15.5** 데이터형 변환 연산자
+  * - [[]]()
 
 ### [Listing 15 SUMMARY](https://github.com/tlsehddbs/CPP_Basic/blob/main/15/.SUMMARY15.md ".SUMMARY15.md")  
 ### [Listing 15 Programming Exercise](https://github.com/tlsehddbs/CPP_Basic/tree/main/15/PROGRAMMING%20EXERCISE)
 ___
 ## **16** string클래스와 표준 템플릿 라이브러리
+<details>
+<summary>학습목표</summary>
+<div markdown="1">
+● C++ 표준 string 클래스<br>
+● suto_ptr 템플릿, unique_ptr 템플릿, shared_ptr 템플릿<br>
+● 표준 템플릿 라이브러리(STL)<br>
+● 컨테이너 클래스<br>
+● 이터레이터(iterator)<br>
+● 함수 객체(functor)<br>
+● STL 알고리즘<br>
+● initializer_list 템플릿<br>
+</div>
+</details>
 
 * ### **16.1** string 클래스
-  * 문자열생성
+  * 문자열 생성
+    * [[]]()
+    * 프로그램 분석
+    * C++11 생성자들
   * string 클래스 입력
+    * [[]]()
   * 문자열 작업
+    * [[]]()
+    * 프로그램 분석
   * string 클래스가 제공하는 그 밖의 기능
+    * [[]]()
   * string 다양성
   
 * ### **16.2** 스마트 포인터 템플릿 클래스
   * 스마트 포인터의 사용
+    * [[]]()
   * 스마트 포인터 고려 사항
+    * [[]]()
   * auto_ptr보다 unique_ptr이 더 좋은 이유
   * 스마트 포인터 선택 
   
 * ### **16.3** 표준 템플릿 라이브러리
   * vector 템플릿 클래스
+    * [[]]()
   * vector에서 할 수 있는 것
+    * [[]]()
   * vector에서 할 수 있는 그 밖의 것
+    * [[]]()
   * Range에 기초한 루프(C++11)
 
 * ### **16.4** 일반화 프로그래밍
   * 이터레이터가 필요한 이유
   * 이터레이터의 종류
+    * 입력 이터레이터
+    * 출력 이터레이터
+    * 전방 이터레이터
+    * 전후방 이터레이터
+    * 임의 접근 이터레이터
   * 이터레이터 계층
   * 개념, 개량, 모델
-  * 컴테이너의 종류
+    * 이터레이터 자격의 포인터
+    * copy(), ostream_iterator, istream_iterator
+    * 기타 유용한 이터레이터들
+      * [[]]()
+      * [[]]()
+  * 컨테이너의 종류
+    * 컨테이너 개념
+    * C++11의 컨테이너 요구 조건에 대한 추가 사항
+    * 시퀀스
+    * vector
+    * deque
+    * list
+      * [[]]()
+    * 프로그램 분석
+    * list 도구상자
+    * forward_list(C++11)
+    * queue
+    * priority_queue
+    * stack
+    * array 템플릿(C++11)
   * 결합 컨테이너
-  * 순서가 부여되지 않은 결합
-  * 컨테이너(C++11)
+    * set 예제
+      * [[]]()
+    * multimap 예제
+      * [[]]()
+  * 순서가 부여되지 않은 결합 컨테이너(C++11)
 
 * ### **16.5** 함수 객체(Functor)
   * 펑크터 개념
+    * [[]]()
   * 미리 정의된 펑크터
   * 어댑터블 펑크터와 함수 어댑터
+    * [[]]()
 
 * ### **16.6** 알고리즘
   * 알고리즘 그룹
   * 알고리즘의 일반적인 특성
   * STL과 string 클래스
+    * [[]]()
   * 함수와 컨테이너 메서드
+    * [[]]()
   * STL 사용하기
+    * [[]]()
   
 * ### **16.7** 기타 라이브러리
   * vector와 valarray, 그리고 array
+    * [[]]()
+    * [[]]()
   * initializer_list 템플릿(C++11)
   * initializer_list 사용
+    * [[]]()
   * 프로그램 분석
 
 ### [Listing 16 SUMMARY](https://github.com/tlsehddbs/CPP_Basic/blob/main/16/.SUMMARY16.md ".SUMMARY16.md")  
 ### [Listing 16 Programming Exercise](https://github.com/tlsehddbs/CPP_Basic/tree/main/16/PROGRAMMING%20EXERCISE)
 ___
 ## **17** 입력, 출력, 파일
+<details>
+<summary>학습목표</summary>
+<div markdown="1">
+● C++에서의 입출력<br>
+● iostream 계열의 클래스<br>
+● 리디렉션<br>
+● ostream 클래스 메서드<br>
+● 출력 형식 지정<br>
+● istream 클래스 메서드<br>
+● 스트림의 상태<br>
+● 파일 입출력<br>
+● 파일로부터 입력을 받는 ifstream 클래스<br>
+● 파일에 출력하는 ofstream 클래스<br>
+● 파일 입출력을 위한 fstream클래스<br>
+● 명령행 처리<br>
+● 2진 파일<br>
+● 파일 임의 접근<br>
+● 인코어 형식 지정<br>
+</div>
+</details>
 
 * ### **17.1** C++ 입출력의 개요
   * 스트림과 버퍼
@@ -1056,49 +1348,119 @@ ___
 
 * ### **17.2** cout을 이용한 출력
   * 오버로딩된 << 연산자
+    * 출력과 포인터
+    * 연이어 출력하기
   * 그 밖의 ostream 메서드들
+    * [[]]()
   * 출력 버퍼 비우기
   * cout을 이용한 출력 형식 지정
+    * [[]]()
+    * 화면 출력을 위한 진법 변경
+      * [[]]()
+    * 필드 폭 조정
+      * [[]]()
+    * 채움 문자
+      * [[]]()
+    * 부동 소수점수의 출력 정밀도 설정
+      * [[]]()
+    * 뒤에 붙는 0과 소수점 출력
+      * [[]]()
+    * setf()에 대한 보충
+      * [[]]()
+      * [[]]()
+    * 표준 조정자
+    * iomanip 헤더 파일
+      * [[]]()
 
 * ### **17.3** cin을 이용한 입력
   * cin >>은 입력을 어떻게 보는가?
+    * [[]]()
   * 스트림 상태
+    * 상태 설정
+    * 입출력과 예외
+      * [[]]()
+    * 스트림 상태 효과
   * 그 밖에 istream 클래스 메서드들
+    * 단일 문자 입력
+    * get(char &)멤버 함수
+    * getchar () 멤버 함수
+    * 어떤 단일 분자 입력을 사용할 것인가?
+    * 문자열 입력 : getline(), get(), ignore()
+      * [[]]()
+    * 기대하지 않는 문자열의 입력
   * 그 밖의 istream 메서드
+      * [[]]()
+    * 프로그램 분석
+      * [[]]()
 
 * ### **17.4** 파일 입력과 출력
   * 간단한 파일 입출력
+    * [[]]()
   * 스트림 검사와 is_open()
   * 여러 개의 파일 열기
   * 명령행 처리
+    * [[]]()
   * 파일 모드
+    * 파일에 덫붙이기
+      * [[]]()
+    * 2진 파일
+      * [[]]()
   * 임의 접근
+    * [[]]()
 
 * ### **17.5** 인코어 형식의 지정
+    * - [[]]()
+    * - [[]]()
 
 ### [Listing 17 SUMMARY](https://github.com/tlsehddbs/CPP_Basic/blob/main/17/.SUMMARY17.md ".SUMMARY17.md")  
 ### [Listing 17 Programming Exercise](https://github.com/tlsehddbs/CPP_Basic/tree/main/17/PROGRAMMING%20EXERCISE)
 ___
 ## **18** 새로운 C++ 표준과의 만남
+<details>
+<summary>학습목표</summary>
+<div markdown="1">
+● Move semantics rvalue 참조<br>
+● 람다 표현식<br>
+● 래퍼 함수 템플릿<br>
+● 다양한 템플릿<br>
+</div>
+</details>
 
 * ### **18.1** C++11 특징 재고
   * 새로운 타입
   * 균일화된 초기화
+    * 형 변환
+    * std::initializer_list
   * 선언
+    * auto
+    * decltype
+    * 변환 타입 추적
+    * 템플릿 별칭 : using =
   * nullptr
   * 스마트 포인터
-  * 예외 지정(Exception Specification)
+  * 예외 지정(Exception Specification) 변화
   * 범위가 지정된 열거체
   * 클래스 변화
+    * explicit 변환 연산자
+    * 클래스 내 멤버 초기화
   * 템플릿과 STL 변화
+    * 범위 기반 반복문
+    * 새로운 STL 컨테이너
+    * 새로운 STL 함수
+    * valarray 업그레이드
+    * export 사라지다
+    * 꺽쇠 괄호
   * rvalue 참조
+    * [[]]()
 
 * ### **18.2** Move Semantics과 Rvalue 참조
   * Movw Semantics의 필요성
   * 이동 예제
+    * [[]]()
   * 이동 생성자 분석
   * 대입
   * 강제 이동
+    * [[]]()
   
 * ### **18.3** 새로운 클래스 형태
   * 특별한 멤버 함수들
@@ -1109,17 +1471,26 @@ ___
 
 * ### **18.4** 람다 함수들
   * 함수 포인터, 펑크터 그리고 함다 사용법
+    * [[]]()
   * 왜 람다인가
+    * [[]]()
 
 * ### **18.5** 래퍼(Wrapper)
   * 함수 래퍼와 템플릿 비효율성
+    * [[]]()
+    * [[]]()
   * 문제 해결
+    * [[]]()
   * 더 많은 옵션
 
 * ### **18.6** 가변인자 템플릿
   * 템플릿과 함수 매개변수 팩
   * 언패킹 팩
   * 가변인자 템플릿 함수에서 재귀 사용
+    * [[]]()
+    * 프로그램 노트
+    * 개선 사항
+      * [[]]()
 
 * ### **18.7** C++11 더 많은 기능들
   * 다중 프로그래밍
@@ -1131,6 +1502,7 @@ ___
   * Boost 프로젝트
   * TR1
   * Boost 사용
+    * [[]]()
 
 * ### **18.9** 이제 어떻게 할 것인가
 
