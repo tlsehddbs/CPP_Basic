@@ -809,8 +809,8 @@ ___
 
 * ### **11.2** 잠깐의 휴식 : 연산자 오버로딩 예제 
     - [[mytime0.h]](https://github.com/tlsehddbs/CPP_Basic/blob/main/11/01mytime0.h "Listing 11.1") 
-    - [[mytime0.cpp]](https://github.com/tlsehddbs/CPP_Basic/blob/main/11/02mytime0.cpp "Listing 11.4") 
-    - [[usetime0.cpp]](https://github.com/tlsehddbs/CPP_Basic/blob/main/11/03usetime0.cpp "Listing 11.5")
+    - [[mytime0.cpp]](https://github.com/tlsehddbs/CPP_Basic/blob/main/11/02mytime0.cpp "Listing 11.2") 
+    - [[usetime0.cpp]](https://github.com/tlsehddbs/CPP_Basic/blob/main/11/03usetime0.cpp "Listing 11.3")
   * 덧셈 연산자의 추가 
     * [[mytime1.h]](https://github.com/tlsehddbs/CPP_Basic/blob/main/11/04mytime1.h "Listing 11.4") 
     * [[mytime1.cpp]](https://github.com/tlsehddbs/CPP_Basic/blob/main/11/05mytime1.cpp "Listing 11.5") 
@@ -845,14 +845,14 @@ ___
   * 프로그램 분석
   
 * ### **11.6** 자동 변환과 클래스의 데이터형 변환
-    - [[]]() 
-    - [[]]()
-    - [[]]()
+    - [[stonewt.h]](https://github.com/tlsehddbs/CPP_Basic/blob/main/11/16stonewt.h "Listing 11.16") 
+    - [[stonewt.cpp]](https://github.com/tlsehddbs/CPP_Basic/blob/main/11/17stonewt.cpp "Listing 11.17")
+    - [[stone.cpp]](https://github.com/tlsehddbs/CPP_Basic/blob/main/11/18stone.cpp "Listing 11.18")
   * 프로그램 분석
   * 변환 함수
-    - [[]]()
-    - [[]]()
-    - [[]]()
+    - [[stonewt1.h]](https://github.com/tlsehddbs/CPP_Basic/blob/main/11/19stonewt1.h "Listing 11.19")
+    - [[stonewt1.cpp]](https://github.com/tlsehddbs/CPP_Basic/blob/main/11/20stonewt1.cpp "Listing 11.20")
+    - [[stone1.cpp]](https://github.com/tlsehddbs/CPP_Basic/blob/main/11/21stone1.cpp "Listing 11.21")
     * 데이터형 변환의 자동 적용
   * 변환과 프렌드
     * 덧셈 구현의 선택
