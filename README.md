@@ -878,16 +878,19 @@ ___
 
 * ### **12.1** 동적 메모리와 클래스
   * 복습을 위한 예제와 static 클래스 멤버
-      * [[]]()
-      * [[]]()
-      * [[]]()
+      * [[strngbad.h]](https://github.com/tlsehddbs/CPP_Basic/blob/main/12/01strngbad.h "Listing 12.1")
+      * [[strngbad.cpp]](https://github.com/tlsehddbs/CPP_Basic/blob/main/12/02strngbad.cpp "Listing 12.2")
+      * [[vegnews.cpp]](https://github.com/tlsehddbs/CPP_Basic/blob/main/12/03vegnews.cpp "Listing 12.3")
     * 프로그램 분석
   * 특별 멤버 함수 
     * 디폴트 생성자
     * 복사 생성자
+    * 복사 생성자는 언제 사용되는가?
+    * 복사 생성자는 무슨 일을 하는가?
   * Stringbad로 회귀 : 복사 생성자에서 어디가 잘못되었나
     * 명시적 복사 생성자로 이 문제를 해결하자
   * 기타 Stringbad 문제점 : 대입 연산자
+    * 대입 연산자는 언제 사용되고 무슨 일을 하는가?
     * 대입에서 어디가 잘못되었나
     * 대입에서 발생하는 문제의 해결책
   
@@ -938,6 +941,7 @@ ___
 
 ### [Listing 12 SUMMARY](https://github.com/tlsehddbs/CPP_Basic/blob/main/12/.SUMMARY12.md ".SUMMARY12.md")  
 ### [Listing 12 Programming Exercise](https://github.com/tlsehddbs/CPP_Basic/tree/main/12/PROGRAMMING%20EXERCISE)
+### [Compatibility](https://github.com/tlsehddbs/CPP_Basic/blob/main/12/Compatibility(Listing12).md "Compatibility(Listing12.md") | [Note](https://github.com/tlsehddbs/CPP_Basic/blob/main/12/Note(Listing12).md "Note(Listing12).md") | [Tip](https://github.com/tlsehddbs/CPP_Basic/blob/main/12/Tip(Listing12).md "Tip(Listing12).md")
 ___
 ## **13** 클래스의 상속
 <details>
