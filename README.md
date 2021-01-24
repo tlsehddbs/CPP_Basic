@@ -900,9 +900,9 @@ ___
   * [] 표기를 사용하여 개별 문자에 접근하기
   * static 클래스 오버로딩에 대한 보충
   * 대입 연산자 오버로딩에 대한 보충
-      * [[]]()
-      * [[]]()
-      * [[]]()
+      * [[string1.h]](https://github.com/tlsehddbs/CPP_Basic/blob/main/12/04string1.h "Listing 12.4")
+      * [[string1.cpp]](https://github.com/tlsehddbs/CPP_Basic/blob/main/12/05string1.cpp "Listing 12.5")
+      * [[sayings1.cpp]](https://github.com/tlsehddbs/CPP_Basic/blob/main/12/06sayings1.cpp "Listing 12.6")
   
 * ### **12.3** 생성자에 new를 사용할 때 주의할 사항
   * 사용하지 말아야 할 것과 사용해도 좋은 것
