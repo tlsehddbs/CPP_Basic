@@ -13,3 +13,13 @@ ___
 ## 832p) NULL과 0, nullptr
 > ```널 포인터```는 ```0 또는 NULL```로 나타낼 수 있다. NULL은 여러 개의 헤더 파일에 0으로 정의되어 있는 기호 상수이다. C 프로그래머들은 흔히 그 값이 포인터 값이라는 사실을 잊지 않지 위해 0 대신 NULL을 사용한다. 그들은 또 널 문자를 나타낼 때에도 0 대신 '\0'을 사용한다. 이 역시 그 값이 문자라는 사실을 잊지 않기 위해서이다. 그러나 C++ 프로그래머들은 NULL 대신에 보다 간단한 0을 사용하는 것을 더 좋아하는 것처럼 보인다. 그리고 앞서 언급한 바와 같이, C++11은 ```'nullptr'키워드```를 대안으로 제시하고 있다.
 ___
+## 842p) new에 의한 객체 초기화
+> 일반적으로, *Class_name*이 클래스 이름이고 *value*가 *Type_name*형의 값이면, 다음과 같은 구문은
+> <pre><code><i>Class_name</i> * <i>pclass = new Class_name</i>(<i>value</i>)</i>;</code></pre>
+> 다음과 같은 생성자를 호출한다.
+> <pre><code><i>Class_name</i>(<i>Type_name</i>)</i>;</code></pre>
+> 다음과 같은 사소한 변환도 이루어질 수 있다.
+> <pre><code><i>Class_name</i>(const <i>Type_name</i> &);</code></pre>
+> 또한, int를 double로 변환하는 것과 같은, 원형 일치에 의해 호출되는 변환은 모호성이 없는 한 이루어질 것이다. 다음과 같은 형식의 초기화는 디폴트 생성자를 호출한다.
+> <pre><code><i>Class_name</i> * ptr = new <i>Class_name</i>;</code></pre>
+___
