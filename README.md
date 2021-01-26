@@ -915,17 +915,17 @@ ___
   * const 객체 리턴
   
 * ### **12.5** 객체를 지시하는 포인터
-    * - [[]]()
+    * - [[sayings2.cpp]](https://github.com/tlsehddbs/CPP_Basic/blob/main/12/07sayings2.cpp "Listing 12.7")
   * new와 delete 복습
   * 포인터와 객체에 대한 요약
   * 위치 지정 new 다시 살펴보기
-    * [[]]()
-    * [[]]()
+    * [[placenew1.cpp]](https://github.com/tlsehddbs/CPP_Basic/blob/main/12/08placenew1.cpp "Listing 12.8")
+    * [[placenew2.cpp]](https://github.com/tlsehddbs/CPP_Basic/blob/main/12/09placenew2.cpp "Listing 12.9")
   
 * ### **12.6** 테크닉의 복습
   * << 연산자의 오버로딩
   * 변환 함수들
-  * 생성자가 enw를 사용하는 클래스
+  * 생성자가 new를 사용하는 클래스
   
 * ### **12.7** 큐 시뮬레이션
   * Queue 클래스
