@@ -92,20 +92,20 @@ bool operator<(const String & st1, const String & st2)
 
 bool operator>(const String & st1, const String & st2)
 {
-    return st1.str > st2.str;
+    return st2 < st1;
 }
 
 bool operator==(const String & st1, const String & st2)
 {
     return (std::strcmp(st1.str, st2.str) == 0);
 }
-
+// 간단한 문자열 입력 (? 정오표에 추가하라는 지시가 있음)
 ostream & operator<<(ostream & os, const String & st)
 {
     os << st.str;
     return os;
 }
-
+// 빠르고 지저분한 문자열 입력 (? 정오표에 추가하라는 지시가 있음)
 istream & operator>>(istream & is, String & st)
 {
     char temp[String::CINLIM];
