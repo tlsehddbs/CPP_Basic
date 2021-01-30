@@ -961,28 +961,28 @@ ___
 </details>
 
 * ### **13.1** 간단한 기초 클래스로부터 시작하자
-    * * [[tabtenn0.h]](https://github.com/tlsehddbs/CPP_Basic/blob/main/13/01tabtenn0.h "Listing 12.1")
-    * * [[tabtenn0.cpp]](https://github.com/tlsehddbs/CPP_Basic/blob/main/13/02tabtenn0.cpp "Listing 12.2")
-    * * [[usett0.cpp]](https://github.com/tlsehddbs/CPP_Basic/blob/main/13/03usett0.cpp "Listing 12.3")
+    * * [[tabtenn0.h]](https://github.com/tlsehddbs/CPP_Basic/blob/main/13/01tabtenn0.h "Listing 13.1")
+    * * [[tabtenn0.cpp]](https://github.com/tlsehddbs/CPP_Basic/blob/main/13/02tabtenn0.cpp "Listing 13.2")
+    * * [[usett0.cpp]](https://github.com/tlsehddbs/CPP_Basic/blob/main/13/03usett0.cpp "Listing 13.3")
   * 클래스 파생시키기
   * 생성자 : 접근에 대하여
   * 파생 클래스 사용하기
-    * [[tabtenn1.h]](https://github.com/tlsehddbs/CPP_Basic/blob/main/13/04tabtenn1.h "Listing 12.4")
-    * [[tabtenn1.cpp]](https://github.com/tlsehddbs/CPP_Basic/blob/main/13/05tabtenn1.cpp "Listing 12.5")
-    * [[usett1.cpp]](https://github.com/tlsehddbs/CPP_Basic/blob/main/13/06usett1.cpp "Listing 12.6")
+    * [[tabtenn1.h]](https://github.com/tlsehddbs/CPP_Basic/blob/main/13/04tabtenn1.h "Listing 13.4")
+    * [[tabtenn1.cpp]](https://github.com/tlsehddbs/CPP_Basic/blob/main/13/05tabtenn1.cpp "Listing 13.5")
+    * [[usett1.cpp]](https://github.com/tlsehddbs/CPP_Basic/blob/main/13/06usett1.cpp "Listing 13.6")
   * 파생 클래스와 기초 클래스의 특별한 관계
   
 * ### **13.2** 상속 : is-a 관계
 
 * ### **13.3** public 다형 상속
   * Brass와 BrassPlus 클래스의 개발
-    * [[brass.h]](https://github.com/tlsehddbs/CPP_Basic/blob/main/13/07brass.h "Listing 12.7")
+    * [[brass.h]](https://github.com/tlsehddbs/CPP_Basic/blob/main/13/07brass.h "Listing 13.7")
     * 클래스의 구현
-      * [[brass.cpp]](https://github.com/tlsehddbs/CPP_Basic/blob/main/13/08brass.cpp "Listing 12.8")
+      * [[brass.cpp]](https://github.com/tlsehddbs/CPP_Basic/blob/main/13/08brass.cpp "Listing 13.8")
     * Brass와 BrassPlus 클래스의 사용
-      * [[usebrass1.cpp]](https://github.com/tlsehddbs/CPP_Basic/blob/main/13/09usebrass1.cpp "Listing 12.9")
+      * [[usebrass1.cpp]](https://github.com/tlsehddbs/CPP_Basic/blob/main/13/09usebrass1.cpp "Listing 13.9")
     * 가상 메서드의 행동
-      * [[usebrass2.cpp]](https://github.com/tlsehddbs/CPP_Basic/blob/main/13/10usebrass2.cpp "Listing 12.10")
+      * [[usebrass2.cpp]](https://github.com/tlsehddbs/CPP_Basic/blob/main/13/10usebrass2.cpp "Listing 13.10")
     * 가상 파괴자는 왜 필요할까?
   
 * ### **13.4** 정적 결합과 동적 결합
