@@ -989,7 +989,7 @@ ___
   * 포인터와 참조형의 호환
   * 가상 멤버 함수와 동적 결합
     * 왜 두 종류의 결합이 필요한가? 왜 정적 결합이 디폴트인가?
-    * 가상 함수는 어떨게 동작하는가?
+    * 가상 함수는 어떻게 동작하는가?
   * 가상 메서드에 대해 알아야 할 사항
     * 생성자
     * 파괴자
@@ -1001,9 +1001,9 @@ ___
   
 * ### **13.6** 추상화 기초 클래스
   * ABC 개념의 적용
-    * [[]]()
-    * [[]]()
-    * [[]]()
+    * [[acctabc.h]](https://github.com/tlsehddbs/CPP_Basic/blob/main/13/11acctabc.h "Listing 13.11")
+    * [[acctabc.cpp]](https://github.com/tlsehddbs/CPP_Basic/blob/main/13/12acctabc.cpp "Listing 13.12")
+    * [[usebrass3.cpp]](https://github.com/tlsehddbs/CPP_Basic/blob/main/13/13usebrass3.cpp "Listing 13.13")
   * ABC 철학
   
 * ### **13.7** 상속과 동적 메모리 대입
