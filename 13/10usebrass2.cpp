@@ -3,7 +3,7 @@
 #include <iostream>
 #include <string>
 #include "07brass.h"
-const int CLIMITS = 4;
+const int CLIENTS = 4;
 
 int main()
 {
@@ -11,13 +11,13 @@ int main()
     using std::cout;
     using std::endl;
 
-    Brass * p_climits[CLIMITS];
+    Brass * p_climits[CLIENTS];
     std::string temp;
     long tempnum;
     double tempbal;
     char kind;
 
-    for (int i = 0; i < CLIMITS; i++)
+    for (int i = 0; i < CLIENTS; i++)
     {
         cout << "고객의 이름을 입력하십시오 : ";
         getline(cin, temp);
@@ -27,7 +27,7 @@ int main()
         cin >> tempbal;
         cout << "Brass 계좌는 1, "
              << "BrassPlus 계좌는 2를 입력하십시오 : ";
-        while (cin >> kind && (kind != '1' && kind !='2'))
+        while (cin >> kind && (kind != '1' && kind != '2'))
             cout << "1 아니면 2, 둘 중 하나를 입력하십시오 : ";
         if (kind == '1')
             p_climits[i] = new Brass(temp, tempnum, tempbal);
@@ -45,13 +45,13 @@ int main()
             continue;
     }
     cout << endl;
-    for (int i = 0; i < CLIMITS; i++)
+    for (int i = 0; i < CLIENTS; i++)
     {
         p_climits[i]->ViewAcct();
         cout << endl;
     }
 
-    for (int i = 0; i < CLIMITS; i++)
+    for (int i = 0; i < CLIENTS; i++)
     {
         delete p_climits[i];            // 메모리를 해제한다
     }
