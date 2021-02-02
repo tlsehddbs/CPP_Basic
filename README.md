@@ -1010,9 +1010,9 @@ ___
   * 경우 1 - 파생 클래스가 new를 사용하지 않는다
   * 경우 2 - 파생 클래스가 new를 사용한다
   * 동적 메모리 대입과 프렌드를 사용하는 상속 예제
-    * [[]]()
-    * [[]]()
-    * [[]]()
+    * [[dma.h]](https://github.com/tlsehddbs/CPP_Basic/blob/main/13/14dma.h "Listing 13.14")
+    * [[dma.cpp]](https://github.com/tlsehddbs/CPP_Basic/blob/main/13/15dma.cpp "Listing 13.15")
+    * [[usedma.cpp]](https://github.com/tlsehddbs/CPP_Basic/blob/main/13/16usedma.cpp "Listing 13.16")
 
 * ### **13.8** 클래스 설계 복습
   * 컴파일러가 자동으로 생성하는 멤버 함수들
