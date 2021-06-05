@@ -1,788 +1,788 @@
 
 # **CPP_Basic**
-[![¼º¾È´ç C++ ±âÃÊ ÇÃ·¯½º 6ÆÇ](https://image.yes24.com/goods/58183878/800x0)](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9788931555356&orderClick=LAG&Kc= "¼º¾È´ç C++ ±âÃÊ ÇÃ·¯½º 6ÆÇ")  
-[¼º¾È´ç](https://www.cyber.co.kr/shop/main/index.php) [C++ ±âÃÊ ÇÃ·¯½º 6ÆÇ](https://www.cyber.co.kr/shop/goods/goods_view.php?goodsno=5888&category=020030060)
+[![ì„±ì•ˆë‹¹ C++ ê¸°ì´ˆ í”ŒëŸ¬ìŠ¤ 6íŒ](https://image.yes24.com/goods/58183878/800x0)](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9788931555356&orderClick=LAG&Kc= "ì„±ì•ˆë‹¹ C++ ê¸°ì´ˆ í”ŒëŸ¬ìŠ¤ 6íŒ")  
+[ì„±ì•ˆë‹¹](https://www.cyber.co.kr/shop/main/index.php) [C++ ê¸°ì´ˆ í”ŒëŸ¬ìŠ¤ 6íŒ](https://www.cyber.co.kr/shop/goods/goods_view.php?goodsno=5888&category=020030060)
 
-**C++ ±âÃÊ ÇÃ·¯½º 6ÆÇ ¼Ò½ºÄÚµå, ÇÁ·Î±×·¡¹Ö ¿¬½À¹®Á¦ Ç®ÀÌ** <br><br>
+**C++ ê¸°ì´ˆ í”ŒëŸ¬ìŠ¤ 6íŒ ì†ŒìŠ¤ì½”ë“œ, í”„ë¡œê·¸ë˜ë° ì—°ìŠµë¬¸ì œ í’€ì´** <br><br>
 
-## **01** C++ Ã¹°ÉÀ½ 
+## **01** C++ ì²«ê±¸ìŒ 
 <details>
-<summary>ÇĞ½À¸ñÇ¥</summary>
+<summary>í•™ìŠµëª©í‘œ</summary>
 <div markdown="1">
-¡Ü C¿Í C++ ¾ğ¾îÀÇ ¿ª»ç¿Í Ã¶ÇĞ<br>
-¡Ü C++°¡ C ¾ğ¾î¿¡ Ãß°¡ÇÑ ÀÏ¹İÈ­ ÇÁ·Î±×·¡¹Ö °³³ä<br>
-¡Ü ÀıÂ÷Àû ÇÁ·Î±×·¡¹Ö°ú °´Ã¼ ÁöÇâ ÇÁ·Î±×·¡¹Ö<br>
-¡Ü ÇÁ·Î±×·¡¹Ö ¾ğ¾îÀÇ Ç¥ÁØ<br>
-¡Ü C++°¡ C ¾ğ¾î¿¡ Ãß°¡ÇÑ °´Ã¼ ÁöÇâ °³³ä<br>
-¡Ü ÇÁ·Î±×·¥ ÀÛ¼º ¿ä·É<br>
+â— Cì™€ C++ ì–¸ì–´ì˜ ì—­ì‚¬ì™€ ì² í•™<br>
+â— C++ê°€ C ì–¸ì–´ì— ì¶”ê°€í•œ ì¼ë°˜í™” í”„ë¡œê·¸ë˜ë° ê°œë…<br>
+â— ì ˆì°¨ì  í”„ë¡œê·¸ë˜ë°ê³¼ ê°ì²´ ì§€í–¥ í”„ë¡œê·¸ë˜ë°<br>
+â— í”„ë¡œê·¸ë˜ë° ì–¸ì–´ì˜ í‘œì¤€<br>
+â— C++ê°€ C ì–¸ì–´ì— ì¶”ê°€í•œ ê°ì²´ ì§€í–¥ ê°œë…<br>
+â— í”„ë¡œê·¸ë¨ ì‘ì„± ìš”ë ¹<br>
 </div>
 </details>
 
-* ### **01.1** C++¸¦ ¹è¿ìÀÚ : ¾ÕÀ¸·Î ¹è¿ì°Ô µÉ ³»¿ë¿¡ ´ëÇÏ¿©
+* ### **01.1** C++ë¥¼ ë°°ìš°ì : ì•ìœ¼ë¡œ ë°°ìš°ê²Œ ë  ë‚´ìš©ì— ëŒ€í•˜ì—¬
 
-* ### **01.2** C++ÀÇ Åº»ı : °£·«ÇÑ ¿ª»ç
-  * C¾ğ¾î
-  * CÀÇ ÇÁ·Î±×·¡¹Ö Ã¶ÇĞ
-  * C++ÀÇ µîÀå : °´Ã¼ ÁöÇâ ÇÁ·Î±×·¡¹Ö
-  * C++¿Í ÀÏ¹İÈ­ ÇÁ·Î±×·¡¹Ö
-  * C++ÀÇ ±â¿ø
+* ### **01.2** C++ì˜ íƒ„ìƒ : ê°„ëµí•œ ì—­ì‚¬
+  * Cì–¸ì–´
+  * Cì˜ í”„ë¡œê·¸ë˜ë° ì² í•™
+  * C++ì˜ ë“±ì¥ : ê°ì²´ ì§€í–¥ í”„ë¡œê·¸ë˜ë°
+  * C++ì™€ ì¼ë°˜í™” í”„ë¡œê·¸ë˜ë°
+  * C++ì˜ ê¸°ì›
 
-* ### **01.3** ÀÌ½Ä¼º°ú Ç¥ÁØ
-  * ¾ğ¾îÀÇ ¼ºÀå
-  * ÀÌ Ã¥°ú C++ Ç¥ÁØ
+* ### **01.3** ì´ì‹ì„±ê³¼ í‘œì¤€
+  * ì–¸ì–´ì˜ ì„±ì¥
+  * ì´ ì±…ê³¼ C++ í‘œì¤€
 
-* ### **01.4** ÇÁ·Î±×·¥ ÀÛ¼º ¿ä·É
-  * ¼Ò½º ÄÚµå ÆÄÀÏ ÀÛ¼º
-  * ÄÄÆÄÀÏ°ú ¸µÅ©
-    * Unix¿¡¼­ÀÇ ÄÄÆÄÀÏ°ú ¸µÅ©
-    * Linux¿¡¼­ÀÇ ÄÄÆÄÀÏ°ú ¸µÅ©
-    * Windows Ä¿¸Çµå ¶óÀÎ ¸ğµå¸¦ À§ÇÑ ÄÄÆÄÀÏ·¯
-    * Windows ÄÄÆÄÀÏ·¯
-    * ¸ÅÅ²Åä½Ã ÄÄÆÄÀÏ·¯
+* ### **01.4** í”„ë¡œê·¸ë¨ ì‘ì„± ìš”ë ¹
+  * ì†ŒìŠ¤ ì½”ë“œ íŒŒì¼ ì‘ì„±
+  * ì»´íŒŒì¼ê³¼ ë§í¬
+    * Unixì—ì„œì˜ ì»´íŒŒì¼ê³¼ ë§í¬
+    * Linuxì—ì„œì˜ ì»´íŒŒì¼ê³¼ ë§í¬
+    * Windows ì»¤ë§¨ë“œ ë¼ì¸ ëª¨ë“œë¥¼ ìœ„í•œ ì»´íŒŒì¼ëŸ¬
+    * Windows ì»´íŒŒì¼ëŸ¬
+    * ë§¤í‚¨í† ì‹œ ì»´íŒŒì¼ëŸ¬
   
 ### [Listing 1 SUMMARY](https://github.com/tlsehddbs/CPP_Basic/blob/main/01/.SUMMARY1.md ".SUMMARY1.md")
 ___
-## **02** C++ ½ÃÀÛÇÏ±â
+## **02** C++ ì‹œì‘í•˜ê¸°
 <details>
-<summary>ÇĞ½À¸ñÇ¥</summary>
+<summary>í•™ìŠµëª©í‘œ</summary>
 <div markdown="1">
-¡Ü C++ ÇÁ·Î±×·¥ ÀÛ¼º¹ı<br>
-¡Ü c++ ÇÁ·Î±×·¥ÀÇ ÀÏ¹İÀûÀÎ Çü½Ä<br>
-¡Ü #include ÀüÃ³¸® Áö½ÃÀÚ<br>
-¡Ü main() ÇÔ¼ö<br>
-¡Ü cout °´Ã¼¸¦ »ç¿ëÇÑ Ãâ·Â<br>
-¡Ü C++ ÇÁ·Î±×·¥¿¡ ÁÖ¼®¹® ´Ş±â<br>
-¡Ü endlÀÇ »ç¿ëÇÏ´Â ½ÃÁ¡°ú ¹æ¹ı<br>
-¡Ü º¯¼öÀÇ ¼±¾ğ°ú »ç¿ë<br>
-¡Ü cin °´Ã¼¸¦ »ç¿ëÇÑ ÀÔ·Â<br>
-¡Ü °£´ÜÇÑ ÇÔ¼öÀÇ Á¤ÀÇ¿Í »ç¿ë<br>
+â— C++ í”„ë¡œê·¸ë¨ ì‘ì„±ë²•<br>
+â— c++ í”„ë¡œê·¸ë¨ì˜ ì¼ë°˜ì ì¸ í˜•ì‹<br>
+â— #include ì „ì²˜ë¦¬ ì§€ì‹œì<br>
+â— main() í•¨ìˆ˜<br>
+â— cout ê°ì²´ë¥¼ ì‚¬ìš©í•œ ì¶œë ¥<br>
+â— C++ í”„ë¡œê·¸ë¨ì— ì£¼ì„ë¬¸ ë‹¬ê¸°<br>
+â— endlì˜ ì‚¬ìš©í•˜ëŠ” ì‹œì ê³¼ ë°©ë²•<br>
+â— ë³€ìˆ˜ì˜ ì„ ì–¸ê³¼ ì‚¬ìš©<br>
+â— cin ê°ì²´ë¥¼ ì‚¬ìš©í•œ ì…ë ¥<br>
+â— ê°„ë‹¨í•œ í•¨ìˆ˜ì˜ ì •ì˜ì™€ ì‚¬ìš©<br>
 </div>
 </details>
 
-* ### **02.1** C++ÀÇ ½ÃÀÛ 
+* ### **02.1** C++ì˜ ì‹œì‘ 
   * - [[myfirst.cpp]](https://github.com/tlsehddbs/CPP_Basic/blob/main/02/01myfirst.cpp "Listing 2.1")
-  * main() ÇÔ¼ö
-    * ÀÎÅÍÆäÀÌ½º ¿ªÇÒÀ» ÇÏ´Â ÇÔ¼ö ¸Ó¸®
-    * ÀÌ¸§ÀÌ ¹İµå½Ã main()ÀÌ¾î¾ß ÇÏ´Â ÀÌÀ¯
-  * C++ ÁÖ¼®¹®
-  * C++ ÀüÃ³¸®±â¿Í iostreamÆÄÀÏ
-  * Çì´õ ÆÄÀÏ ÀÌ¸§
-  * ÀÌ¸§ °ø°£
-  * coutÀ» ÀÌ¿ëÇÑ C++ÀÇ Ãâ·Â
-    * Á¶Á¤ÀÚ endl
-    * °³Çà ¹®ÀÚ(\n)
-  * C++ ¼Ò½º ÄÚµåÀÇ ¸ğ¾ç
-    * ÅäÅ«°ú È­ÀÌÆ®½ºÆäÀÌ½º
-    * C++ ¼Ò½º ÄÚµå ½ºÅ¸ÀÏ
+  * main() í•¨ìˆ˜
+    * ì¸í„°í˜ì´ìŠ¤ ì—­í• ì„ í•˜ëŠ” í•¨ìˆ˜ ë¨¸ë¦¬
+    * ì´ë¦„ì´ ë°˜ë“œì‹œ main()ì´ì–´ì•¼ í•˜ëŠ” ì´ìœ 
+  * C++ ì£¼ì„ë¬¸
+  * C++ ì „ì²˜ë¦¬ê¸°ì™€ iostreamíŒŒì¼
+  * í—¤ë” íŒŒì¼ ì´ë¦„
+  * ì´ë¦„ ê³µê°„
+  * coutì„ ì´ìš©í•œ C++ì˜ ì¶œë ¥
+    * ì¡°ì •ì endl
+    * ê°œí–‰ ë¬¸ì(\n)
+  * C++ ì†ŒìŠ¤ ì½”ë“œì˜ ëª¨ì–‘
+    * í† í°ê³¼ í™”ì´íŠ¸ìŠ¤í˜ì´ìŠ¤
+    * C++ ì†ŒìŠ¤ ì½”ë“œ ìŠ¤íƒ€ì¼
 
-* ### **02.2** C++ ±¸¹® 
+* ### **02.2** C++ êµ¬ë¬¸ 
   * - [[carrots.cpp]](https://github.com/tlsehddbs/CPP_Basic/blob/main/02/02carrots.cpp "Listing 2.2")
-  * ¼±¾ğ ±¸¹®°ú º¯¼ö
-  * ´ëÀÔ ±¸¹®
-  * coutÀÇ »õ·Î¿î »ç¿ë¹ı
+  * ì„ ì–¸ êµ¬ë¬¸ê³¼ ë³€ìˆ˜
+  * ëŒ€ì… êµ¬ë¬¸
+  * coutì˜ ìƒˆë¡œìš´ ì‚¬ìš©ë²•
 
-* ### **02.3** C++ÀÇ ±âÅ¸ ±¸¹® 
+* ### **02.3** C++ì˜ ê¸°íƒ€ êµ¬ë¬¸ 
   * - [[getinfo.cpp]](https://github.com/tlsehddbs/CPP_Basic/blob/main/02/03getinfo.cpp "Listing 2.3")
-  * cin »ç¿ë¹ı
-  * cout¿¡ ÀÇÇÑ Ãâ·ÂÀÇ °áÇÕ
-  * cin°ú cout : Å¬·¡½º ¸Àº¸±â
+  * cin ì‚¬ìš©ë²•
+  * coutì— ì˜í•œ ì¶œë ¥ì˜ ê²°í•©
+  * cinê³¼ cout : í´ë˜ìŠ¤ ë§›ë³´ê¸°
 
-* ### **02.4** ÇÔ¼ö
-  * ¸®ÅÏ°ªÀÌ ÀÖ´Â ÇÔ¼ö 
+* ### **02.4** í•¨ìˆ˜
+  * ë¦¬í„´ê°’ì´ ìˆëŠ” í•¨ìˆ˜ 
       - [[sqrt.cpp]](https://github.com/tlsehddbs/CPP_Basic/blob/main/02/04sqrt.cpp "Listing 2.4")
-  * º¯ÀÌ ÇÔ¼öµé
-  * »ç¿ëÀÚ Á¤ÀÇ ÇÔ¼ö 
+  * ë³€ì´ í•¨ìˆ˜ë“¤
+  * ì‚¬ìš©ì ì •ì˜ í•¨ìˆ˜ 
       - [[ourfunc.cpp]](https://github.com/tlsehddbs/CPP_Basic/blob/main/02/05ourfunc.cpp "Listing 2.5")
-    * ÇÔ¼ö ¸ğ¾ç
-    * ÇÔ¼ö ¸Ó¸®
-  * ¸®ÅÏ °ªÀÌ ÀÖ´Â »ç¿ëÀÚ Á¤ÀÇ ÇÔ¼ö 
+    * í•¨ìˆ˜ ëª¨ì–‘
+    * í•¨ìˆ˜ ë¨¸ë¦¬
+  * ë¦¬í„´ ê°’ì´ ìˆëŠ” ì‚¬ìš©ì ì •ì˜ í•¨ìˆ˜ 
     - [[convert.cpp]](https://github.com/tlsehddbs/CPP_Basic/blob/main/02/06convert.cpp "Listing 2.6")
-  * º¹¼ö ÇÔ¼ö ÇÁ·Î±×·¥¿¡ using Áö½ÃÀÚ ³Ö±â
+  * ë³µìˆ˜ í•¨ìˆ˜ í”„ë¡œê·¸ë¨ì— using ì§€ì‹œì ë„£ê¸°
   
 ### [Listing 2 SUMMARY](https://github.com/tlsehddbs/CPP_Basic/blob/main/02/.SUMMARY2.md ".SUMMARY2.md")   
 ### [Listing 2 Programming Exercise](https://github.com/tlsehddbs/CPP_Basic/tree/main/02/PROGRAMMING%20EXERCISE)
 ### [Note](https://github.com/tlsehddbs/CPP_Basic/blob/main/02/Note(Listing2).md "Note(Listing2).md") | [Tip](https://github.com/tlsehddbs/CPP_Basic/blob/main/02/Tip(Listing2).md "Tip(Listing2).md")
 ___
-## **03** µ¥ÀÌÅÍ Ã³¸®
+## **03** ë°ì´í„° ì²˜ë¦¬
 <details>
-<summary>ÇĞ½À¸ñÇ¥</summary>
+<summary>í•™ìŠµëª©í‘œ</summary>
 <div markdown="1">
-¡Ü C++ÀÇ º¯¼ö ÀÌ¸§À» Á¤ÇÏ´Â ±ÔÄ¢<br>
-¡Ü const Á¦ÇÑÀÚ¸¦ »ç¿ëÇÏ¿© ±âÈ£ »ó¼ö ¸¸µé±â<br>
-¡Ü C++¿¡ ³»ÀåµÈ Á¤¼öÇü : unsigned long, long, unsigned int, int unsigned short, short, char, unsigned char, signed char, bool<br>
-¡Ü C++¿¡ ³»ÀåµÈ ºÎµ¿ ¼Ò¼öÁ¡Çü : float, double, long double<br>
-¡Ü C++11¿¡¼­ Ãß°¡µÈ º¯¼öÇü unsigned long long, long long<br>
-¡Ü ¿©·¯ ºÎµ¿ ¼Ò¼öÁ¡ÇüÀÇ ½Ã½ºÅÛ ÇÑ°è°ªÀ» ³ªÅ¸³»´Â cflost ÆÄÀÏ<br>
-¡Ü ¿©·¯ Á¤¼öÇü ½Ã½ºÅÛ ÇÑ°è°ªÀ» ³ªÅ¸³»´Â climits ÆÄÀÏ<br>
-¡Ü ¿©·¯ ºÎµ¿ ¼Ò¼öÁ¡ÇüÀÇ ¼öÄ¡ »ó¼öµé<br>
-¡Ü ¿©·¯ Á¤¼öÇüÀÇ ¼öÄ¡ »ó¼öµé<br>
-¡Ü C++ÀÇ »ê¼ú ¿¬»êÀÚ<br>
-¡Ü ÀÚµ¿ µ¥ÀÌÅÍÇü º¯È¯<br>
-¡Ü °­Á¦ µ¥ÀÌÅÍÇü º¯È¯<br>
+â— C++ì˜ ë³€ìˆ˜ ì´ë¦„ì„ ì •í•˜ëŠ” ê·œì¹™<br>
+â— const ì œí•œìë¥¼ ì‚¬ìš©í•˜ì—¬ ê¸°í˜¸ ìƒìˆ˜ ë§Œë“¤ê¸°<br>
+â— C++ì— ë‚´ì¥ëœ ì •ìˆ˜í˜• : unsigned long, long, unsigned int, int unsigned short, short, char, unsigned char, signed char, bool<br>
+â— C++ì— ë‚´ì¥ëœ ë¶€ë™ ì†Œìˆ˜ì í˜• : float, double, long double<br>
+â— C++11ì—ì„œ ì¶”ê°€ëœ ë³€ìˆ˜í˜• unsigned long long, long long<br>
+â— ì—¬ëŸ¬ ë¶€ë™ ì†Œìˆ˜ì í˜•ì˜ ì‹œìŠ¤í…œ í•œê³„ê°’ì„ ë‚˜íƒ€ë‚´ëŠ” cflost íŒŒì¼<br>
+â— ì—¬ëŸ¬ ì •ìˆ˜í˜• ì‹œìŠ¤í…œ í•œê³„ê°’ì„ ë‚˜íƒ€ë‚´ëŠ” climits íŒŒì¼<br>
+â— ì—¬ëŸ¬ ë¶€ë™ ì†Œìˆ˜ì í˜•ì˜ ìˆ˜ì¹˜ ìƒìˆ˜ë“¤<br>
+â— ì—¬ëŸ¬ ì •ìˆ˜í˜•ì˜ ìˆ˜ì¹˜ ìƒìˆ˜ë“¤<br>
+â— C++ì˜ ì‚°ìˆ  ì—°ì‚°ì<br>
+â— ìë™ ë°ì´í„°í˜• ë³€í™˜<br>
+â— ê°•ì œ ë°ì´í„°í˜• ë³€í™˜<br>
 </div>
 </details>
 
-* ### **03.1** °£´ÜÇÑ º¯¼ö
-  * º¯¼ö ÀÌ¸§
-  * Á¤¼öÇü
-  * short, int, long, long long Á¤¼öÇü 
+* ### **03.1** ê°„ë‹¨í•œ ë³€ìˆ˜
+  * ë³€ìˆ˜ ì´ë¦„
+  * ì •ìˆ˜í˜•
+  * short, int, long, long long ì •ìˆ˜í˜• 
       - [[limits.cpp]](https://github.com/tlsehddbs/CPP_Basic/blob/main/03/01limits.cpp "Listing 3.1")
-    * sizeof ¿¬»êÀÚ¿Í climits Çì´õ ÆÄÀÏ
-    * ÃÊ±âÈ­
-    * C++11¿¡¼­ÀÇ ÃÊ±âÈ­
-  * unsignedÇü 
+    * sizeof ì—°ì‚°ìì™€ climits í—¤ë” íŒŒì¼
+    * ì´ˆê¸°í™”
+    * C++11ì—ì„œì˜ ì´ˆê¸°í™”
+  * unsignedí˜• 
     - [[exceed.cpp]](https://github.com/tlsehddbs/CPP_Basic/blob/main/03/02exceed.cpp "Listing 3.2")
-  * ¾î´À Á¤¼öÇüÀ» »ç¿ëÇÒ °ÍÀÎ°¡?
-  * Á¤¼öÇü »ó¼ö 
+  * ì–´ëŠ ì •ìˆ˜í˜•ì„ ì‚¬ìš©í•  ê²ƒì¸ê°€?
+  * ì •ìˆ˜í˜• ìƒìˆ˜ 
     - [[hexoct1.cpp]](https://github.com/tlsehddbs/CPP_Basic/blob/main/03/03hexoct1.cpp "Listing 3.3") 
     - [[hexoct2.cpp]](https://github.com/tlsehddbs/CPP_Basic/blob/main/03/04hexoct2.cpp "Listing 3.4")
-  * C++°¡ »ó¼öÀÇ µ¥ÀÌÅÍÇüÀ» °áÁ¤ÇÏ´Â ¹æ¹ı
-  * charÇü : ¹®ÀÚ¿Í ÀÛÀº Á¤¼ö 
+  * C++ê°€ ìƒìˆ˜ì˜ ë°ì´í„°í˜•ì„ ê²°ì •í•˜ëŠ” ë°©ë²•
+  * charí˜• : ë¬¸ìì™€ ì‘ì€ ì •ìˆ˜ 
       - [[chartype.cpp]](https://github.com/tlsehddbs/CPP_Basic/blob/main/03/05chartype.cpp "Listing 3.5")   
       - [[morechar.cpp]](https://github.com/tlsehddbs/CPP_Basic/blob/main/03/06morechar.cpp "Listing 3.6")
-    * ÇÁ·Î±×·¥ ºĞ¼®
-    * ¸â¹ö ÇÔ¼ö : cout.put()
-    * charÇü »ó¼ö 
+    * í”„ë¡œê·¸ë¨ ë¶„ì„
+    * ë©¤ë²„ í•¨ìˆ˜ : cout.put()
+    * charí˜• ìƒìˆ˜ 
       - [[bondini.cpp]](https://github.com/tlsehddbs/CPP_Basic/blob/main/03/07bondini.cpp "Listing 3.7")
-    * À¯´Ï¹ö¼³ ³×ÀÓ ÄÚµå
-    * signed charÇü°ú unsigned charÇü
-    * È®Àå charÇü : wchar_t
-    * »õ·Î¿î C++11Çü : char16_t¿Í char32_t
-  * boolÇü
+    * ìœ ë‹ˆë²„ì„¤ ë„¤ì„ ì½”ë“œ
+    * signed charí˜•ê³¼ unsigned charí˜•
+    * í™•ì¥ charí˜• : wchar_t
+    * ìƒˆë¡œìš´ C++11í˜• : char16_tì™€ char32_t
+  * boolí˜•
 
-* ### **03.2** const Á¦ÇÑÀÚ
+* ### **03.2** const ì œí•œì
 
-* ### **03.3** ºÎµ¿ ¼Ò¼öÁ¡¼ö
-  * ºÎµ¿ ¼Ò¼öÁ¡¼öÀÇ Ç¥±â
-  * ºÎµ¿ ¼Ò¼öÁ¡Çü 
+* ### **03.3** ë¶€ë™ ì†Œìˆ˜ì ìˆ˜
+  * ë¶€ë™ ì†Œìˆ˜ì ìˆ˜ì˜ í‘œê¸°
+  * ë¶€ë™ ì†Œìˆ˜ì í˜• 
     * [[floatnum.cpp]](https://github.com/tlsehddbs/CPP_Basic/blob/main/03/08floatnum.cpp "Listing 3.8")
-    * ÇÁ·Î±×·¥ ºĞ¼®
-  * ºÎµ¿ ¼Ò¼öÁ¡Çü »ó¼ö
-  * ºÎµ¿ ¼Ò¼öÁ¡¼öÀÇ Àå´ÜÁ¡ 
+    * í”„ë¡œê·¸ë¨ ë¶„ì„
+  * ë¶€ë™ ì†Œìˆ˜ì í˜• ìƒìˆ˜
+  * ë¶€ë™ ì†Œìˆ˜ì ìˆ˜ì˜ ì¥ë‹¨ì  
     - [[fltadd.cpp]](https://github.com/tlsehddbs/CPP_Basic/blob/main/03/09fltadd.cpp "Listing 3.9")
   
-* ### **03.4** C++ »ê¼ú ¿¬»êÀÚ 
+* ### **03.4** C++ ì‚°ìˆ  ì—°ì‚°ì 
   * - [[arith.cpp]](https://github.com/tlsehddbs/CPP_Basic/blob/main/03/10arith.cpp "Listing 3.10")
-  * ¿¬»ê ¼ø¼­ : ¿ì¼±¼øÀ§¿Í °áÇÕ ¹æÇâ
-  * ³ª´°¼À¿¡ ´ëÇÑ º¸Ãæ 
+  * ì—°ì‚° ìˆœì„œ : ìš°ì„ ìˆœìœ„ì™€ ê²°í•© ë°©í–¥
+  * ë‚˜ëˆ—ì…ˆì— ëŒ€í•œ ë³´ì¶© 
     - [[divide.cpp]](https://github.com/tlsehddbs/CPP_Basic/blob/main/03/11divide.cpp, "Listing 3.11")
-  * ³ª¸ÓÁö¼À ¿¬»êÀÚ 
+  * ë‚˜ë¨¸ì§€ì…ˆ ì—°ì‚°ì 
     - [[modulus.cpp]](https://github.com/tlsehddbs/CPP_Basic/blob/main/03/12modulus.cpp "Listing 3.12")
-  * µ¥ÀÌÅÍÇü º¯È¯
-    * ´ëÀÔ ±¸¹®¿¡¼­ÀÇ µ¥ÀÌÅÍÇü º¯È¯ 
+  * ë°ì´í„°í˜• ë³€í™˜
+    * ëŒ€ì… êµ¬ë¬¸ì—ì„œì˜ ë°ì´í„°í˜• ë³€í™˜ 
       - [[init.cpp]](https://github.com/tlsehddbs/CPP_Basic/blob/main/03/13init.cpp "Listing 3.13")
-    * {}¸¦ »ç¿ëÇÒ °æ¿ìÀÇ ÃÊ±âÈ­ º¯È¯(C++11)
-    * ¼ö½Ä¿¡¼­ÀÇ µ¥ÀÌÅÍÇü º¯È¯
-    * ¸Å°³º¯¼ö¸¦ Àü´ŞÇÒ ¶§ÀÇ Çü º¯È¯
-    * µ¥ÀÌÅÍÇü º¯È¯ÀÚ 
+    * {}ë¥¼ ì‚¬ìš©í•  ê²½ìš°ì˜ ì´ˆê¸°í™” ë³€í™˜(C++11)
+    * ìˆ˜ì‹ì—ì„œì˜ ë°ì´í„°í˜• ë³€í™˜
+    * ë§¤ê°œë³€ìˆ˜ë¥¼ ì „ë‹¬í•  ë•Œì˜ í˜• ë³€í™˜
+    * ë°ì´í„°í˜• ë³€í™˜ì 
       - [[typecast.cpp]](https://github.com/tlsehddbs/CPP_Basic/blob/main/03/14typecast.cpp "Listing 3.14")
-  * C++11¿¡¼­ÀÇ auto ¼±¾ğ
+  * C++11ì—ì„œì˜ auto ì„ ì–¸
 
 ### [Listing 3 SUMMARY](https://github.com/tlsehddbs/CPP_Basic/blob/main/03/.SUMMARY3.md ".SUMMARY3.md")  
 ### [Listing 3 Programming Exercise](https://github.com/tlsehddbs/CPP_Basic/tree/main/02/PROGRAMMING%20EXERCISE)
 ### [Compatibility](https://github.com/tlsehddbs/CPP_Basic/blob/main/03/Compatibility(Listing3).md "Compatibility(Listing3).md") | [Note](https://github.com/tlsehddbs/CPP_Basic/blob/main/03/Note(Listing3).md "Note(Listing3).md") | [Tip](https://github.com/tlsehddbs/CPP_Basic/blob/main/03/Tip(Listing3).md "Tip(Listing3).md")
 ___
-## **04** º¹ÇÕ µ¥ÀÌÅÍÇü
+## **04** ë³µí•© ë°ì´í„°í˜•
 <details>
-<summary>ÇĞ½À¸ñÇ¥</summary>
+<summary>í•™ìŠµëª©í‘œ</summary>
 <div markdown="1">
-¡Ü ¹è¿­ÀÇ »ı¼º°ú »ç¿ë<br>
-¡Ü C ½ºÅ¸ÀÏ ¹®ÀÚ¿­ÀÇ »ı»ó°ú »ç¿ë<br>
-¡Ü string Å¬·¡½º ¹®ÀÚ¿­ÀÇ »ı¼º°ú »ç¿ë<br>
-¡Ü ¹®ÀÚ¿­À» ÀĞ´Â getline()°ú get() ¸Ş¼­µåÀÇ »ç¿ë<br>
-¡Ü ¹®ÀÚ¿­°ú ¼öÄ¡ÀÇ È¥ÇÕ ÀÔ·Â<br>
-¡Ü ±¸Á¶Ã¼ÀÇ »ı¼º°ú »ç¿ë<br>
-¡Ü °ø¿ëÃ¼ÀÇ »ı¼º°ú »ç¿ë<br>
-¡Ü ¿­°ÅÃ¼ÀÇ »ı¼º°ú »ç¿ë<br>
-¡Ü Æ÷ÀÎÅÍÀÇ »ı¼º°ú »ç¿ë<br>
-¡Ü new¿Í delete¸¦ »ç¿ëÇÑ µ¿Àû ¸Ş¸ğ¸® °ü¸®<br>
-¡Ü µ¿Àû ¹è¿­ÀÇ »ı¼º<br>
-¡Ü µ¿Àû ±¸Á¶Ã¼ÀÇ »ı¼º<br>
-¡Ü ÀÚµ¿ ±â¾ï °ø°£, Á¤Àû ±â¾ï °ø°£, µ¿Àû ±â¾ï °ø°£<br>
-¡Ü º¤ÅÍ(vector)¿Í ¹è¿­¿¡ ´ëÇÑ ¼Ò°³<br>
+â— ë°°ì—´ì˜ ìƒì„±ê³¼ ì‚¬ìš©<br>
+â— C ìŠ¤íƒ€ì¼ ë¬¸ìì—´ì˜ ìƒìƒê³¼ ì‚¬ìš©<br>
+â— string í´ë˜ìŠ¤ ë¬¸ìì—´ì˜ ìƒì„±ê³¼ ì‚¬ìš©<br>
+â— ë¬¸ìì—´ì„ ì½ëŠ” getline()ê³¼ get() ë©”ì„œë“œì˜ ì‚¬ìš©<br>
+â— ë¬¸ìì—´ê³¼ ìˆ˜ì¹˜ì˜ í˜¼í•© ì…ë ¥<br>
+â— êµ¬ì¡°ì²´ì˜ ìƒì„±ê³¼ ì‚¬ìš©<br>
+â— ê³µìš©ì²´ì˜ ìƒì„±ê³¼ ì‚¬ìš©<br>
+â— ì—´ê±°ì²´ì˜ ìƒì„±ê³¼ ì‚¬ìš©<br>
+â— í¬ì¸í„°ì˜ ìƒì„±ê³¼ ì‚¬ìš©<br>
+â— newì™€ deleteë¥¼ ì‚¬ìš©í•œ ë™ì  ë©”ëª¨ë¦¬ ê´€ë¦¬<br>
+â— ë™ì  ë°°ì—´ì˜ ìƒì„±<br>
+â— ë™ì  êµ¬ì¡°ì²´ì˜ ìƒì„±<br>
+â— ìë™ ê¸°ì–µ ê³µê°„, ì •ì  ê¸°ì–µ ê³µê°„, ë™ì  ê¸°ì–µ ê³µê°„<br>
+â— ë²¡í„°(vector)ì™€ ë°°ì—´ì— ëŒ€í•œ ì†Œê°œ<br>
 </div>
 </details>
 
-* ### **04.1** ¹è¿­ 
+* ### **04.1** ë°°ì—´ 
   * - [[arrayone.cpp]](https://github.com/tlsehddbs/CPP_Basic/blob/main/04/01arrayone.cpp "Listing 4.1")
-  * ÇÁ·Î±×·¥ ºĞ¼®
-  * ¹è¿­ ÃÊ±âÈ­ ±ÔÄ¢
-  * C++11 ¹è¿­ ÃÊ±âÈ­
+  * í”„ë¡œê·¸ë¨ ë¶„ì„
+  * ë°°ì—´ ì´ˆê¸°í™” ê·œì¹™
+  * C++11 ë°°ì—´ ì´ˆê¸°í™”
 
-* ### **04.2** ¹®ÀÚ¿­
-  * ¹®ÀÚ¿­ »ó¼öÀÇ °áÇÕ
-  * ¹è¿­¿¡ ¹®ÀÚ¿­ »ç¿ë 
+* ### **04.2** ë¬¸ìì—´
+  * ë¬¸ìì—´ ìƒìˆ˜ì˜ ê²°í•©
+  * ë°°ì—´ì— ë¬¸ìì—´ ì‚¬ìš© 
     * [[strings.cpp]](https://github.com/tlsehddbs/CPP_Basic/blob/main/04/02strings.cpp "Listing 4.2")
-    * ÇÁ·Î±×·¥ ºĞ¼®
-  * ¹®ÀÚ¿­ ÀÔ·Â 
+    * í”„ë¡œê·¸ë¨ ë¶„ì„
+  * ë¬¸ìì—´ ì…ë ¥ 
     - [[instr1.cpp]](https://github.com/tlsehddbs/CPP_Basic/blob/main/04/03instr1.cpp "Listing 4.3")
-  * ÇÑ ¹ø¿¡ ÇÑ ÇàÀÇ ¹®ÀÚ¿­ ÀÔ·Â ÀĞ±â
-    * getline()À» ÀÌ¿ëÇÑ Çà ´ÜÀ§ ÀÔ·Â 
+  * í•œ ë²ˆì— í•œ í–‰ì˜ ë¬¸ìì—´ ì…ë ¥ ì½ê¸°
+    * getline()ì„ ì´ìš©í•œ í–‰ ë‹¨ìœ„ ì…ë ¥ 
       - [[instr2.cpp]](https://github.com/tlsehddbs/CPP_Basic/blob/main/04/04instr2.cpp "Listing 4.4")
-    * get()À» ÀÌ¿ëÇÑ Çà ´ÜÀ§ ÀÔ·Â 
+    * get()ì„ ì´ìš©í•œ í–‰ ë‹¨ìœ„ ì…ë ¥ 
       - [[instr3.cpp]](https://github.com/tlsehddbs/CPP_Basic/blob/main/04/05instr3.cpp "Listing 4.5")
-    * ºó Çà°ú ±âÅ¸ ¹®Á¦Á¡
-  * ¹®ÀÚ¿­°ú ¼öÄ¡ÀÇ È¥ÇÕ ÀÔ·Â 
+    * ë¹ˆ í–‰ê³¼ ê¸°íƒ€ ë¬¸ì œì 
+  * ë¬¸ìì—´ê³¼ ìˆ˜ì¹˜ì˜ í˜¼í•© ì…ë ¥ 
     - [[numstr.cpp]](https://github.com/tlsehddbs/CPP_Basic/blob/main/04/06numstr.cpp "Listing 4.6")
   
-* ### **04.3** string Å¬·¡½º 
+* ### **04.3** string í´ë˜ìŠ¤ 
   * - [[strtype1.cpp]](https://github.com/tlsehddbs/CPP_Basic/blob/main/04/07strtype1.cpp "Listing 4.7")
-  * C++11 ¹®ÀÚ¿­ ÃÊ±âÈ­
-  * ´ëÀÔ, °áÇÕ, Ãß°¡ 
+  * C++11 ë¬¸ìì—´ ì´ˆê¸°í™”
+  * ëŒ€ì…, ê²°í•©, ì¶”ê°€ 
     - [[strtype2.cpp]](https://github.com/tlsehddbs/CPP_Basic/blob/main/04/08strtype2.cpp "Listing 4.8")
-  * string Å¬·¡½ºÀÇ Á¶ÀÛ 
+  * string í´ë˜ìŠ¤ì˜ ì¡°ì‘ 
     - [[strtype3.cpp]](https://github.com/tlsehddbs/CPP_Basic/blob/main/04/09strtype3.cpp "Listing 4.9")
-  * string Å¬·¡½ºÀÇ ÀÔÃâ·Â 
+  * string í´ë˜ìŠ¤ì˜ ì…ì¶œë ¥ 
     - [[strtype4.cpp]](https://github.com/tlsehddbs/CPP_Basic/blob/main/04/10strtype4.cpp "Listing 4.10")
-  * ´Ù¸¥ ÇüÅÂÀÇ ¹®ÀÚ¿­ »ó¼ö
+  * ë‹¤ë¥¸ í˜•íƒœì˜ ë¬¸ìì—´ ìƒìˆ˜
   
-* ### **04.4** ±¸Á¶Ã¼
-  * ÇÁ·Î±×·¥¿¡ ±¸Á¶Ã¼ »ç¿ëÇÏ±â 
+* ### **04.4** êµ¬ì¡°ì²´
+  * í”„ë¡œê·¸ë¨ì— êµ¬ì¡°ì²´ ì‚¬ìš©í•˜ê¸° 
     * [[structur.cpp]](https://github.com/tlsehddbs/CPP_Basic/blob/main/04/11structur.cpp "Listing 4.14")
-    * ÇÁ·Î±×·¥ ºĞ¼®
-  * C++11ÀÇ ±¸Á¶Ã¼ ÃÊ±âÈ­
-  * ±¸Á¶Ã¼°¡ string Å¬·¡½º ¸â¹ö¸¦ »ç¿ëÇÒ ¼ö ÀÖÀ»±î?
-  * ±¸Á¶Ã¼ÀÇ ±âÅ¸ Æ¯¼º 
+    * í”„ë¡œê·¸ë¨ ë¶„ì„
+  * C++11ì˜ êµ¬ì¡°ì²´ ì´ˆê¸°í™”
+  * êµ¬ì¡°ì²´ê°€ string í´ë˜ìŠ¤ ë©¤ë²„ë¥¼ ì‚¬ìš©í•  ìˆ˜ ìˆì„ê¹Œ?
+  * êµ¬ì¡°ì²´ì˜ ê¸°íƒ€ íŠ¹ì„± 
     - [[assgn_st.cpp]](https://github.com/tlsehddbs/CPP_Basic/blob/main/04/12assgn_st.cpp "Listing 4.15")
-  * ±¸Á¶Ã¼ÀÇ ¹è¿­ 
+  * êµ¬ì¡°ì²´ì˜ ë°°ì—´ 
     - [[arrstruc.cpp]](https://github.com/tlsehddbs/CPP_Basic/blob/main/04/13arrstruc.cpp "Listing 4.13")
-  * ±¸Á¶Ã¼ ¾ÈÀÇ ºñÆ® ÇÊµå
+  * êµ¬ì¡°ì²´ ì•ˆì˜ ë¹„íŠ¸ í•„ë“œ
   
-* ### **04.5** °ø¿ëÃ¼
+* ### **04.5** ê³µìš©ì²´
   
-* ### **04.6** ¿­°ÅÃ¼
-  * ¿­°ÅÀÚ °ªÀÇ ¼³Á¤
-  * ¿­°ÅÃ¼ÀÇ °ª ¹üÀ§
+* ### **04.6** ì—´ê±°ì²´
+  * ì—´ê±°ì ê°’ì˜ ì„¤ì •
+  * ì—´ê±°ì²´ì˜ ê°’ ë²”ìœ„
   
-* ### **04.7** Æ÷ÀÎÅÍ¿Í ¸Ş¸ğ¸® ÇØÁ¦ 
+* ### **04.7** í¬ì¸í„°ì™€ ë©”ëª¨ë¦¬ í•´ì œ 
   - - [[address.cpp]](https://github.com/tlsehddbs/CPP_Basic/blob/main/04/14address.cpp "Listing 4.14")
   - - [[pointer.cpp]](https://github.com/tlsehddbs/CPP_Basic/blob/main/04/15pointer.cpp "Listing 4.15")
-  * Æ÷ÀÎÅÍÀÇ ¼±¾ğ°ú ÃÊ±âÈ­ 
+  * í¬ì¸í„°ì˜ ì„ ì–¸ê³¼ ì´ˆê¸°í™” 
     - [[init_ptr.cpp]](https://github.com/tlsehddbs/CPP_Basic/blob/main/04/16init_ptr.cpp "Listing 4.16")
-  * Æ÷ÀÎÅÍÀÇ À§Çè
-  * Æ÷ÀÎÅÍ¿Í ¼ö
-  * new¸¦ »ç¿ëÇÑ ¸Ş¸ğ¸® ´ëÀÔ 
+  * í¬ì¸í„°ì˜ ìœ„í—˜
+  * í¬ì¸í„°ì™€ ìˆ˜
+  * newë¥¼ ì‚¬ìš©í•œ ë©”ëª¨ë¦¬ ëŒ€ì… 
     * [[use_new.cpp]](https://github.com/tlsehddbs/CPP_Basic/blob/main/04/17use_new.cpp "Listing 4.17")
-    * ÇÁ·Î±×·¥ ºĞ¼®
-  * delete¸¦ »ç¿ëÇÑ ¸Ş¸ğ¸® ÇØÁ¦
-  * new¸¦ »ç¿ëÇÑ µ¿Àû ¹è¿­ÀÇ »ı¼º
-    * new¸¦ »ç¿ëÇÑ µ¿Àû ¹è¿­ÀÇ »ı¼º
-    * µ¿Àû ¹è¿­ÀÇ »ç¿ë 
+    * í”„ë¡œê·¸ë¨ ë¶„ì„
+  * deleteë¥¼ ì‚¬ìš©í•œ ë©”ëª¨ë¦¬ í•´ì œ
+  * newë¥¼ ì‚¬ìš©í•œ ë™ì  ë°°ì—´ì˜ ìƒì„±
+    * newë¥¼ ì‚¬ìš©í•œ ë™ì  ë°°ì—´ì˜ ìƒì„±
+    * ë™ì  ë°°ì—´ì˜ ì‚¬ìš© 
       - [[arraynew.cpp]](https://github.com/tlsehddbs/CPP_Basic/blob/main/04/18arraynew.cpp "Listing 4.18")
   
-* ### **04.8** Æ÷ÀÎÅÍ, ¹è¿­, Æ÷ÀÎÅÍ ¿¬»ê 
+* ### **04.8** í¬ì¸í„°, ë°°ì—´, í¬ì¸í„° ì—°ì‚° 
   * - [[addpntrs.cpp]](https://github.com/tlsehddbs/CPP_Basic/blob/main/04/19addpntrs.cpp "Listing 4.19")
-  * ÇÁ·Î±×·¥ ºĞ¼®
-  * Æ÷ÀÎÅÍ¿¡ °üÇÑ ¿ä¾à
-    * Æ÷ÀÎÅÍ ¼±¾ğ
-    * Æ÷ÀÎÅÍ¿¡ °ª ´ëÀÔ
-    * Æ÷ÀÎÅÍÀÇ °£Á¢ ÂüÁ¶
-    * ¹è¿­ ÀÌ¸§
-    * Æ÷ÀÎÅÍ ¿¬»ê
-    * ¹è¿­ÀÇ µ¿Àû ¹ÙÀÎµù°ú Á¤Àû ¹ÙÀÎµù
-    * ¹è¿­ Ç¥±â¿Í Æ÷ÀÎÅÍ Ç¥±â
-  * Æ÷ÀÎÅÍ¿Í ¹®ÀÚ¿­ 
+  * í”„ë¡œê·¸ë¨ ë¶„ì„
+  * í¬ì¸í„°ì— ê´€í•œ ìš”ì•½
+    * í¬ì¸í„° ì„ ì–¸
+    * í¬ì¸í„°ì— ê°’ ëŒ€ì…
+    * í¬ì¸í„°ì˜ ê°„ì ‘ ì°¸ì¡°
+    * ë°°ì—´ ì´ë¦„
+    * í¬ì¸í„° ì—°ì‚°
+    * ë°°ì—´ì˜ ë™ì  ë°”ì¸ë”©ê³¼ ì •ì  ë°”ì¸ë”©
+    * ë°°ì—´ í‘œê¸°ì™€ í¬ì¸í„° í‘œê¸°
+  * í¬ì¸í„°ì™€ ë¬¸ìì—´ 
     * [[ptrstr.cpp]](https://github.com/tlsehddbs/CPP_Basic/blob/main/04/20ptrstr.cpp "Listing 4.20")
-    * ÇÁ·Î±×·¥ ºĞ¼®
-  * new¸¦ »ç¿ëÇÑ µ¿Àû ±¸Á¶Ã¼ÀÇ »ı¼º 
+    * í”„ë¡œê·¸ë¨ ë¶„ì„
+  * newë¥¼ ì‚¬ìš©í•œ ë™ì  êµ¬ì¡°ì²´ì˜ ìƒì„± 
     - [[newstrct.cpp]](https://github.com/tlsehddbs/CPP_Basic/blob/main/04/21newstrct.cpp "Listing 4.21")
-    * new¿Í delete¸¦ »ç¿ëÇÏ´Â ¿¹Á¦ 
+    * newì™€ deleteë¥¼ ì‚¬ìš©í•˜ëŠ” ì˜ˆì œ 
       - [[delete.cpp]](https://github.com/tlsehddbs/CPP_Basic/blob/main/04/22delete.cpp "Listing 4.25")
-    * ÇÁ·Î±×·¥ ºĞ¼®
-  * ÀÚµ¿ °ø°£, Á¤Àû °ø°£, µ¿Àû °ø°£
-    * ÀúÀå °ø°£
-    * Á¤Àû °ø°£
-    * µ¿Àû °ø°£
+    * í”„ë¡œê·¸ë¨ ë¶„ì„
+  * ìë™ ê³µê°„, ì •ì  ê³µê°„, ë™ì  ê³µê°„
+    * ì €ì¥ ê³µê°„
+    * ì •ì  ê³µê°„
+    * ë™ì  ê³µê°„
   
-* ### **04.9** º¯¼öÇüÀÇ Á¶ÇÕ 
+* ### **04.9** ë³€ìˆ˜í˜•ì˜ ì¡°í•© 
     - [[mixtypes.cpp]](https://github.com/tlsehddbs/CPP_Basic/blob/main/04/23mixtypes.cpp "Listing 4.23")
   
-* ### **04.10** ¹è¿­ÀÇ ´ë¾È
-  * Vector ÅÛÇÃ¸´ Å¬·¡½º
-  * array ÅÛÇÃ¸´ Å¬·¡½º(C++11)
-  * ¹è¿­, Vector °´Ã¼, Array °´Ã¼ ºñ±³ 
+* ### **04.10** ë°°ì—´ì˜ ëŒ€ì•ˆ
+  * Vector í…œí”Œë¦¿ í´ë˜ìŠ¤
+  * array í…œí”Œë¦¿ í´ë˜ìŠ¤(C++11)
+  * ë°°ì—´, Vector ê°ì²´, Array ê°ì²´ ë¹„êµ 
     * [[choices.cpp]](https://github.com/tlsehddbs/CPP_Basic/blob/main/04/24choices.cpp "Listing 4.24")
-    * ÇÁ·Î±×·¥ ºĞ¼®
+    * í”„ë¡œê·¸ë¨ ë¶„ì„
 
 ### [Listing 4 SUMMARY](https://github.com/tlsehddbs/CPP_Basic/blob/main/04/.SUMMARY4.md ".SUMMARY4.md")  
 ### [Listing 4 Programming Exercise](https://github.com/tlsehddbs/CPP_Basic/tree/main/04/PROGRAMMING%20EXERCISE)
 ### [Compatibility](https://github.com/tlsehddbs/CPP_Basic/blob/main/04/Compatibility(Listing4).md "Compatibility(Listing4).md") | [Note](https://github.com/tlsehddbs/CPP_Basic/blob/main/04/Note(Listing4).md "Note(Listing4).md") | [Tip](https://github.com/tlsehddbs/CPP_Basic/blob/main/04/Tip(Listing4).md "Tip(Listing4).md")
 ___
-## **05** ·çÇÁ¿Í °ü°è Ç¥Çö½Ä
+## **05** ë£¨í”„ì™€ ê´€ê³„ í‘œí˜„ì‹
 <details>
-<summary>ÇĞ½À¸ñÇ¥</summary>
+<summary>í•™ìŠµëª©í‘œ</summary>
 <div markdown="1">
-¡Ü for ·çÇÁ<br>
-¡Ü Ç¥Çö½Ä°ú ±¸¹®<br>
-¡Ü Áõ°¡ ¿¬»êÀÚ¿Í °¨¼Ò ¿¬»êÀÚ(++¿Í --)<br>
-¡Ü Á¶ÇÕ ´ëÀÔ ¿¬»êÀÚ<br>
-¡Ü º¹ÇÕ ±¸¹®(ºí·Ï)<br>
-¡Ü ÄŞ¸¶ ¿¬»êÀÚ<br>
-¡Ü °ü°è ¿¬»êÀÚ(>, >=, ==, <=, <, !=)<br>
-¡Ü while ·çÇÁ<br>
-¡Ü typedef ±â´É<br>
-¡Ü do while ·çÇÁ<br>
-¡Ü ¹®ÀÚ ÀÔ·Â ¸Ş¼­µå get()<br>
-¡Ü ÆÄÀÏ ³¡ Á¶°Ç<br>
-¡Ü ÁßÃ¸ ·çÇÁ¿Í 2Â÷¿ø ¹è¿­<br>
+â— for ë£¨í”„<br>
+â— í‘œí˜„ì‹ê³¼ êµ¬ë¬¸<br>
+â— ì¦ê°€ ì—°ì‚°ìì™€ ê°ì†Œ ì—°ì‚°ì(++ì™€ --)<br>
+â— ì¡°í•© ëŒ€ì… ì—°ì‚°ì<br>
+â— ë³µí•© êµ¬ë¬¸(ë¸”ë¡)<br>
+â— ì½¤ë§ˆ ì—°ì‚°ì<br>
+â— ê´€ê³„ ì—°ì‚°ì(>, >=, ==, <=, <, !=)<br>
+â— while ë£¨í”„<br>
+â— typedef ê¸°ëŠ¥<br>
+â— do while ë£¨í”„<br>
+â— ë¬¸ì ì…ë ¥ ë©”ì„œë“œ get()<br>
+â— íŒŒì¼ ë ì¡°ê±´<br>
+â— ì¤‘ì²© ë£¨í”„ì™€ 2ì°¨ì› ë°°ì—´<br>
 </div>
 </details>
 
-* ### **05.1** for ·çÇÁ 
+* ### **05.1** for ë£¨í”„ 
   * - [[forloop.cpp]](https://github.com/tlsehddbs/CPP_Basic/blob/main/05/01forloop.cpp "Listing 5.1")
-  * for ·çÇÁÀÇ °¢ ºÎºĞ 
+  * for ë£¨í”„ì˜ ê° ë¶€ë¶„ 
     - [[num_test.cpp]](https://github.com/tlsehddbs/CPP_Basic/blob/main/05/02num_test.cpp "Listing 5.2")
-    * Ç¥Çö½Ä°ú ±¸¹® 
+    * í‘œí˜„ì‹ê³¼ êµ¬ë¬¸ 
       - [[express.cpp]](https://github.com/tlsehddbs/CPP_Basic/blob/main/05/03express.cpp "Listing 5.3")
-    * Ç¥Çö½ÄÀÌ ¾Æ´Ñ °Í°ú ±¸¹®
-    * À¶Åë¼º ÀÖ´Â ±ÔÄ¢
-  * for ·çÇÁ¿¡ ´ëÇÑ º¸Ãæ 
+    * í‘œí˜„ì‹ì´ ì•„ë‹Œ ê²ƒê³¼ êµ¬ë¬¸
+    * ìœµí†µì„± ìˆëŠ” ê·œì¹™
+  * for ë£¨í”„ì— ëŒ€í•œ ë³´ì¶© 
     * [[formore.cpp]](https://github.com/tlsehddbs/CPP_Basic/blob/main/05/04formore.cpp "Listing 5.4")
-    * ÇÁ·Î±×·¥ ºĞ¼®
-  * °»½Å Å©±â º¯°æ 
+    * í”„ë¡œê·¸ë¨ ë¶„ì„
+  * ê°±ì‹  í¬ê¸° ë³€ê²½ 
     - [[bigstep.cpp]](https://github.com/tlsehddbs/CPP_Basic/blob/main/05/05bigstep.cpp "Listing 5.5")
-  * for ·çÇÁ¸¦ »ç¿ëÇÑ ¹®ÀÚ¿­ Ã³¸® 
+  * for ë£¨í”„ë¥¼ ì‚¬ìš©í•œ ë¬¸ìì—´ ì²˜ë¦¬ 
     - [[forstr1.cpp]](https://github.com/tlsehddbs/CPP_Basic/blob/main/05/06forstr1.cpp "Listing 5.6")
-  * Áõ°¡ ¿¬»êÀÚ(++)¿Í °¨¼Ò ¿¬»êÀÚ(--) 
+  * ì¦ê°€ ì—°ì‚°ì(++)ì™€ ê°ì†Œ ì—°ì‚°ì(--) 
     - [[plus_one.cpp]](https://github.com/tlsehddbs/CPP_Basic/blob/main/05/07plus_one.cpp "Listing 5.7")
-  * ºÎ¼ö È¿°ú¿Í ½ÃÄö½º Æ÷ÀÎÆ® 
-  * Á¢µÎ¾î ¹æ½Ä°ú Á¢¹Ì¾î ¹æ½Ä
-  * Áõ°¡/°¨¼Ò ¿¬»êÀÚ¿Í Æ÷ÀÎÅÍ
-  * Á¶ÇÕ ´ëÀÔ ¿¬»êÀÚ
-  * º¹ÇÕ ±¸¹® ¶Ç´Â ºí·Ï 
+  * ë¶€ìˆ˜ íš¨ê³¼ì™€ ì‹œí€€ìŠ¤ í¬ì¸íŠ¸ 
+  * ì ‘ë‘ì–´ ë°©ì‹ê³¼ ì ‘ë¯¸ì–´ ë°©ì‹
+  * ì¦ê°€/ê°ì†Œ ì—°ì‚°ìì™€ í¬ì¸í„°
+  * ì¡°í•© ëŒ€ì… ì—°ì‚°ì
+  * ë³µí•© êµ¬ë¬¸ ë˜ëŠ” ë¸”ë¡ 
     - [[block.cpp]](https://github.com/tlsehddbs/CPP_Basic/blob/main/05/08block.cpp "Listing 5.8")
-  * ÄŞ¸¶ ¿¬»êÀÚ 
+  * ì½¤ë§ˆ ì—°ì‚°ì 
     - [[forstr2.cpp]](https://github.com/tlsehddbs/CPP_Basic/blob/main/05/09forstr2.cpp "Listing 5.9")
-    * ÇÁ·Î±×·¥ ºĞ¼®
-    * ÄÄ¸¶ ¿¬»êÀÚ¿¡ ´ëÇÑ º¸Ãæ
-  * °ü°è Ç¥Çö½Ä
-  * ÈçÈ÷ ¹üÇÏ´Â ½Ç¼ö 
+    * í”„ë¡œê·¸ë¨ ë¶„ì„
+    * ì»´ë§ˆ ì—°ì‚°ìì— ëŒ€í•œ ë³´ì¶©
+  * ê´€ê³„ í‘œí˜„ì‹
+  * í”íˆ ë²”í•˜ëŠ” ì‹¤ìˆ˜ 
     - [[equal.cpp]](https://github.com/tlsehddbs/CPP_Basic/blob/main/05/10equal.cpp "Listing 5.10")
-  * C ½ºÅ¸ÀÏ ¹®ÀÚ¿­ ºñ±³ 
+  * C ìŠ¤íƒ€ì¼ ë¬¸ìì—´ ë¹„êµ 
     * [[compstr1.cpp]](https://github.com/tlsehddbs/CPP_Basic/blob/main/05/11compstr1.cpp "Listing 5.11")
-    * ÇÁ·Î±×·¥ ºĞ¼®
-  * string Å¬·¡½º ¹®ÀÚ¿­ ºñ±³ 
+    * í”„ë¡œê·¸ë¨ ë¶„ì„
+  * string í´ë˜ìŠ¤ ë¬¸ìì—´ ë¹„êµ 
     * [[compstr2.cpp]](https://github.com/tlsehddbs/CPP_Basic/blob/main/05/12compstr2.cpp "Listing 5.12")
-    * ÇÁ·Î±×·¥ ºĞ¼®
+    * í”„ë¡œê·¸ë¨ ë¶„ì„
   
-* ### **05.2** while ·çÇÁ 
+* ### **05.2** while ë£¨í”„ 
   *  * [[while.cpp]](https://github.com/tlsehddbs/CPP_Basic/blob/main/05/13while.cpp "Listing 5.13")
-  * ÇÁ·Î±×·¥ ºĞ¼®
-  * for¿Í while
-  * Àá½Ã¸¸-½Ã°£ Áö¿¬ ·çÇÁ 
+  * í”„ë¡œê·¸ë¨ ë¶„ì„
+  * forì™€ while
+  * ì ì‹œë§Œ-ì‹œê°„ ì§€ì—° ë£¨í”„ 
     - [[waiting.cpp]](https://github.com/tlsehddbs/CPP_Basic/blob/main/05/14waiting.cpp "Listing 5.14")
   
-* ### **05.3** do while ·çÇÁ 
+* ### **05.3** do while ë£¨í”„ 
     - [[dowhile.cpp]](https://github.com/tlsehddbs/CPP_Basic/blob/main/05/15dowhile.cpp "Listing 5.15")
   
-* ### **05.4** Range ±â¹İÀÇ for ·çÇÁ(C++11)
+* ### **05.4** Range ê¸°ë°˜ì˜ for ë£¨í”„(C++11)
   
-* ### **05.5** ·çÇÁ¿Í ÅØ½ºÆ® ÀÔ·Â
-  * cinÀ» ÀÌ¿ëÇÑ ÀÔ·Â 
+* ### **05.5** ë£¨í”„ì™€ í…ìŠ¤íŠ¸ ì…ë ¥
+  * cinì„ ì´ìš©í•œ ì…ë ¥ 
     * [[textin1.cpp]](https://github.com/tlsehddbs/CPP_Basic/blob/main/05/16textin1.cpp "Listing 5.16")
-    * ÇÁ·Î±×·¥ ºĞ¼®
-  * cin.get(char)¸¦ ÀÌ¿ëÇÑ ÀÔ·Â 
+    * í”„ë¡œê·¸ë¨ ë¶„ì„
+  * cin.get(char)ë¥¼ ì´ìš©í•œ ì…ë ¥ 
     - [[textin2.cpp]](https://github.com/tlsehddbs/CPP_Basic/blob/main/05/17textin2.cpp "Listing 5.17")
-  * ¾î´Àcin.get()À» »ç¿ëÇÒ±î?
-  * ÆÄÀÏ ³¡(End-Of-File)Á¶°Ç 
+  * ì–´ëŠcin.get()ì„ ì‚¬ìš©í• ê¹Œ?
+  * íŒŒì¼ ë(End-Of-File)ì¡°ê±´ 
     - [[textin3.cpp]](https://github.com/tlsehddbs/CPP_Basic/blob/main/05/18textin3.cpp "Listing 5.18")
-    * ÀÔ·ÂÀ» ³¡³»´Â EOF
-    * ¹®ÀÚ ÀÔ·Â¿¡ ÀÚÁÖ ¾²´Â ±¸¹®
-  * cin.get()ÀÇ ¶Ç ´Ù¸¥ ¹öÀü 
+    * ì…ë ¥ì„ ëë‚´ëŠ” EOF
+    * ë¬¸ì ì…ë ¥ì— ìì£¼ ì“°ëŠ” êµ¬ë¬¸
+  * cin.get()ì˜ ë˜ ë‹¤ë¥¸ ë²„ì „ 
     - [[textin4.cpp]](https://github.com/tlsehddbs/CPP_Basic/blob/main/05/19textin4.cpp "Listing 5.19")
   
-* ### **05.5** ÁßÃ¸ ·çÇÁ¿Í 2Â÷¿ø ¹è¿­
-  * 2Â÷¿ø ¹è¿­ÀÇ ÃÊ±âÈ­
-  * 2Â÷¿ø ¹è¿­ »ç¿ëÇÏ±â 
+* ### **05.5** ì¤‘ì²© ë£¨í”„ì™€ 2ì°¨ì› ë°°ì—´
+  * 2ì°¨ì› ë°°ì—´ì˜ ì´ˆê¸°í™”
+  * 2ì°¨ì› ë°°ì—´ ì‚¬ìš©í•˜ê¸° 
     - [[nested.cpp]](https://github.com/tlsehddbs/CPP_Basic/blob/main/05/20nested.cpp "Listing 5.20")
 
 ### [Listing 5 SUMMARY](https://github.com/tlsehddbs/CPP_Basic/blob/main/05/.SUMMARY5.md ".SUMMARY5.md")  
 ### [Listing 5 Programming Exercise](https://github.com/tlsehddbs/CPP_Basic/tree/main/05/PROGRAMMING%20EXERCISE)
 ### [Compatibility](https://github.com/tlsehddbs/CPP_Basic/blob/main/05/Compatibility(Listing5).md "Compatibility(Listing5).md") | [Note](https://github.com/tlsehddbs/CPP_Basic/blob/main/05/Note(Listing5).md "Note(Listing5).md") | [Tip](https://github.com/tlsehddbs/CPP_Basic/blob/main/05/Tip(Listing5).md "Tip(Listing5).md") | [Remamber](https://github.com/tlsehddbs/CPP_Basic/blob/main/05/Remember(Listing5).md "Remember(Listing5).md") 
 ___
-## **06** ºĞ±â ±¸¹®°ú ³í¸® ¿¬»êÀÚ
+## **06** ë¶„ê¸° êµ¬ë¬¸ê³¼ ë…¼ë¦¬ ì—°ì‚°ì
  <details>
-<summary>ÇĞ½À¸ñÇ¥</summary>
+<summary>í•™ìŠµëª©í‘œ</summary>
 <div markdown="1">
-¡Ü if ±¸¹®<br>
-¡Ü if else ±¸¹®<br>
-¡Ü ³í¸® ¿¬»êÀÚ(&&, ||, !)<br>
-¡Ü ¹®ÀÚ ÇÔ¼öµéÀÌ µé¾î ÀÖ´Â cctype ¶óÀÌºê·¯¸®<br>
-¡Ü Á¶°Ç ¿¬»êÀÚ(? :)<br>
-¡Ü switch ±¸¹®<br>
-¡Ü continue¿Í break ±¸¹®<br>
-¡Ü ¼ö¸¦ ÀĞ¾îµéÀÌ´Â ·çÇÁ<br>
-¡Ü ±âº»ÀûÀÎ ÆÄÀÏ ÀÔ·Â/Ãâ·Â<br>
+â— if êµ¬ë¬¸<br>
+â— if else êµ¬ë¬¸<br>
+â— ë…¼ë¦¬ ì—°ì‚°ì(&&, ||, !)<br>
+â— ë¬¸ì í•¨ìˆ˜ë“¤ì´ ë“¤ì–´ ìˆëŠ” cctype ë¼ì´ë¸ŒëŸ¬ë¦¬<br>
+â— ì¡°ê±´ ì—°ì‚°ì(? :)<br>
+â— switch êµ¬ë¬¸<br>
+â— continueì™€ break êµ¬ë¬¸<br>
+â— ìˆ˜ë¥¼ ì½ì–´ë“¤ì´ëŠ” ë£¨í”„<br>
+â— ê¸°ë³¸ì ì¸ íŒŒì¼ ì…ë ¥/ì¶œë ¥<br>
 </div>
 </details>
 
- * ### **06.1** if ±¸¹® 
+ * ### **06.1** if êµ¬ë¬¸ 
     - [[if.cpp]](https://github.com/tlsehddbs/CPP_Basic/blob/main/06/01if.cpp "Listing 6.1")
-  * if else ±¸¹® 
+  * if else êµ¬ë¬¸ 
     - [[ifelse.cpp]](https://github.com/tlsehddbs/CPP_Basic/blob/main/06/02ifelse.cpp "Listing 6.2")
-  * if else ±¸¹®ÀÇ ÀÛ¼º ½ºÅ¸ÀÏ
-  * if else if else ±¸¹® 
+  * if else êµ¬ë¬¸ì˜ ì‘ì„± ìŠ¤íƒ€ì¼
+  * if else if else êµ¬ë¬¸ 
     - [[ifelseif.cpp]](https://github.com/tlsehddbs/CPP_Basic/blob/main/06/03ifelseif.cpp "Listing 6.3")
   
-* ### **06.2** ³í¸® Ç¥Çö½Ä
-  * ³í¸®ÇÕ OR ¿¬»êÀÚ(||) 
+* ### **06.2** ë…¼ë¦¬ í‘œí˜„ì‹
+  * ë…¼ë¦¬í•© OR ì—°ì‚°ì(||) 
     - [[or.cpp]](https://github.com/tlsehddbs/CPP_Basic/blob/main/06/04or.cpp "Listing 6.4")
-  * ³í¸®°ö AND ¿¬»êÀÚ(&&) 
+  * ë…¼ë¦¬ê³± AND ì—°ì‚°ì(&&) 
     * [[and.cpp]](https://github.com/tlsehddbs/CPP_Basic/blob/main/06/05and.cpp "Listing 6.5")
-    * ÇÁ·Î±×·¥ ºĞ¼®
-  * &&¸¦ ÀÌ¿ëÇÑ ¹üÀ§ ¼³Á¤ 
+    * í”„ë¡œê·¸ë¨ ë¶„ì„
+  * &&ë¥¼ ì´ìš©í•œ ë²”ìœ„ ì„¤ì • 
     * [[more_and.cpp]](https://github.com/tlsehddbs/CPP_Basic/blob/main/06/06more_and.cpp "Listing 6.6")
-    * ÇÁ·Î±×·¥ ºĞ¼®
-  * ³í¸®ºÎÁ¤ NOT ¿¬»êÀÚ(!) 
+    * í”„ë¡œê·¸ë¨ ë¶„ì„
+  * ë…¼ë¦¬ë¶€ì • NOT ì—°ì‚°ì(!) 
     * [[not.cpp]](https://github.com/tlsehddbs/CPP_Basic/blob/main/06/07not.cpp "Listing 6.7")
-    * ÇÁ·Î±×·¥ ºĞ¼®
-  * ³í¸® ¿¬»êÀÚÀÇ °í·Á »çÇ×
-  * ³í¸® ¿¬»êÀÚÀÇ ´ëÃ¼ Ç¥±â
+    * í”„ë¡œê·¸ë¨ ë¶„ì„
+  * ë…¼ë¦¬ ì—°ì‚°ìì˜ ê³ ë ¤ ì‚¬í•­
+  * ë…¼ë¦¬ ì—°ì‚°ìì˜ ëŒ€ì²´ í‘œê¸°
   
-* ### **06.3** ¹®ÀÚ ÇÔ¼ö¸¦ À§ÇÑ cctype ¶óÀÌºê·¯¸® 
+* ### **06.3** ë¬¸ì í•¨ìˆ˜ë¥¼ ìœ„í•œ cctype ë¼ì´ë¸ŒëŸ¬ë¦¬ 
     - [[cctypes.cpp]](https://github.com/tlsehddbs/CPP_Basic/blob/main/06/08cctypes.cpp "Listing 6.8")
   
-* ### **06.4** ? : ¿¬»êÀÚ 
+* ### **06.4** ? : ì—°ì‚°ì 
     - [[condit.cpp]](https://github.com/tlsehddbs/CPP_Basic/blob/main/06/09condit.cpp "Listing 6.9")
   
-* ### **06.5** switch ±¸¹® 
+* ### **06.5** switch êµ¬ë¬¸ 
     - [[switch.cpp]](https://github.com/tlsehddbs/CPP_Basic/blob/main/06/10switch.cpp "Listing 6.10")
-  * ·¹ÀÌºí·Î ¿­°ÅÀÚ »ç¿ëÇÏ±â 
+  * ë ˆì´ë¸”ë¡œ ì—´ê±°ì ì‚¬ìš©í•˜ê¸° 
     - [[enum.cpp]](https://github.com/tlsehddbs/CPP_Basic/blob/main/06/11enum.cpp "Listing 6.11")
-  * switch¿Í if else
+  * switchì™€ if else
   
-* ### **06.6** break¿Í continue ±¸¹® 
+* ### **06.6** breakì™€ continue êµ¬ë¬¸ 
   * [[jump.cpp]](https://github.com/tlsehddbs/CPP_Basic/blob/main/06/12jump.cpp "Listing 6.12")
-  * ÇÁ·Î±×·¥ ºĞ¼®
+  * í”„ë¡œê·¸ë¨ ë¶„ì„
   
-* ### **06.7** ¼ö¸¦ ÀĞ¾îµéÀÌ´Â ·çÇÁ 
+* ### **06.7** ìˆ˜ë¥¼ ì½ì–´ë“¤ì´ëŠ” ë£¨í”„ 
   * [[cinfish.cpp]](https://github.com/tlsehddbs/CPP_Basic/blob/main/06/13cinfish.cpp "Listing 6.13") 
   * [[cingolf.cpp]](https://github.com/tlsehddbs/CPP_Basic/blob/main/06/14cingolf.cpp "Listing 6.14")
-  * ÇÁ·Î±×·¥ ºĞ¼®
+  * í”„ë¡œê·¸ë¨ ë¶„ì„
   
-* ### **06.8** °£´ÜÇÑ ÆÄÀÏ ÀÔ·Â/Ãâ·Â
-  * ÅØ½ºÆ® I/O¿Í ÅØ½ºÆ® ÆÄÀÏ
-  * ÅØ½ºÆ® ÆÄÀÏ¿¡ ¾²±â 
+* ### **06.8** ê°„ë‹¨í•œ íŒŒì¼ ì…ë ¥/ì¶œë ¥
+  * í…ìŠ¤íŠ¸ I/Oì™€ í…ìŠ¤íŠ¸ íŒŒì¼
+  * í…ìŠ¤íŠ¸ íŒŒì¼ì— ì“°ê¸° 
     * [[outfile.cpp]](https://github.com/tlsehddbs/CPP_Basic/blob/main/06/15outfile.cpp "Listing 6.15")
-    * ÇÁ·Î±×·¥ ºĞ¼®
-  * ÅØ½ºÆ® ÆÄÀÏ ÀĞ±â 
+    * í”„ë¡œê·¸ë¨ ë¶„ì„
+  * í…ìŠ¤íŠ¸ íŒŒì¼ ì½ê¸° 
     * [[sumafile.cpp]](https://github.com/tlsehddbs/CPP_Basic/blob/main/06/16sumafile.cpp "Listing 6.16")
-    * ÇÁ·Î±×·¥ ºĞ¼®
+    * í”„ë¡œê·¸ë¨ ë¶„ì„
 
 ### [Listing 6 SUMMARY](https://github.com/tlsehddbs/CPP_Basic/blob/main/06/.SUMMARY6.md ".SUMMARY6.md")  
 ### [Listing 6 Programming Exercise](https://github.com/tlsehddbs/CPP_Basic/tree/main/06/PROGRAMMING%20EXERCISE)
 ### [Compatibility](https://github.com/tlsehddbs/CPP_Basic/blob/main/06/Compatibility(Listing6).md "Compatibility(Listing6.md") | [Note](https://github.com/tlsehddbs/CPP_Basic/blob/main/06/Note(Listing6).md "Note(Listing6).md") | [Tip](https://github.com/tlsehddbs/CPP_Basic/blob/main/06/Tip(Listing6).md "Tip(Listing6).md")
 
 ___
-## **07** ÇÔ¼ö-C++ÀÇ ÇÁ·Î±×·¡¹Ö ¸ğµâ
+## **07** í•¨ìˆ˜-C++ì˜ í”„ë¡œê·¸ë˜ë° ëª¨ë“ˆ
 <details>
-<summary>ÇĞ½À¸ñÇ¥</summary>
+<summary>í•™ìŠµëª©í‘œ</summary>
 <div markdown="1">
-¡Ü ÇÔ¼öÀÇ ±âÃÊ(º¹½À)<br>
-¡Ü ÇÔ¼öÀÇ ¿øÇü<br>
-¡Ü ÇÔ¼ö ¸Å°³º¯¼ö¸¦ °ªÀ¸·Î Àü´Ş<br>
-¡Ü ¹è¿­À» Ã³¸®ÇÏ´Â ÇÔ¼öÀÇ ¼³°è<br>
-¡Ü const Æ÷ÀÎÅÍ ¸Å°³º¯¼ö<br>
-¡Ü ¹®ÀÚ¿­À» Ã³¸®ÇÏ´Â ÇÔ¼öÀÇ ¼³°è<br>
-¡Ü ±¸Á¶Ã¼¸¦ Ã³¸®ÇÏ´Â ÇÔ¼öÀÇ ¼³°è<br>
-¡Ü string Å¬·¡½º °´Ã¼¸¦ Ã³¸®ÇÏ´Â ÇÔ¼öÀÇ ¼³°è<br>
-¡Ü ÀÚ±â ÀÚ½ÅÀ» È£ÃâÇÏ´Â (Àç±Í)ÇÔ¼ö<br>
-¡Ü ÇÏ¼ö¸¦ Áö½ÃÇÏ´Â Æ÷ÀÎÅÍ<br>
+â— í•¨ìˆ˜ì˜ ê¸°ì´ˆ(ë³µìŠµ)<br>
+â— í•¨ìˆ˜ì˜ ì›í˜•<br>
+â— í•¨ìˆ˜ ë§¤ê°œë³€ìˆ˜ë¥¼ ê°’ìœ¼ë¡œ ì „ë‹¬<br>
+â— ë°°ì—´ì„ ì²˜ë¦¬í•˜ëŠ” í•¨ìˆ˜ì˜ ì„¤ê³„<br>
+â— const í¬ì¸í„° ë§¤ê°œë³€ìˆ˜<br>
+â— ë¬¸ìì—´ì„ ì²˜ë¦¬í•˜ëŠ” í•¨ìˆ˜ì˜ ì„¤ê³„<br>
+â— êµ¬ì¡°ì²´ë¥¼ ì²˜ë¦¬í•˜ëŠ” í•¨ìˆ˜ì˜ ì„¤ê³„<br>
+â— string í´ë˜ìŠ¤ ê°ì²´ë¥¼ ì²˜ë¦¬í•˜ëŠ” í•¨ìˆ˜ì˜ ì„¤ê³„<br>
+â— ìê¸° ìì‹ ì„ í˜¸ì¶œí•˜ëŠ” (ì¬ê·€)í•¨ìˆ˜<br>
+â— í•˜ìˆ˜ë¥¼ ì§€ì‹œí•˜ëŠ” í¬ì¸í„°<br>
 </div>
 </details>
 
-* ### **07.1** ÇÔ¼öÀÇ ±âÃÊ(º¹½À) 
+* ### **07.1** í•¨ìˆ˜ì˜ ê¸°ì´ˆ(ë³µìŠµ) 
   - - [[calling.cpp]](https://github.com/tlsehddbs/CPP_Basic/blob/main/07/01calling.cpp "Listing 7.1")
-  * ÇÔ¼ö Á¤ÀÇ
-  * ÇÔ¼ö ¿øÇü°ú ÇÔ¼ö È£Ãâ 
+  * í•¨ìˆ˜ ì •ì˜
+  * í•¨ìˆ˜ ì›í˜•ê³¼ í•¨ìˆ˜ í˜¸ì¶œ 
     - [[protos.cpp]](https://github.com/tlsehddbs/CPP_Basic/blob/main/07/02protos.cpp "Listing 7.2")
-    * ÇÔ¼ö ¿øÇüÀº ¿Ö ÇÊ¿äÇÑ°¡?
-    * ÇÔ¼ö ¿øÇüÀÇ ±¸¹® ±ÔÄ¢
-    * ÇÔ¼ö ¿øÇüÀÌ »ç¿ëÀÚ¸¦ À§ÇØ ÇÏ´Â ÀÏ
+    * í•¨ìˆ˜ ì›í˜•ì€ ì™œ í•„ìš”í•œê°€?
+    * í•¨ìˆ˜ ì›í˜•ì˜ êµ¬ë¬¸ ê·œì¹™
+    * í•¨ìˆ˜ ì›í˜•ì´ ì‚¬ìš©ìë¥¼ ìœ„í•´ í•˜ëŠ” ì¼
   
-* ### **07.2** ÇÔ¼ö ¸Å°³º¯¼ö¿Í °ªÀ¸·Î Àü´ŞÇÏ±â
-  * ¿©·¯ °³ÀÇ ¸Å°³º¯¼ö 
+* ### **07.2** í•¨ìˆ˜ ë§¤ê°œë³€ìˆ˜ì™€ ê°’ìœ¼ë¡œ ì „ë‹¬í•˜ê¸°
+  * ì—¬ëŸ¬ ê°œì˜ ë§¤ê°œë³€ìˆ˜ 
     * [[twoarg.cpp]](https://github.com/tlsehddbs/CPP_Basic/blob/main/07/03twoarg.cpp "Listing 7.3")
-    * ÇÁ·Î±×·¥ ºĞ¼®
-  * µÎ °³ÀÇ ¸Å°³º¯¼ö¸¦ »ç¿ëÇÏ´Â ¶Ç ´Ù¸¥ ÇÔ¼ö 
+    * í”„ë¡œê·¸ë¨ ë¶„ì„
+  * ë‘ ê°œì˜ ë§¤ê°œë³€ìˆ˜ë¥¼ ì‚¬ìš©í•˜ëŠ” ë˜ ë‹¤ë¥¸ í•¨ìˆ˜ 
     * [[lotto.cpp]](https://github.com/tlsehddbs/CPP_Basic/blob/main/07/04lotto.cpp "Listing 7.4")
-    * ÇÁ·Î±×·¥ ºĞ¼®
+    * í”„ë¡œê·¸ë¨ ë¶„ì„
   
-* ### **07.3** ÇÔ¼ö¿Í ¹è¿­ 
+* ### **07.3** í•¨ìˆ˜ì™€ ë°°ì—´ 
   -  - [[arrfun1.cpp]](https://github.com/tlsehddbs/CPP_Basic/blob/main/07/05arrfun1.cpp "Listing 7.5")
-    * Æ÷ÀÎÅÍ¿Í ¹è¿­À» Ã³¸®ÇÏ´Â ÇÔ¼ö
-  * ¹è¿­À» ¸Å°³º¯¼ö·Î »ç¿ëÇÏ´Â °ÍÀÇ ÀÇ¹Ì 
+    * í¬ì¸í„°ì™€ ë°°ì—´ì„ ì²˜ë¦¬í•˜ëŠ” í•¨ìˆ˜
+  * ë°°ì—´ì„ ë§¤ê°œë³€ìˆ˜ë¡œ ì‚¬ìš©í•˜ëŠ” ê²ƒì˜ ì˜ë¯¸ 
     * [[arrfun2.cpp]](https://github.com/tlsehddbs/CPP_Basic/blob/main/07/06arrfun2.cpp "Listing 7.6")
-    * ÇÁ·Î±×·¥ ºĞ¼®
-  * ¹è¿­À» Ã³¸®ÇÏ´Â ÇÔ¼ö¿¡ ´ëÇÑ º¸Ãæ
-    * ¹è¿­ Ã¤¿ì±â
-    * ¹è¿­ÀÇ ³»¿ë Ãâ·Â°ú const·Î º¸È£ÇÏ±â
-    * ¹è¿­ÀÇ ¼öÁ¤
-    * ÄÚµåÀÇ °áÇÕ 
+    * í”„ë¡œê·¸ë¨ ë¶„ì„
+  * ë°°ì—´ì„ ì²˜ë¦¬í•˜ëŠ” í•¨ìˆ˜ì— ëŒ€í•œ ë³´ì¶©
+    * ë°°ì—´ ì±„ìš°ê¸°
+    * ë°°ì—´ì˜ ë‚´ìš© ì¶œë ¥ê³¼ constë¡œ ë³´í˜¸í•˜ê¸°
+    * ë°°ì—´ì˜ ìˆ˜ì •
+    * ì½”ë“œì˜ ê²°í•© 
       * [[arrfun3.cpp]](https://github.com/tlsehddbs/CPP_Basic/blob/main/07/07arrfun3.cpp "Listing 7.7")
-    * ÇÁ·Î±×·¥ ºĞ¼®
-    * ÀÏ¹İÀûÀÎ ¹è¿­ ÇÔ¼ö ¿ë¾î
-  * ¹è¿­ÀÇ ¹üÀ§¸¦ »ç¿ëÇÏ´Â ÇÔ¼ö 
+    * í”„ë¡œê·¸ë¨ ë¶„ì„
+    * ì¼ë°˜ì ì¸ ë°°ì—´ í•¨ìˆ˜ ìš©ì–´
+  * ë°°ì—´ì˜ ë²”ìœ„ë¥¼ ì‚¬ìš©í•˜ëŠ” í•¨ìˆ˜ 
     * [[arrfun4.cpp]](https://github.com/tlsehddbs/CPP_Basic/blob/main/07/08arrfun4.cpp "Listing 7.8")
-    * ÇÁ·Î±×·¥ ºĞ¼®
-  * Æ÷ÀÎÅÍ¿Í const
+    * í”„ë¡œê·¸ë¨ ë¶„ì„
+  * í¬ì¸í„°ì™€ const
   
-* ### **07.4** ÇÔ¼ö¿Í 2Â÷¿ø ¹è¿­
+* ### **07.4** í•¨ìˆ˜ì™€ 2ì°¨ì› ë°°ì—´
 
-* ### **07.5** Èû¼ö¿Í C ½ºÅ¸ÀÏÀÇ ¹®ÀÚ¿­
-  * C ½ºÅ¸ÀÏ ¹®ÀÚ¿­À» ¸Å°³º¯¼ö·Î »ç¿ëÇÏ´Â ÇÔ¼ö 
+* ### **07.5** í˜ìˆ˜ì™€ C ìŠ¤íƒ€ì¼ì˜ ë¬¸ìì—´
+  * C ìŠ¤íƒ€ì¼ ë¬¸ìì—´ì„ ë§¤ê°œë³€ìˆ˜ë¡œ ì‚¬ìš©í•˜ëŠ” í•¨ìˆ˜ 
     * [[strgfun.cpp]](https://github.com/tlsehddbs/CPP_Basic/blob/main/07/09strgfun.cpp "Listing 7.9")
-    * ÇÁ·Î±×·¥ ºĞ¼®
-  * C ½ºÅ¸ÀÏ ¹®ÀÚ¿­À» ¸®ÅÏÇÏ´Â ÇÔ¼ö 
+    * í”„ë¡œê·¸ë¨ ë¶„ì„
+  * C ìŠ¤íƒ€ì¼ ë¬¸ìì—´ì„ ë¦¬í„´í•˜ëŠ” í•¨ìˆ˜ 
     - [[strgback.cpp]](https://github.com/tlsehddbs/CPP_Basic/blob/main/07/10strgback.cpp "Listing 7.10")
-  *  ÇÁ·Î±×·¥ ºĞ¼®
+  *  í”„ë¡œê·¸ë¨ ë¶„ì„
   
-* ### **07.6** ÇÔ¼ö¿Í ±¸Á¶Ã¼
-  * ±¸Á¶Ã¼ÀÇ Àü´Ş°ú ¸®ÅÏ 
+* ### **07.6** í•¨ìˆ˜ì™€ êµ¬ì¡°ì²´
+  * êµ¬ì¡°ì²´ì˜ ì „ë‹¬ê³¼ ë¦¬í„´ 
     * [[travel.cpp]](https://github.com/tlsehddbs/CPP_Basic/blob/main/07/11travel.cpp "Listing 7.11")
-  * ÇÔ¼ö¿Í ±¸Á¶Ã¼ÀÇ µÎ ¹øÂ° ¿¹Á¦ 
+  * í•¨ìˆ˜ì™€ êµ¬ì¡°ì²´ì˜ ë‘ ë²ˆì§¸ ì˜ˆì œ 
     * [[strctfun.cpp]](https://github.com/tlsehddbs/CPP_Basic/blob/main/07/12strctfun.cpp "Listing 7.12")
-    * ÇÁ·Î±×·¥ ºĞ¼®
-  * ±¸Á¶Ã¼ ÁÖ¼ÒÀÇ Àü´Ş 
+    * í”„ë¡œê·¸ë¨ ë¶„ì„
+  * êµ¬ì¡°ì²´ ì£¼ì†Œì˜ ì „ë‹¬ 
     * [[strctptr.cpp]](https://github.com/tlsehddbs/CPP_Basic/blob/main/07/13strctptr.cpp "Listing 7.13")
   
-* ### **07.7** ÇÔ¼ö¿Í string Å¬·¡½º °´Ã¼ 
+* ### **07.7** í•¨ìˆ˜ì™€ string í´ë˜ìŠ¤ ê°ì²´ 
     * [[topfive.cpp]](https://github.com/tlsehddbs/CPP_Basic/blob/main/07/14topfive.cpp "Listing 7.14")
 
-* ### **07.8** ÇÔ¼ö¿Í array °´Ã¼ 
+* ### **07.8** í•¨ìˆ˜ì™€ array ê°ì²´ 
     * [[arrobj.cpp]](https://github.com/tlsehddbs/CPP_Basic/blob/main/07/15arrobj.cpp "Listing 7.15")
-  * ÇÁ·Î±×·¥ ºĞ¼®
+  * í”„ë¡œê·¸ë¨ ë¶„ì„
   
-* ### **07.9** Àç±Í È£Ãâ
-  * ´ÜÀÏ Àç±Í È£Ãâ 
+* ### **07.9** ì¬ê·€ í˜¸ì¶œ
+  * ë‹¨ì¼ ì¬ê·€ í˜¸ì¶œ 
     * [[recur.cpp]](https://github.com/tlsehddbs/CPP_Basic/blob/main/07/16recur.cpp "Listing 7.16")
-  * ´ÙÁß Àç±Í È£Ãâ 
+  * ë‹¤ì¤‘ ì¬ê·€ í˜¸ì¶œ 
     * [[ruler.cpp]](https://github.com/tlsehddbs/CPP_Basic/blob/main/07/17ruler.cpp "Listing 7.17")
   
-* ### **07.10** ÇÔ¼ö¸¦ Áö½ÃÇÏ´Â Æ÷ÀÎÅÍ
-  * ÇÔ¼ö Æ÷ÀÎÅÍÀÇ ±âÃÊ
-    * ÇÔ¼ö ÁÖ¼Ò ¾ò±â
-    * Æ÷ÀÎÅÍ¸¦ »ç¿ëÇÏ¿© ÇÔ¼ö ºÒ·¯³»±â
-  * ÇÔ¼ö Æ÷ÀÎÅÍ ¿¹Á¦ 
+* ### **07.10** í•¨ìˆ˜ë¥¼ ì§€ì‹œí•˜ëŠ” í¬ì¸í„°
+  * í•¨ìˆ˜ í¬ì¸í„°ì˜ ê¸°ì´ˆ
+    * í•¨ìˆ˜ ì£¼ì†Œ ì–»ê¸°
+    * í¬ì¸í„°ë¥¼ ì‚¬ìš©í•˜ì—¬ í•¨ìˆ˜ ë¶ˆëŸ¬ë‚´ê¸°
+  * í•¨ìˆ˜ í¬ì¸í„° ì˜ˆì œ 
     * [[fun_ptr.cpp]](https://github.com/tlsehddbs/CPP_Basic/blob/main/07/18fun_ptr.cpp "Listing 7.18")
-  * ÇÔ¼ö Æ÷ÀÎÅÍÀÇ º¯Çü 
+  * í•¨ìˆ˜ í¬ì¸í„°ì˜ ë³€í˜• 
     * [[arfupt.cpp]](https://github.com/tlsehddbs/CPP_Basic/blob/main/07/19arfupt.cpp "Listing 7.19")
-  * typedef¸¦ ÀÌ¿ëÇÑ ´Ü¼øÈ­
+  * typedefë¥¼ ì´ìš©í•œ ë‹¨ìˆœí™”
 
 ### [Listing 7 SUMMARY](https://github.com/tlsehddbs/CPP_Basic/blob/main/07/.SUMMARY7.md ".SUMMARY7.md")  
 ### [Listing 7 Programming Exercise](https://github.com/tlsehddbs/CPP_Basic/tree/main/07/PROGRAMMING%20EXERCISE)
 ### [Note](https://github.com/tlsehddbs/CPP_Basic/blob/main/07/Note(Listing7).md "Note(Listing7).md") | [Tip](https://github.com/tlsehddbs/CPP_Basic/blob/main/07/Tip(Listing7).md "Tip(Listing7).md")
 ___
-## **08** ÇÔ¼öÀÇ È°¿ë
+## **08** í•¨ìˆ˜ì˜ í™œìš©
 <details>
-<summary>ÇĞ½À¸ñÇ¥</summary>
+<summary>í•™ìŠµëª©í‘œ</summary>
 <div markdown="1">
-¡Ü ÀÎ¶óÀÎ ÇÔ¼ö<br>
-¡Ü ÂüÁ¶ º¯¼ö<br>
-¡Ü ÇÔ¼ö ¸Å°³º¯¼ö¸¦ ÂüÁ¶·Î Àü´Ş<br>
-¡Ü µğÆúÆ® ¸Å°³º¯¼ö<br>
-¡Ü ÇÔ¼ö ¿À¹ö·Îµù<br>
-¡Ü ÇÔ¼ö ÅÛÇÃ¸´<br>
-¡Ü ÇÔ¼ö ÅÛÇÃ¸´ÀÇ Æ¯¼öÈ­<br>
+â— ì¸ë¼ì¸ í•¨ìˆ˜<br>
+â— ì°¸ì¡° ë³€ìˆ˜<br>
+â— í•¨ìˆ˜ ë§¤ê°œë³€ìˆ˜ë¥¼ ì°¸ì¡°ë¡œ ì „ë‹¬<br>
+â— ë””í´íŠ¸ ë§¤ê°œë³€ìˆ˜<br>
+â— í•¨ìˆ˜ ì˜¤ë²„ë¡œë”©<br>
+â— í•¨ìˆ˜ í…œí”Œë¦¿<br>
+â— í•¨ìˆ˜ í…œí”Œë¦¿ì˜ íŠ¹ìˆ˜í™”<br>
 </div>
 </details>
 
-* ### **08.1** C++ ÀÎ¶óÀÎ(inline) ÇÔ¼ö 
+* ### **08.1** C++ ì¸ë¼ì¸(inline) í•¨ìˆ˜ 
   -  * [[inline.cpp]](https://github.com/tlsehddbs/CPP_Basic/blob/main/08/01inline.cpp "Listing 8.1")
   
-* ### **08.2** ÂüÁ¶ º¯¼ö
-  * ÂüÁ¶ º¯¼öÀÇ »ı¼º 
+* ### **08.2** ì°¸ì¡° ë³€ìˆ˜
+  * ì°¸ì¡° ë³€ìˆ˜ì˜ ìƒì„± 
     - [[firstref.cpp]](https://github.com/tlsehddbs/CPP_Basic/blob/main/08/02firstref.cpp "Listing 8.2") 
     - [[secref.cpp]](https://github.com/tlsehddbs/CPP_Basic/blob/main/08/03secref.cpp "Listing 8.3")
-  * ÇÔ¼ö ¸Å°³º¯¼ö·Î¼­ÀÇ ÂüÁ¶ 
+  * í•¨ìˆ˜ ë§¤ê°œë³€ìˆ˜ë¡œì„œì˜ ì°¸ì¡° 
     * [[swaps.cpp]](https://github.com/tlsehddbs/CPP_Basic/blob/main/08/04swaps.cpp "Listing 8.4")
-    * ÇÁ·Î±×·¥ ºĞ¼®
-  * ÂüÁ¶ÀÇ Æ¯¼º 
+    * í”„ë¡œê·¸ë¨ ë¶„ì„
+  * ì°¸ì¡°ì˜ íŠ¹ì„± 
     - [[cubes.cpp]](https://github.com/tlsehddbs/CPP_Basic/blob/main/08/05cubes.cpp "Listing 8.5")
-    * ÀÓ½Ã º¯¼ö, ÂüÁ¶ ¸Å°³º¯¼ö, const
-  * ±¸Á¶Ã¼¿¡ ´ëÇÑ ÂüÁ¶ 
+    * ì„ì‹œ ë³€ìˆ˜, ì°¸ì¡° ë§¤ê°œë³€ìˆ˜, const
+  * êµ¬ì¡°ì²´ì— ëŒ€í•œ ì°¸ì¡° 
     * [[strc_ref.cpp]](https://github.com/tlsehddbs/CPP_Basic/blob/main/08/06strc_ref.cpp "Listing 8.6")
-    * ÇÁ·Î±×·¥ ºĞ¼®
-    * ¿Ö ÂüÁ¶¸¦ ¸®ÅÏÇÏ´Â°¡?
-    * ÂüÁ¶¸¦ ¸®ÅÏÇÒ ¶§ ÁÖÀÇÇÒ Á¡
-    * ÂüÁ¶¸¦ ¸®ÅÏÇÒ ¶§ ¿Ö const¸¦ »ç¿ëÇÏ´Â°¡?
-  * Å¬·¡½º °´Ã¼¿Í ÂüÁ¶ 
+    * í”„ë¡œê·¸ë¨ ë¶„ì„
+    * ì™œ ì°¸ì¡°ë¥¼ ë¦¬í„´í•˜ëŠ”ê°€?
+    * ì°¸ì¡°ë¥¼ ë¦¬í„´í•  ë•Œ ì£¼ì˜í•  ì 
+    * ì°¸ì¡°ë¥¼ ë¦¬í„´í•  ë•Œ ì™œ constë¥¼ ì‚¬ìš©í•˜ëŠ”ê°€?
+  * í´ë˜ìŠ¤ ê°ì²´ì™€ ì°¸ì¡° 
     * [[strquote.cpp]](https://github.com/tlsehddbs/CPP_Basic/blob/main/08/07strquote.cpp "Listing 8.7")
-    * ÇÁ·Î±×·¥ ºĞ¼®
-  * ¶Ç ÇÏ³ªÀÇ °´Ã¼ ·¹½¼ : °´Ã¼, »ó¼Ó, ÂüÁ¶ 
+    * í”„ë¡œê·¸ë¨ ë¶„ì„
+  * ë˜ í•˜ë‚˜ì˜ ê°ì²´ ë ˆìŠ¨ : ê°ì²´, ìƒì†, ì°¸ì¡° 
     * [[filefunc.cpp]](https://github.com/tlsehddbs/CPP_Basic/blob/main/08/08filefunc.cpp "Listing 8.8")
-    * ÇÁ·Î±×·¥ ºĞ¼®
-  * ÂüÁ¶ ¸Å°³º¯¼ö´Â ¾ğÁ¦ »ç¿ëÇÏ´Â°¡?
+    * í”„ë¡œê·¸ë¨ ë¶„ì„
+  * ì°¸ì¡° ë§¤ê°œë³€ìˆ˜ëŠ” ì–¸ì œ ì‚¬ìš©í•˜ëŠ”ê°€?
   
-* ### **08.3** µğÆúÆ® ¸Å°³º¯¼ö 
+* ### **08.3** ë””í´íŠ¸ ë§¤ê°œë³€ìˆ˜ 
   * [[left.cpp]](https://github.com/tlsehddbs/CPP_Basic/blob/main/08/09left.cpp "Listing 8.9")
-  * ÇÁ·Î±×·¥ ºĞ¼® 
+  * í”„ë¡œê·¸ë¨ ë¶„ì„ 
   
-* ### **08.4** ÇÔ¼ö ¿À¹ö·Îµù
-  * ¿À¹ö·Îµù ¿¹Á¦ 
+* ### **08.4** í•¨ìˆ˜ ì˜¤ë²„ë¡œë”©
+  * ì˜¤ë²„ë¡œë”© ì˜ˆì œ 
     * [[leftover.cpp]](https://github.com/tlsehddbs/CPP_Basic/blob/main/08/10leftover.cpp "Listing 8.10")
-  * ÇÔ¼ö ¿À¹ö·ÎµùÀº ¾ğÁ¦ »ç¿ëÇÏ´Â°¡?
+  * í•¨ìˆ˜ ì˜¤ë²„ë¡œë”©ì€ ì–¸ì œ ì‚¬ìš©í•˜ëŠ”ê°€?
   
-* ### **08.5** ÇÔ¼ö ÅÛÇÃ¸´ 
+* ### **08.5** í•¨ìˆ˜ í…œí”Œë¦¿ 
   - * [[funtemp.cpp]](https://github.com/tlsehddbs/CPP_Basic/blob/main/08/11funtemp.cpp "Listing 8.11")
-  * ÅÛÇÃ¸´ÀÇ ¿À¹ö·Îµù 
+  * í…œí”Œë¦¿ì˜ ì˜¤ë²„ë¡œë”© 
     * [[twotemps.cpp]](https://github.com/tlsehddbs/CPP_Basic/blob/main/08/12twotemps.cpp "Listing 8.12")
-  * ÅÛÇÃ¸´ Á¦ÇÑ
-  * ¸í½ÃÀû Æ¯¼öÈ­ 
-    * 3¼¼´ë Æ¯¼öÈ­(ISO/ANSI C++ Ç¥ÁØ)
-    * ¸í½ÃÀû Æ¯¼öÈ­ ¿¹Á¦ 
+  * í…œí”Œë¦¿ ì œí•œ
+  * ëª…ì‹œì  íŠ¹ìˆ˜í™” 
+    * 3ì„¸ëŒ€ íŠ¹ìˆ˜í™”(ISO/ANSI C++ í‘œì¤€)
+    * ëª…ì‹œì  íŠ¹ìˆ˜í™” ì˜ˆì œ 
       * [[twoswap.cpp]](https://github.com/tlsehddbs/CPP_Basic/blob/main/08/13twoswap.cpp "Listing 8.13")
-    * ¿À·¡µÈ Æ¯¼öÈ­ Çü½Ä
-    * ±¸Ã¼È­¿Í Æ¯¼öÈ­
-  * ÄÄÆÄÀÏ·¯´Â ¾î´À ÇÔ¼ö¸¦ ¼±ÅÃÇÒ±î?
-    * Á¤È®ÇÑ ´ëÀÀ°ú ÃÖ¼±ÀÇ ´ëÀÀ
-    * ºÎºĞ¼ø¼­È­ ±ÔÄ¢À» ¼³¸íÇÏ´Â ¿¹Á¦ 
+    * ì˜¤ë˜ëœ íŠ¹ìˆ˜í™” í˜•ì‹
+    * êµ¬ì²´í™”ì™€ íŠ¹ìˆ˜í™”
+  * ì»´íŒŒì¼ëŸ¬ëŠ” ì–´ëŠ í•¨ìˆ˜ë¥¼ ì„ íƒí• ê¹Œ?
+    * ì •í™•í•œ ëŒ€ì‘ê³¼ ìµœì„ ì˜ ëŒ€ì‘
+    * ë¶€ë¶„ìˆœì„œí™” ê·œì¹™ì„ ì„¤ëª…í•˜ëŠ” ì˜ˆì œ 
       * [[tempover.cpp]](https://github.com/tlsehddbs/CPP_Basic/blob/main/08/14tempover.cpp "Listing 8.14")
-    * »ç¿ëÀÚÀÇ ¼±ÅÃ 
+    * ì‚¬ìš©ìì˜ ì„ íƒ 
       * [[choices.cpp]](https://github.com/tlsehddbs/CPP_Basic/blob/main/08/15choices.cpp "Listing 8.15")
-    * ¸Å°³º¯¼ö°¡ ¿©·¯ °³ÀÎ ÇÔ¼ö
-  * ÅÛÇÃ¸´ ÇÔ¼öÀÇ ¹ßÀü
-    * ±× Å¸ÀÔÀÌ ¹«¾ùÀÎ°¡?
-    * ´ëÃ¼ÇÒ ¼ö ÀÖ´Â ÇÔ¼ö±¸¹®(C++11ÀÇ Trailing Return Type)
+    * ë§¤ê°œë³€ìˆ˜ê°€ ì—¬ëŸ¬ ê°œì¸ í•¨ìˆ˜
+  * í…œí”Œë¦¿ í•¨ìˆ˜ì˜ ë°œì „
+    * ê·¸ íƒ€ì…ì´ ë¬´ì—‡ì¸ê°€?
+    * ëŒ€ì²´í•  ìˆ˜ ìˆëŠ” í•¨ìˆ˜êµ¬ë¬¸(C++11ì˜ Trailing Return Type)
 
 ### [Listing 8 SUMMARY](https://github.com/tlsehddbs/CPP_Basic/blob/main/08/.SUMMARY8.md ".SUMMARY8.md")  
 ### [Listing 8 Programming Exercise](https://github.com/tlsehddbs/CPP_Basic/tree/main/08/PROGRAMMING%20EXERCISE)
 ### [Compatibility](https://github.com/tlsehddbs/CPP_Basic/blob/main/08/Compatibility(Listing8).md "Compatibility(Listing8.md") | [Note](https://github.com/tlsehddbs/CPP_Basic/blob/main/08/Note(Listing8).md "Note(Listing8).md") | [Tip](https://github.com/tlsehddbs/CPP_Basic/blob/main/08/Tip(Listing8).md "Tip(Listing8).md")
 ___
-## **09** ¸Ş¸ğ¸® ¸ğµ¨°ú ÀÌ¸§ °ø°£
+## **09** ë©”ëª¨ë¦¬ ëª¨ë¸ê³¼ ì´ë¦„ ê³µê°„
 <details>
-<summary>ÇĞ½À¸ñÇ¥</summary>
+<summary>í•™ìŠµëª©í‘œ</summary>
 <div markdown="1">
-¡Ü ºĞÇÒ ÄÄÆÄÀÏ<br>
-¡Ü À§Ä¡ ÁöÁ¤ new<br>
-¡Ü ±â¾ï Á¸¼Ó ½Ã°£, »ç¿ë ¹üÀ§, ¸µÅ©<br>
-¡Ü ÀÌ¸§ °ø°£<br>
+â— ë¶„í•  ì»´íŒŒì¼<br>
+â— ìœ„ì¹˜ ì§€ì • new<br>
+â— ê¸°ì–µ ì¡´ì† ì‹œê°„, ì‚¬ìš© ë²”ìœ„, ë§í¬<br>
+â— ì´ë¦„ ê³µê°„<br>
 </div>
 </details>
 
-* ### **09.1** ºĞÇÒ ÄÄÆÄÀÏ
+* ### **09.1** ë¶„í•  ì»´íŒŒì¼
     * [[coordin.h]](https://github.com/tlsehddbs/CPP_Basic/blob/main/09/01coordin.h "Listing 9.1") 
     * [[file1.cpp]](https://github.com/tlsehddbs/CPP_Basic/blob/main/09/02file1.cpp "Listing 9.2") 
     * [[file2.cpp]](https://github.com/tlsehddbs/CPP_Basic/blob/main/09/03file2.cpp "Listing 9.3")
   
-* ### **09.2** ±â¾ï Á¸¼Ó ½Ã°£, »ç¿ë ¹üÀ§, ¸µÅ©
-  * »ç¿ë ¹üÀ§¿Í ¸µÅ©
-  * ÀÚµ¿ ¹ø¼ö 
+* ### **09.2** ê¸°ì–µ ì¡´ì† ì‹œê°„, ì‚¬ìš© ë²”ìœ„, ë§í¬
+  * ì‚¬ìš© ë²”ìœ„ì™€ ë§í¬
+  * ìë™ ë²ˆìˆ˜ 
     - [[autoscp.cpp]](https://github.com/tlsehddbs/CPP_Basic/blob/main/09/04autoscp.cpp "Listing 9.4")
-    * ÀÚµ¿ º¯¼öÀÇ ÃÊ±âÈ­
-    * ÀÚµ¿ º¯¼ö¿Í ½ºÅÃ
-    * ·¹Áö½ºÅÍ º¯¼ö
-  * Á¤Àû º¯¼ö
-    * Á¤Àû º¯¼ö ÃÊ±âÈ­
-  * Á¤Àû Á¸¼Ó ½Ã°£, ¿ÜºÎ ¸µÅ©
-    * ´ÜÀÏ Á¤ÀÇ ¿øÄ¢ 
+    * ìë™ ë³€ìˆ˜ì˜ ì´ˆê¸°í™”
+    * ìë™ ë³€ìˆ˜ì™€ ìŠ¤íƒ
+    * ë ˆì§€ìŠ¤í„° ë³€ìˆ˜
+  * ì •ì  ë³€ìˆ˜
+    * ì •ì  ë³€ìˆ˜ ì´ˆê¸°í™”
+  * ì •ì  ì¡´ì† ì‹œê°„, ì™¸ë¶€ ë§í¬
+    * ë‹¨ì¼ ì •ì˜ ì›ì¹™ 
       * [[external.cpp]](https://github.com/tlsehddbs/CPP_Basic/blob/main/09/05external.cpp "Listing 9.5") 
       * [[support.cpp]](https://github.com/tlsehddbs/CPP_Basic/blob/main/09/06support.cpp "Listing 9.6")
-    * ÇÁ·Î±×·¥ ºĞ¼®
-  * Á¤Àû Á¸¼Ó ±â°£, ³»ºÎ ¸µÅ© 
+    * í”„ë¡œê·¸ë¨ ë¶„ì„
+  * ì •ì  ì¡´ì† ê¸°ê°„, ë‚´ë¶€ ë§í¬ 
     * [[twofile1.cpp]](https://github.com/tlsehddbs/CPP_Basic/blob/main/09/07twofile1.cpp "Listing 9.7") 
     * [[twofile2.cpp]](https://github.com/tlsehddbs/CPP_Basic/blob/main/09/08twofile2.cpp "Listing 9.8")
-  * Á¤Àû ±â¾ï Á¸¼Ó ½Ã°£, ¸µÅ© ¾øÀ½ 
+  * ì •ì  ê¸°ì–µ ì¡´ì† ì‹œê°„, ë§í¬ ì—†ìŒ 
     - [[static.cpp]](https://github.com/tlsehddbs/CPP_Basic/blob/main/09/09static.cpp "Listing 9.9")
-  * Á¦ÇÑÀÚ
-    * Cv-Á¦ÇÑÀÚ
+  * ì œí•œì
+    * Cv-ì œí•œì
     * mutable
-    * const¿¡ ´ëÇÑ º¸Ãæ
-  * ÇÔ¼ö¿Í ¸µÅ©
-  * ¾ğ¾î ¸µÅ©
-  * ±â¾ï °ø°£ Çü½Ä°ú µ¿Àû ´ëÀÔ
-    * new ¿¬»êÀÚ¸¦ ÀÌ¿ëÇÑ ÃÊ±âÈ­
-    * new°¡ ½ÇÆĞÇÏ´Â °æ¿ì
-    * new; ¿¬»êÀÚµé, ÇÔ¼öµé, ´ëÃ¼ ÇÔ¼öµé
-    * À§Ä¡ ÁöÁ¤ new ¿¬»êÀÚ 
+    * constì— ëŒ€í•œ ë³´ì¶©
+  * í•¨ìˆ˜ì™€ ë§í¬
+  * ì–¸ì–´ ë§í¬
+  * ê¸°ì–µ ê³µê°„ í˜•ì‹ê³¼ ë™ì  ëŒ€ì…
+    * new ì—°ì‚°ìë¥¼ ì´ìš©í•œ ì´ˆê¸°í™”
+    * newê°€ ì‹¤íŒ¨í•˜ëŠ” ê²½ìš°
+    * new; ì—°ì‚°ìë“¤, í•¨ìˆ˜ë“¤, ëŒ€ì²´ í•¨ìˆ˜ë“¤
+    * ìœ„ì¹˜ ì§€ì • new ì—°ì‚°ì 
       * [[newplace.cpp]](https://github.com/tlsehddbs/CPP_Basic/blob/main/09/10newplace.cpp "Listing 9.10")
-    * ÇÁ·Î±×·¥ ºĞ¼®
-    * newÀÇ ¹èÄ¡ Çü½Ä
+    * í”„ë¡œê·¸ë¨ ë¶„ì„
+    * newì˜ ë°°ì¹˜ í˜•ì‹
   
-* ### **09.3** ÀÌ¸§ °ø°£
-  * ±¸½Ä C++ ÀÌ¸§ °ø°£
-  * »õ·Î¿î ÀÌ¸§ °ø°£ ±â´É
-  * using ¼±¾ğ°ú using Áö½ÃÀÚ
-    * using Áö½ÃÀÚ ´ë using ¼±¾ğ
-    * ÀÌ¸§ °ø°£¿¡ ´ëÇÑ º¸Ãæ
-    * ÀÌ¸§À» ¸í¸íÇÏÁö ¾ÊÀº ÀÌ¸§ °ø°£
-  * ÀÌ¸§ °ø°£ ¿¹Á¦ 
+* ### **09.3** ì´ë¦„ ê³µê°„
+  * êµ¬ì‹ C++ ì´ë¦„ ê³µê°„
+  * ìƒˆë¡œìš´ ì´ë¦„ ê³µê°„ ê¸°ëŠ¥
+  * using ì„ ì–¸ê³¼ using ì§€ì‹œì
+    * using ì§€ì‹œì ëŒ€ using ì„ ì–¸
+    * ì´ë¦„ ê³µê°„ì— ëŒ€í•œ ë³´ì¶©
+    * ì´ë¦„ì„ ëª…ëª…í•˜ì§€ ì•Šì€ ì´ë¦„ ê³µê°„
+  * ì´ë¦„ ê³µê°„ ì˜ˆì œ 
     * [[namesp.h]](https://github.com/tlsehddbs/CPP_Basic/blob/main/09/11namesp.h "Listing 9.11") 
     * [[namesp.cpp]](https://github.com/tlsehddbs/CPP_Basic/blob/main/09/12namesp.cpp "Listing 9.12") 
     * [[usenmsp.cpp]](https://github.com/tlsehddbs/CPP_Basic/blob/main/09/13usenmsp.cpp "Listing 9.13")
-  * ÀÌ¸§ °ø°£ÀÇ ¹Ì·¡
+  * ì´ë¦„ ê³µê°„ì˜ ë¯¸ë˜
 
 ### [Listing 9 SUMMARY](https://github.com/tlsehddbs/CPP_Basic/blob/main/09/.SUMMARY9.md ".SUMMARY9.md")  
 ### [Listing 9 Programming Exercise](https://github.com/tlsehddbs/CPP_Basic/tree/main/09/PROGRAMMING%20EXERCISE)
 ### [Compatibility](https://github.com/tlsehddbs/CPP_Basic/blob/main/09/Compatibility(Listing9).md "Compatibility(Listing9.md") | [Note](https://github.com/tlsehddbs/CPP_Basic/blob/main/09/Note(Listing9).md "Note(Listing9).md")
 ___
-## **10** °´Ã¼¿Í Å¬·¡½º
+## **10** ê°ì²´ì™€ í´ë˜ìŠ¤
 <details>
-<summary>ÇĞ½À¸ñÇ¥</summary>
+<summary>í•™ìŠµëª©í‘œ</summary>
 <div markdown="1">
-¡Ü ÀıÂ÷½Ä ÇÁ·Î±×·¡¹Ö°ú °´Ã¼ ÁöÇâ ÇÁ·Î±×·¡¹Ö<br>
-¡Ü Å¬·¡½ºÀÇ °³³ä<br>
-¡Ü Å¬·¡½ºÀÇ Á¤ÀÇ¿Í ±¸Çö<br>
-¡Ü public, private Å¬·¡½º¿¡ Á¢±ÙÇÏ±â<br>
-¡Ü Å¬·¡½º µ¥ÀÌÅÍ ¸â¹ö<br>
-¡Ü Å¬·¡½º ¸Ş¼­µå(Å¬·¡½º ÇÔ¼ö ¸â¹ö)<br>
-¡Ü Å¬·¡½º °´Ã¼ÀÇ »ı¼º°ú »ç¿ë<br>
-¡Ü Å¬·¡½º »ı¼ºÀÚ¿Í ÆÄ±«<br>
-¡Ü const ¸â¹ö ÇÔ¼ö<br>
-¡Ü this Æ÷ÀÎÅÍ<br>
-¡Ü °´Ã¼ ¹è¿­ÀÇ »ı¼º<br>
-¡Ü Å¬·¡½ºÀÇ »ç¿ë¹üÀ§<br>
-¡Ü Ãß»ó µ¥ÀÌÅÍÇü(ADT)<br>
+â— ì ˆì°¨ì‹ í”„ë¡œê·¸ë˜ë°ê³¼ ê°ì²´ ì§€í–¥ í”„ë¡œê·¸ë˜ë°<br>
+â— í´ë˜ìŠ¤ì˜ ê°œë…<br>
+â— í´ë˜ìŠ¤ì˜ ì •ì˜ì™€ êµ¬í˜„<br>
+â— public, private í´ë˜ìŠ¤ì— ì ‘ê·¼í•˜ê¸°<br>
+â— í´ë˜ìŠ¤ ë°ì´í„° ë©¤ë²„<br>
+â— í´ë˜ìŠ¤ ë©”ì„œë“œ(í´ë˜ìŠ¤ í•¨ìˆ˜ ë©¤ë²„)<br>
+â— í´ë˜ìŠ¤ ê°ì²´ì˜ ìƒì„±ê³¼ ì‚¬ìš©<br>
+â— í´ë˜ìŠ¤ ìƒì„±ìì™€ íŒŒê´´<br>
+â— const ë©¤ë²„ í•¨ìˆ˜<br>
+â— this í¬ì¸í„°<br>
+â— ê°ì²´ ë°°ì—´ì˜ ìƒì„±<br>
+â— í´ë˜ìŠ¤ì˜ ì‚¬ìš©ë²”ìœ„<br>
+â— ì¶”ìƒ ë°ì´í„°í˜•(ADT)<br>
 </div>
 </details>
 
-* ### **10.1** ÀıÂ÷½Ä ÇÁ·Î±×·¡¹Ö°ú °´Ã¼ ÁöÇâ ÇÁ·Î±×·¡¹Ö
+* ### **10.1** ì ˆì°¨ì‹ í”„ë¡œê·¸ë˜ë°ê³¼ ê°ì²´ ì§€í–¥ í”„ë¡œê·¸ë˜ë°
   
-* ### **10.2** Ãß»óÈ­¿Í Å¬·¡½º
-  * µ¥ÀÌÅÍÇüÀÌ¶õ ¹«¾ùÀÎ°¡?
-  * C++ÀÇ Å¬·¡½º 
+* ### **10.2** ì¶”ìƒí™”ì™€ í´ë˜ìŠ¤
+  * ë°ì´í„°í˜•ì´ë€ ë¬´ì—‡ì¸ê°€?
+  * C++ì˜ í´ë˜ìŠ¤ 
     - [[stock00.h]](https://github.com/tlsehddbs/CPP_Basic/blob/main/10/01stock00.h "Listing 10.1")
-    * Á¢±Ù Á¦¾î
-    * ¸â¹ö Á¢±Ù Á¦¾î : public ¶Ç´Â private?
-  * Å¬·¡½º ¸É¹ö ÇÔ¼öÀÇ ±¸Çö 
+    * ì ‘ê·¼ ì œì–´
+    * ë©¤ë²„ ì ‘ê·¼ ì œì–´ : public ë˜ëŠ” private?
+  * í´ë˜ìŠ¤ ë§´ë²„ í•¨ìˆ˜ì˜ êµ¬í˜„ 
     - [[stock00.cpp]](https://github.com/tlsehddbs/CPP_Basic/blob/main/10/02stock00.cpp "Listing 10.2")
-    * ¸â¹ö ÇÔ¼ö ¼³¸í
-    * ÀÎ¶óÀÎ ¸Ş¼­µå
-    * ¾î´À °´Ã¼°¡ ¸Ş¼­µå¸¦ »ç¿ëÇÒ±î?
-  * Å¬·¡½º »ç¿ëÇÏ±â 
+    * ë©¤ë²„ í•¨ìˆ˜ ì„¤ëª…
+    * ì¸ë¼ì¸ ë©”ì„œë“œ
+    * ì–´ëŠ ê°ì²´ê°€ ë©”ì„œë“œë¥¼ ì‚¬ìš©í• ê¹Œ?
+  * í´ë˜ìŠ¤ ì‚¬ìš©í•˜ê¸° 
     * [[usestock00.cpp]](https://github.com/tlsehddbs/CPP_Basic/blob/main/10/03usestock00.cpp "Listing 10.3")
-  * ½ÇÇà»óÀÇ º¯°æ
-  * Áö±İ±îÁöÀÇ ¼³¸í ¿ä¾à
+  * ì‹¤í–‰ìƒì˜ ë³€ê²½
+  * ì§€ê¸ˆê¹Œì§€ì˜ ì„¤ëª… ìš”ì•½
   
-* ### **10.3** Å¬·¡½º »ı¼ºÀÚ¿Í ÆÄ±«ÀÚ
-  * »ı¼ºÀÚÀÇ ¼±¾ğ°ú Á¤ÀÇ
-  * »ı¼ºÀÚ »ç¿ëÇÏ±â
-  * µğÆúÆ® »ı¼ºÀÚ
-  * ÆÄ±«ÀÚ
-  * Stock Å¬·¡½º °³¼±ÇÏ±â
-    * Çì´õ ÆÄÀÏ 
+* ### **10.3** í´ë˜ìŠ¤ ìƒì„±ìì™€ íŒŒê´´ì
+  * ìƒì„±ìì˜ ì„ ì–¸ê³¼ ì •ì˜
+  * ìƒì„±ì ì‚¬ìš©í•˜ê¸°
+  * ë””í´íŠ¸ ìƒì„±ì
+  * íŒŒê´´ì
+  * Stock í´ë˜ìŠ¤ ê°œì„ í•˜ê¸°
+    * í—¤ë” íŒŒì¼ 
       * [[stock10.h]](https://github.com/tlsehddbs/CPP_Basic/blob/main/10/04stock10.h "Listing 10.4")
-    * ¼¼ºÎ ±¸Çö ÆÄÀÏ 
+    * ì„¸ë¶€ êµ¬í˜„ íŒŒì¼ 
       * [[stock10.cpp]](https://github.com/tlsehddbs/CPP_Basic/blob/main/10/05stock10.cpp "Listing 10.5")
-    * Å¬¶óÀÌ¾ğÆ® ÆÄÀÏ 
+    * í´ë¼ì´ì–¸íŠ¸ íŒŒì¼ 
       * [[usestok1.cpp]](https://github.com/tlsehddbs/CPP_Basic/blob/main/10/06usestok1.cpp "Listing 10.6")
-    * ÇÁ·Î±×·¥ ºĞ¼®
-    * C++11ÀÇ ¸®½ºÆ® ÃÊ±âÈ­
-    * const ¸â¹ö ÇÔ¼ö
-  * »ı¼ºÀÚ¿Í ÆÄ±«ÀÚ¿¡ ´ëÇÑ ¿ä¾à
+    * í”„ë¡œê·¸ë¨ ë¶„ì„
+    * C++11ì˜ ë¦¬ìŠ¤íŠ¸ ì´ˆê¸°í™”
+    * const ë©¤ë²„ í•¨ìˆ˜
+  * ìƒì„±ìì™€ íŒŒê´´ìì— ëŒ€í•œ ìš”ì•½
   
-* ### **10.4** °´Ã¼ µé¿©´Ùº¸±â, this Æ÷ÀÎÅÍ 
+* ### **10.4** ê°ì²´ ë“¤ì—¬ë‹¤ë³´ê¸°, this í¬ì¸í„° 
     * [[stock20.h ]](https://github.com/tlsehddbs/CPP_Basic/blob/main/10/07stock20.h "Listing 10.7") 
     * [[stock20.cpp]](https://github.com/tlsehddbs/CPP_Basic/blob/main/10/08stock20.cpp "Listing 10.8")
 
-* ### **10.5** °´Ã¼ ¹è¿­ 
+* ### **10.5** ê°ì²´ ë°°ì—´ 
     * [[usestok2.cpp]](https://github.com/tlsehddbs/CPP_Basic/blob/main/10/09usestok2.cpp "Listing 10.9")
 
-* ### **10.6** Å¬·¡½º »ç¿ë ¹üÀ§
-  * Å¬·¡½º »ç¿ë ¹üÀ§ »ó¼ö
-  * ¹üÀ§°¡ Á¤ÇØÁø ¿­°Å(C++11)
+* ### **10.6** í´ë˜ìŠ¤ ì‚¬ìš© ë²”ìœ„
+  * í´ë˜ìŠ¤ ì‚¬ìš© ë²”ìœ„ ìƒìˆ˜
+  * ë²”ìœ„ê°€ ì •í•´ì§„ ì—´ê±°(C++11)
   
-* ### **10.7** Ãß»óÈ­ µ¥ÀÌÅÍÇü 
+* ### **10.7** ì¶”ìƒí™” ë°ì´í„°í˜• 
     * [[stack.h]](https://github.com/tlsehddbs/CPP_Basic/blob/main/10/10stack.h "Listing 10.10") 
     * [[stack.cpp]](https://github.com/tlsehddbs/CPP_Basic/blob/main/10/11stack.cpp "Listing 10.11") 
     * [[stacker.cpp]](https://github.com/tlsehddbs/CPP_Basic/blob/main/10/12stacker.cpp "Listing 10.12")
@@ -791,726 +791,726 @@ ___
 ### [Listing 10 Programming Exercise](https://github.com/tlsehddbs/CPP_Basic/tree/main/10/PROGRAMMING%20EXERCISE)
 ### [Compatibility](https://github.com/tlsehddbs/CPP_Basic/blob/main/10/Compatibility(Listing10).md "Compatibility(Listing10.md") | [Note](https://github.com/tlsehddbs/CPP_Basic/blob/main/10/Note(Listing10).md "Note(Listing10).md") | [Tip](https://github.com/tlsehddbs/CPP_Basic/blob/main/10/Tip(Listing10).md "Tip(Listing10).md") | [Remamber](https://github.com/tlsehddbs/CPP_Basic/blob/main/10/Remember(Listing10).md "Remember(Listing10).md") 
 ___
-## **11** Å¬·¡½ºÀÇ È°¿ë
+## **11** í´ë˜ìŠ¤ì˜ í™œìš©
 <details>
-<summary>ÇĞ½À¸ñÇ¥</summary>
+<summary>í•™ìŠµëª©í‘œ</summary>
 <div markdown="1">
-¡Ü ¿¬»êÀÚ ¿À¹ö·Îµù<br>
-¡Ü ÇÁ·»µå ÇÔ¼ö<br>
-¡Ü rand()ÇÔ¼ö¸¦ ÀÌ¿ëÇÑ ¹«ÀÛÀ§ °ª »ı¼º<br>
-¡Ü Å¬·¡½º¿Í °ü·ÃµÈ ÀÚµ¿ µ¥ÀÌÅÍÇü º¯È¯°ú µ¥ÀÌÅÍÇü Ä³½ºÆ®<br>
-¡Ü Ãâ·ÂÀ» À§ÇÑ << ¿¬»êÀÚ ¿À¹ö·Îµù<br>
-¡Ü Å¬·¡½º º¯È¯ ÇÔ¼ö<br>
-¡Ü »óÅÂ ¸â¹ö<br>
+â— ì—°ì‚°ì ì˜¤ë²„ë¡œë”©<br>
+â— í”„ë Œë“œ í•¨ìˆ˜<br>
+â— rand()í•¨ìˆ˜ë¥¼ ì´ìš©í•œ ë¬´ì‘ìœ„ ê°’ ìƒì„±<br>
+â— í´ë˜ìŠ¤ì™€ ê´€ë ¨ëœ ìë™ ë°ì´í„°í˜• ë³€í™˜ê³¼ ë°ì´í„°í˜• ìºìŠ¤íŠ¸<br>
+â— ì¶œë ¥ì„ ìœ„í•œ << ì—°ì‚°ì ì˜¤ë²„ë¡œë”©<br>
+â— í´ë˜ìŠ¤ ë³€í™˜ í•¨ìˆ˜<br>
+â— ìƒíƒœ ë©¤ë²„<br>
 </div>
 </details>
 
-* ### **11.1** ¿¬»êÀÚ ¿À¹ö·Îµù
+* ### **11.1** ì—°ì‚°ì ì˜¤ë²„ë¡œë”©
 
-* ### **11.2** Àá±ñÀÇ ÈŞ½Ä : ¿¬»êÀÚ ¿À¹ö·Îµù ¿¹Á¦ 
+* ### **11.2** ì ê¹ì˜ íœ´ì‹ : ì—°ì‚°ì ì˜¤ë²„ë¡œë”© ì˜ˆì œ 
     - [[mytime0.h]](https://github.com/tlsehddbs/CPP_Basic/blob/main/11/01mytime0.h "Listing 11.1") 
     - [[mytime0.cpp]](https://github.com/tlsehddbs/CPP_Basic/blob/main/11/02mytime0.cpp "Listing 11.2") 
     - [[usetime0.cpp]](https://github.com/tlsehddbs/CPP_Basic/blob/main/11/03usetime0.cpp "Listing 11.3")
-  * µ¡¼À ¿¬»êÀÚÀÇ Ãß°¡ 
+  * ë§ì…ˆ ì—°ì‚°ìì˜ ì¶”ê°€ 
     * [[mytime1.h]](https://github.com/tlsehddbs/CPP_Basic/blob/main/11/04mytime1.h "Listing 11.4") 
     * [[mytime1.cpp]](https://github.com/tlsehddbs/CPP_Basic/blob/main/11/05mytime1.cpp "Listing 11.5") 
     * [[usetime1.cpp]](https://github.com/tlsehddbs/CPP_Basic/blob/main/11/06usetime1.cpp "Listing 11.6")
-  * ¿À¹ö·Îµù Á¦¾à
-  * ¿À¹ö·Îµù ¿¬»êÀÚ º¸Ãæ 
+  * ì˜¤ë²„ë¡œë”© ì œì•½
+  * ì˜¤ë²„ë¡œë”© ì—°ì‚°ì ë³´ì¶© 
     * [[mytime2.h]](https://github.com/tlsehddbs/CPP_Basic/blob/main/11/07mytime2.h "Listing 11.7") 
     * [[mytime2.cpp]](https://github.com/tlsehddbs/CPP_Basic/blob/main/11/08mytime2.cpp "Listing 11.8") 
     * [[usetime2.cpp]](https://github.com/tlsehddbs/CPP_Basic/blob/main/11/09usetime2.cpp "Listing 11.9")
   
-* ### **11.3** ÇÁ·»µåÀÇ µµÀÔ
-  * ÇÁ·»µå »ı¼ºÇÏ±â
-  * ÇÁ·»µå : << ¿¬»êÀÚÀÇ ¿À¹ö·Îµù
-    * ¿À¹ö·Îµù <<ÀÇ Ã¹ ¹øÂ° ¹öÀü
-    * ¿À¹ö·Îµù <<ÀÇ µÎ ¹øÂ° ¹öÀü
+* ### **11.3** í”„ë Œë“œì˜ ë„ì…
+  * í”„ë Œë“œ ìƒì„±í•˜ê¸°
+  * í”„ë Œë“œ : << ì—°ì‚°ìì˜ ì˜¤ë²„ë¡œë”©
+    * ì˜¤ë²„ë¡œë”© <<ì˜ ì²« ë²ˆì§¸ ë²„ì „
+    * ì˜¤ë²„ë¡œë”© <<ì˜ ë‘ ë²ˆì§¸ ë²„ì „
       * [[mytime3.h]](https://github.com/tlsehddbs/CPP_Basic/blob/main/11/10mytime3.h "Listing 11.10")
       * [[mytime3.cpp]](https://github.com/tlsehddbs/CPP_Basic/blob/main/11/11mytime3.cpp "Listing 11.11")
       * [[usetime3.cpp]](https://github.com/tlsehddbs/CPP_Basic/blob/main/11/12usetime3.cpp "Listing 11.12")
   
-* ### **11.4** ¿À¹ö·Îµù ¿¬»êÀÚ : ¸â¹ö ÇÔ¼ö¿Í ¸â¹ö°¡ ¾Æ´Ñ ÇÔ¼ö
+* ### **11.4** ì˜¤ë²„ë¡œë”© ì—°ì‚°ì : ë©¤ë²„ í•¨ìˆ˜ì™€ ë©¤ë²„ê°€ ì•„ë‹Œ í•¨ìˆ˜
 
-* ### **11.5** ¿À¹ö·Îµù º¸Ãæ : Vector Å¬·¡½º
+* ### **11.5** ì˜¤ë²„ë¡œë”© ë³´ì¶© : Vector í´ë˜ìŠ¤
     - [[vect.h]](https://github.com/tlsehddbs/CPP_Basic/blob/main/11/13vect.h "Listing 11.13")
     - [[vect.cpp]](https://github.com/tlsehddbs/CPP_Basic/blob/main/11/14vect.cpp "Listing 11.14")
-  * »óÅÂ ¸â¹ö »ç¿ëÇÏ±â
-  * Vector Å¬·¡½º¸¦ À§ÇÑ »ê¼ú ¿¬»êÀÚ ¿À¹ö·Îµù
-    * °ö¼À
-    * ÇÑ°ÉÀ½ ´õ : ¿À¹ö·ÎµùµÈ ¿¬»êÀÚ ¶Ç ¿À¹ö·ÎµùÇÏ±â
-  * ±¸Çö¿¡ ´ëÇÑ º¸Ãæ ¼³¸í
-  * Vector Å¬·¡½º¿Í ¸¶±¸ÀâÀÌ °ÉÀ½
+  * ìƒíƒœ ë©¤ë²„ ì‚¬ìš©í•˜ê¸°
+  * Vector í´ë˜ìŠ¤ë¥¼ ìœ„í•œ ì‚°ìˆ  ì—°ì‚°ì ì˜¤ë²„ë¡œë”©
+    * ê³±ì…ˆ
+    * í•œê±¸ìŒ ë” : ì˜¤ë²„ë¡œë”©ëœ ì—°ì‚°ì ë˜ ì˜¤ë²„ë¡œë”©í•˜ê¸°
+  * êµ¬í˜„ì— ëŒ€í•œ ë³´ì¶© ì„¤ëª…
+  * Vector í´ë˜ìŠ¤ì™€ ë§ˆêµ¬ì¡ì´ ê±¸ìŒ
     * [[randwalk.cpp]](https://github.com/tlsehddbs/CPP_Basic/blob/main/11/15randwalk.cpp "Listing 11.15")
-  * ÇÁ·Î±×·¥ ºĞ¼®
+  * í”„ë¡œê·¸ë¨ ë¶„ì„
   
-* ### **11.6** ÀÚµ¿ º¯È¯°ú Å¬·¡½ºÀÇ µ¥ÀÌÅÍÇü º¯È¯
+* ### **11.6** ìë™ ë³€í™˜ê³¼ í´ë˜ìŠ¤ì˜ ë°ì´í„°í˜• ë³€í™˜
     - [[stonewt.h]](https://github.com/tlsehddbs/CPP_Basic/blob/main/11/16stonewt.h "Listing 11.16") 
     - [[stonewt.cpp]](https://github.com/tlsehddbs/CPP_Basic/blob/main/11/17stonewt.cpp "Listing 11.17")
     - [[stone.cpp]](https://github.com/tlsehddbs/CPP_Basic/blob/main/11/18stone.cpp "Listing 11.18")
-  * ÇÁ·Î±×·¥ ºĞ¼®
-  * º¯È¯ ÇÔ¼ö
+  * í”„ë¡œê·¸ë¨ ë¶„ì„
+  * ë³€í™˜ í•¨ìˆ˜
     - [[stonewt1.h]](https://github.com/tlsehddbs/CPP_Basic/blob/main/11/19stonewt1.h "Listing 11.19")
     - [[stonewt1.cpp]](https://github.com/tlsehddbs/CPP_Basic/blob/main/11/20stonewt1.cpp "Listing 11.20")
     - [[stone1.cpp]](https://github.com/tlsehddbs/CPP_Basic/blob/main/11/21stone1.cpp "Listing 11.21")
-    * µ¥ÀÌÅÍÇü º¯È¯ÀÇ ÀÚµ¿ Àû¿ë
-  * º¯È¯°ú ÇÁ·»µå
-    * µ¡¼À ±¸ÇöÀÇ ¼±ÅÃ
+    * ë°ì´í„°í˜• ë³€í™˜ì˜ ìë™ ì ìš©
+  * ë³€í™˜ê³¼ í”„ë Œë“œ
+    * ë§ì…ˆ êµ¬í˜„ì˜ ì„ íƒ
 
 ### [Listing 11 SUMMARY](https://github.com/tlsehddbs/CPP_Basic/blob/main/11/.SUMMARY11.md ".SUMMARY11.md")  
 ### [Listing 11 Programming Exercise](https://github.com/tlsehddbs/CPP_Basic/tree/main/11/PROGRAMMING%20EXERCISE)
 ### [Compatibility](https://github.com/tlsehddbs/CPP_Basic/blob/main/11/Compatibility(Listing11).md "Compatibility(Listing11.md") | [Note](https://github.com/tlsehddbs/CPP_Basic/blob/main/11/Note(Listing11).md "Note(Listing11).md") | [Tip](https://github.com/tlsehddbs/CPP_Basic/blob/main/11/Tip(Listing11).md "Tip(Listing11).md")
 ___
-## **12** Å¬·¡½º¿Í µ¿Àû ¸Ş¸ğ¸® ´ëÀÔ
+## **12** í´ë˜ìŠ¤ì™€ ë™ì  ë©”ëª¨ë¦¬ ëŒ€ì…
 <details>
-<summary>ÇĞ½À¸ñÇ¥</summary>
+<summary>í•™ìŠµëª©í‘œ</summary>
 <div markdown="1">
-¡Ü Å¬·¡½º ¸â¹ö¸¦ À§ÇÑ µ¿Àû ¸Ş¸ğ¸® ´ëÀÔ<br>
-¡Ü ¾Ï½ÃÀû/¸í½ÃÀû º¹»ç »ı¼ºÀÚ<br>
-¡Ü ¾Ï½ÃÀû/¸í½ÃÀû ¿À¹ö·Îµù ´ëÀÔ ¿¬»êÀÚ<br>
-¡Ü »ı¼ºÀÚ¿¡ new »ç¿ëÇÏ±â<br>
-¡Ü static Å¬·¡½º ¸â¹ö<br>
-¡Ü °´Ã¼¿¡ À§Ä¡ ÁöÁ¤ new »ç¿ëÇÏ±â<br>
-¡Ü °´Ã¼¸¦ Áö½ÃÇÏ´Â Æ÷ÀÎÅÍ<br>
-¡Ü Å¥ ADT ±¸Çö<br>
+â— í´ë˜ìŠ¤ ë©¤ë²„ë¥¼ ìœ„í•œ ë™ì  ë©”ëª¨ë¦¬ ëŒ€ì…<br>
+â— ì•”ì‹œì /ëª…ì‹œì  ë³µì‚¬ ìƒì„±ì<br>
+â— ì•”ì‹œì /ëª…ì‹œì  ì˜¤ë²„ë¡œë”© ëŒ€ì… ì—°ì‚°ì<br>
+â— ìƒì„±ìì— new ì‚¬ìš©í•˜ê¸°<br>
+â— static í´ë˜ìŠ¤ ë©¤ë²„<br>
+â— ê°ì²´ì— ìœ„ì¹˜ ì§€ì • new ì‚¬ìš©í•˜ê¸°<br>
+â— ê°ì²´ë¥¼ ì§€ì‹œí•˜ëŠ” í¬ì¸í„°<br>
+â— í ADT êµ¬í˜„<br>
 </div>
 </details>
 
-* ### **12.1** µ¿Àû ¸Ş¸ğ¸®¿Í Å¬·¡½º
-  * º¹½ÀÀ» À§ÇÑ ¿¹Á¦¿Í static Å¬·¡½º ¸â¹ö
+* ### **12.1** ë™ì  ë©”ëª¨ë¦¬ì™€ í´ë˜ìŠ¤
+  * ë³µìŠµì„ ìœ„í•œ ì˜ˆì œì™€ static í´ë˜ìŠ¤ ë©¤ë²„
       * [[strngbad.h]](https://github.com/tlsehddbs/CPP_Basic/blob/main/12/01strngbad.h "Listing 12.1")
       * [[strngbad.cpp]](https://github.com/tlsehddbs/CPP_Basic/blob/main/12/02strngbad.cpp "Listing 12.2")
       * [[vegnews.cpp]](https://github.com/tlsehddbs/CPP_Basic/blob/main/12/03vegnews.cpp "Listing 12.3")
-    * ÇÁ·Î±×·¥ ºĞ¼®
-  * Æ¯º° ¸â¹ö ÇÔ¼ö 
-    * µğÆúÆ® »ı¼ºÀÚ
-    * º¹»ç »ı¼ºÀÚ
-    * º¹»ç »ı¼ºÀÚ´Â ¾ğÁ¦ »ç¿ëµÇ´Â°¡?
-    * º¹»ç »ı¼ºÀÚ´Â ¹«½¼ ÀÏÀ» ÇÏ´Â°¡?
-  * Stringbad·Î È¸±Í : º¹»ç »ı¼ºÀÚ¿¡¼­ ¾îµğ°¡ Àß¸øµÇ¾ú³ª
-    * ¸í½ÃÀû º¹»ç »ı¼ºÀÚ·Î ÀÌ ¹®Á¦¸¦ ÇØ°áÇÏÀÚ
-  * ±âÅ¸ Stringbad ¹®Á¦Á¡ : ´ëÀÔ ¿¬»êÀÚ
-    * ´ëÀÔ ¿¬»êÀÚ´Â ¾ğÁ¦ »ç¿ëµÇ°í ¹«½¼ ÀÏÀ» ÇÏ´Â°¡?
-    * ´ëÀÔ¿¡¼­ ¾îµğ°¡ Àß¸øµÇ¾ú³ª
-    * ´ëÀÔ¿¡¼­ ¹ß»ıÇÏ´Â ¹®Á¦ÀÇ ÇØ°áÃ¥
+    * í”„ë¡œê·¸ë¨ ë¶„ì„
+  * íŠ¹ë³„ ë©¤ë²„ í•¨ìˆ˜ 
+    * ë””í´íŠ¸ ìƒì„±ì
+    * ë³µì‚¬ ìƒì„±ì
+    * ë³µì‚¬ ìƒì„±ìëŠ” ì–¸ì œ ì‚¬ìš©ë˜ëŠ”ê°€?
+    * ë³µì‚¬ ìƒì„±ìëŠ” ë¬´ìŠ¨ ì¼ì„ í•˜ëŠ”ê°€?
+  * Stringbadë¡œ íšŒê·€ : ë³µì‚¬ ìƒì„±ìì—ì„œ ì–´ë””ê°€ ì˜ëª»ë˜ì—ˆë‚˜
+    * ëª…ì‹œì  ë³µì‚¬ ìƒì„±ìë¡œ ì´ ë¬¸ì œë¥¼ í•´ê²°í•˜ì
+  * ê¸°íƒ€ Stringbad ë¬¸ì œì  : ëŒ€ì… ì—°ì‚°ì
+    * ëŒ€ì… ì—°ì‚°ìëŠ” ì–¸ì œ ì‚¬ìš©ë˜ê³  ë¬´ìŠ¨ ì¼ì„ í•˜ëŠ”ê°€?
+    * ëŒ€ì…ì—ì„œ ì–´ë””ê°€ ì˜ëª»ë˜ì—ˆë‚˜
+    * ëŒ€ì…ì—ì„œ ë°œìƒí•˜ëŠ” ë¬¸ì œì˜ í•´ê²°ì±…
   
-* ### **12.2** »õ·Ó°Ô °³¼±µÈ Srting Å¬·¡½º
-  * °³¼±µÈ µğÆúÆ® »ı¼ºÀÚ
-  * ºñ±³ ¸â¹ö
-  * [] Ç¥±â¸¦ »ç¿ëÇÏ¿© °³º° ¹®ÀÚ¿¡ Á¢±ÙÇÏ±â
-  * static Å¬·¡½º ¿À¹ö·Îµù¿¡ ´ëÇÑ º¸Ãæ
-  * ´ëÀÔ ¿¬»êÀÚ ¿À¹ö·Îµù¿¡ ´ëÇÑ º¸Ãæ
+* ### **12.2** ìƒˆë¡­ê²Œ ê°œì„ ëœ Srting í´ë˜ìŠ¤
+  * ê°œì„ ëœ ë””í´íŠ¸ ìƒì„±ì
+  * ë¹„êµ ë©¤ë²„
+  * [] í‘œê¸°ë¥¼ ì‚¬ìš©í•˜ì—¬ ê°œë³„ ë¬¸ìì— ì ‘ê·¼í•˜ê¸°
+  * static í´ë˜ìŠ¤ ì˜¤ë²„ë¡œë”©ì— ëŒ€í•œ ë³´ì¶©
+  * ëŒ€ì… ì—°ì‚°ì ì˜¤ë²„ë¡œë”©ì— ëŒ€í•œ ë³´ì¶©
       * [[string1.h]](https://github.com/tlsehddbs/CPP_Basic/blob/main/12/04string1.h "Listing 12.4")
       * [[string1.cpp]](https://github.com/tlsehddbs/CPP_Basic/blob/main/12/05string1.cpp "Listing 12.5")
       * [[sayings1.cpp]](https://github.com/tlsehddbs/CPP_Basic/blob/main/12/06sayings1.cpp "Listing 12.6")
   
-* ### **12.3** »ı¼ºÀÚ¿¡ new¸¦ »ç¿ëÇÒ ¶§ ÁÖÀÇÇÒ »çÇ×
-  * »ç¿ëÇÏÁö ¸»¾Æ¾ß ÇÒ °Í°ú »ç¿ëÇØµµ ÁÁÀº °Í
-  * Å¬·¡½º ¸â¹ö·Î Å¬·¡½º¸¦ °¡Áö´Â °æ¿ìÀÇ ¸â¹öº° º¹»ç
+* ### **12.3** ìƒì„±ìì— newë¥¼ ì‚¬ìš©í•  ë•Œ ì£¼ì˜í•  ì‚¬í•­
+  * ì‚¬ìš©í•˜ì§€ ë§ì•„ì•¼ í•  ê²ƒê³¼ ì‚¬ìš©í•´ë„ ì¢‹ì€ ê²ƒ
+  * í´ë˜ìŠ¤ ë©¤ë²„ë¡œ í´ë˜ìŠ¤ë¥¼ ê°€ì§€ëŠ” ê²½ìš°ì˜ ë©¤ë²„ë³„ ë³µì‚¬
   
-* ### **12.4** °´Ã¼ ¸®ÅÏ¿¡ ´ëÇÑ °üÂû
-  * const °´Ã¼¿¡ ´ëÇÑ ÂüÁ¶ ¸®ÅÏ
-  * const°¡ ¾Æ´Ñ °´Ã¼¿¡ ´ëÇÑ ÂüÁ¶ ¸®ÅÏ
-  * °´Ã¼ ¸®ÅÏ
-  * const °´Ã¼ ¸®ÅÏ
+* ### **12.4** ê°ì²´ ë¦¬í„´ì— ëŒ€í•œ ê´€ì°°
+  * const ê°ì²´ì— ëŒ€í•œ ì°¸ì¡° ë¦¬í„´
+  * constê°€ ì•„ë‹Œ ê°ì²´ì— ëŒ€í•œ ì°¸ì¡° ë¦¬í„´
+  * ê°ì²´ ë¦¬í„´
+  * const ê°ì²´ ë¦¬í„´
   
-* ### **12.5** °´Ã¼¸¦ Áö½ÃÇÏ´Â Æ÷ÀÎÅÍ
+* ### **12.5** ê°ì²´ë¥¼ ì§€ì‹œí•˜ëŠ” í¬ì¸í„°
     * - [[sayings2.cpp]](https://github.com/tlsehddbs/CPP_Basic/blob/main/12/07sayings2.cpp "Listing 12.7")
-  * new¿Í delete º¹½À
-  * Æ÷ÀÎÅÍ¿Í °´Ã¼¿¡ ´ëÇÑ ¿ä¾à
-  * À§Ä¡ ÁöÁ¤ new ´Ù½Ã »ìÆìº¸±â
+  * newì™€ delete ë³µìŠµ
+  * í¬ì¸í„°ì™€ ê°ì²´ì— ëŒ€í•œ ìš”ì•½
+  * ìœ„ì¹˜ ì§€ì • new ë‹¤ì‹œ ì‚´í´ë³´ê¸°
     * [[placenew1.cpp]](https://github.com/tlsehddbs/CPP_Basic/blob/main/12/08placenew1.cpp "Listing 12.8")
     * [[placenew2.cpp]](https://github.com/tlsehddbs/CPP_Basic/blob/main/12/09placenew2.cpp "Listing 12.9")
   
-* ### **12.6** Å×Å©´ĞÀÇ º¹½À
-  * << ¿¬»êÀÚÀÇ ¿À¹ö·Îµù
-  * º¯È¯ ÇÔ¼öµé
-  * »ı¼ºÀÚ°¡ new¸¦ »ç¿ëÇÏ´Â Å¬·¡½º
+* ### **12.6** í…Œí¬ë‹‰ì˜ ë³µìŠµ
+  * << ì—°ì‚°ìì˜ ì˜¤ë²„ë¡œë”©
+  * ë³€í™˜ í•¨ìˆ˜ë“¤
+  * ìƒì„±ìê°€ newë¥¼ ì‚¬ìš©í•˜ëŠ” í´ë˜ìŠ¤
   
-* ### **12.7** Å¥ ½Ã¹Ä·¹ÀÌ¼Ç
-  * Queue Å¬·¡½º
-    * Queue Å¬·¡½º ÀÎÅÍÆäÀÌ½º
-    * Queue Å¬·¡½º ¼¼ºÎ ±¸Çö
-    * Å¬·¡½º ¸Ş¼­µåµé
-    * ±× ¹ÛÀÇ Å¬·¡½º ¸Ş¼­µåµé
-  * Customer Å¬·¡½º
+* ### **12.7** í ì‹œë®¬ë ˆì´ì…˜
+  * Queue í´ë˜ìŠ¤
+    * Queue í´ë˜ìŠ¤ ì¸í„°í˜ì´ìŠ¤
+    * Queue í´ë˜ìŠ¤ ì„¸ë¶€ êµ¬í˜„
+    * í´ë˜ìŠ¤ ë©”ì„œë“œë“¤
+    * ê·¸ ë°–ì˜ í´ë˜ìŠ¤ ë©”ì„œë“œë“¤
+  * Customer í´ë˜ìŠ¤
     * [[queue.h]](https://github.com/tlsehddbs/CPP_Basic/blob/main/12/10queue.h "Listing 12.10")
     * [[queue.cpp]](https://github.com/tlsehddbs/CPP_Basic/blob/main/12/11queue.cpp "Listing 12.11")
-  * ATM ½Ã¹Ä·¹ÀÌ¼Ç
+  * ATM ì‹œë®¬ë ˆì´ì…˜
     * [[bank.cpp]](https://github.com/tlsehddbs/CPP_Basic/blob/main/12/12bank.cpp "Listing 12.12")
 
 ### [Listing 12 SUMMARY](https://github.com/tlsehddbs/CPP_Basic/blob/main/12/.SUMMARY12.md ".SUMMARY12.md")  
 ### [Listing 12 Programming Exercise](https://github.com/tlsehddbs/CPP_Basic/tree/main/12/PROGRAMMING%20EXERCISE)
 ### [Compatibility](https://github.com/tlsehddbs/CPP_Basic/blob/main/12/Compatibility(Listing12).md "Compatibility(Listing12.md") | [Note](https://github.com/tlsehddbs/CPP_Basic/blob/main/12/Note(Listing12).md "Note(Listing12).md") | [Tip](https://github.com/tlsehddbs/CPP_Basic/blob/main/12/Tip(Listing12).md "Tip(Listing12).md")
 ___
-## **13** Å¬·¡½ºÀÇ »ó¼Ó
+## **13** í´ë˜ìŠ¤ì˜ ìƒì†
 <details>
-<summary>ÇĞ½À¸ñÇ¥</summary>
+<summary>í•™ìŠµëª©í‘œ</summary>
 <div markdown="1">
-¡Ü is - a °ü°è·Î »ó¼ÓÇÏ±â<br>
-¡Ü ´Ù¸¥ Å¬·¡½º·ÎºÎÅÍ publicÀ¸·Î ÆÄ»ıµÈ Å¬·¡½º<br>
-¡Ü protected Á¢±Ù<br>
-¡Ü »ı¼ºÀÚ ¸â¹ö ÃÊ±âÀÚ ¸®½ºÆ®<br>
-¡Ü ¾÷Ä³½ºÆÃ°ú ´Ù¿îÄ³½ºÆÃ<br>
-¡Ü °¡»ó ¸â¹ö ÇÔ¼ö<br>
-¡Ü ÃÊ±â (Á¤Àû) °áÇÕ°ú ¸»±â (µ¿Àû) °áÇÕ<br>
-¡Ü Ãß»óÈ­ ±âÃÊ Å¬·¡½º<br>
-¡Ü ¼ø¼ö °¡»ó ÇÔ¼ö<br>
-¡Ü public »ó¼ÓÀº ¾ğÁ¦ ¾î¶»°Ô<br>
+â— is - a ê´€ê³„ë¡œ ìƒì†í•˜ê¸°<br>
+â— ë‹¤ë¥¸ í´ë˜ìŠ¤ë¡œë¶€í„° publicìœ¼ë¡œ íŒŒìƒëœ í´ë˜ìŠ¤<br>
+â— protected ì ‘ê·¼<br>
+â— ìƒì„±ì ë©¤ë²„ ì´ˆê¸°ì ë¦¬ìŠ¤íŠ¸<br>
+â— ì—…ìºìŠ¤íŒ…ê³¼ ë‹¤ìš´ìºìŠ¤íŒ…<br>
+â— ê°€ìƒ ë©¤ë²„ í•¨ìˆ˜<br>
+â— ì´ˆê¸° (ì •ì ) ê²°í•©ê³¼ ë§ê¸° (ë™ì ) ê²°í•©<br>
+â— ì¶”ìƒí™” ê¸°ì´ˆ í´ë˜ìŠ¤<br>
+â— ìˆœìˆ˜ ê°€ìƒ í•¨ìˆ˜<br>
+â— public ìƒì†ì€ ì–¸ì œ ì–´ë–»ê²Œ<br>
 </div>
 </details>
 
-* ### **13.1** °£´ÜÇÑ ±âÃÊ Å¬·¡½º·ÎºÎÅÍ ½ÃÀÛÇÏÀÚ
+* ### **13.1** ê°„ë‹¨í•œ ê¸°ì´ˆ í´ë˜ìŠ¤ë¡œë¶€í„° ì‹œì‘í•˜ì
     * * [[tabtenn0.h]](https://github.com/tlsehddbs/CPP_Basic/blob/main/13/01tabtenn0.h "Listing 13.1")
     * * [[tabtenn0.cpp]](https://github.com/tlsehddbs/CPP_Basic/blob/main/13/02tabtenn0.cpp "Listing 13.2")
     * * [[usett0.cpp]](https://github.com/tlsehddbs/CPP_Basic/blob/main/13/03usett0.cpp "Listing 13.3")
-  * Å¬·¡½º ÆÄ»ı½ÃÅ°±â
-  * »ı¼ºÀÚ : Á¢±Ù¿¡ ´ëÇÏ¿©
-  * ÆÄ»ı Å¬·¡½º »ç¿ëÇÏ±â
+  * í´ë˜ìŠ¤ íŒŒìƒì‹œí‚¤ê¸°
+  * ìƒì„±ì : ì ‘ê·¼ì— ëŒ€í•˜ì—¬
+  * íŒŒìƒ í´ë˜ìŠ¤ ì‚¬ìš©í•˜ê¸°
     * [[tabtenn1.h]](https://github.com/tlsehddbs/CPP_Basic/blob/main/13/04tabtenn1.h "Listing 13.4")
     * [[tabtenn1.cpp]](https://github.com/tlsehddbs/CPP_Basic/blob/main/13/05tabtenn1.cpp "Listing 13.5")
     * [[usett1.cpp]](https://github.com/tlsehddbs/CPP_Basic/blob/main/13/06usett1.cpp "Listing 13.6")
-  * ÆÄ»ı Å¬·¡½º¿Í ±âÃÊ Å¬·¡½ºÀÇ Æ¯º°ÇÑ °ü°è
+  * íŒŒìƒ í´ë˜ìŠ¤ì™€ ê¸°ì´ˆ í´ë˜ìŠ¤ì˜ íŠ¹ë³„í•œ ê´€ê³„
   
-* ### **13.2** »ó¼Ó : is-a °ü°è
+* ### **13.2** ìƒì† : is-a ê´€ê³„
 
-* ### **13.3** public ´ÙÇü »ó¼Ó
-  * Brass¿Í BrassPlus Å¬·¡½ºÀÇ °³¹ß
+* ### **13.3** public ë‹¤í˜• ìƒì†
+  * Brassì™€ BrassPlus í´ë˜ìŠ¤ì˜ ê°œë°œ
     * [[brass.h]](https://github.com/tlsehddbs/CPP_Basic/blob/main/13/07brass.h "Listing 13.7")
-    * Å¬·¡½ºÀÇ ±¸Çö
+    * í´ë˜ìŠ¤ì˜ êµ¬í˜„
       * [[brass.cpp]](https://github.com/tlsehddbs/CPP_Basic/blob/main/13/08brass.cpp "Listing 13.8")
-    * Brass¿Í BrassPlus Å¬·¡½ºÀÇ »ç¿ë
+    * Brassì™€ BrassPlus í´ë˜ìŠ¤ì˜ ì‚¬ìš©
       * [[usebrass1.cpp]](https://github.com/tlsehddbs/CPP_Basic/blob/main/13/09usebrass1.cpp "Listing 13.9")
-    * °¡»ó ¸Ş¼­µåÀÇ Çàµ¿
+    * ê°€ìƒ ë©”ì„œë“œì˜ í–‰ë™
       * [[usebrass2.cpp]](https://github.com/tlsehddbs/CPP_Basic/blob/main/13/10usebrass2.cpp "Listing 13.10")
-    * °¡»ó ÆÄ±«ÀÚ´Â ¿Ö ÇÊ¿äÇÒ±î?
+    * ê°€ìƒ íŒŒê´´ìëŠ” ì™œ í•„ìš”í• ê¹Œ?
   
-* ### **13.4** Á¤Àû °áÇÕ°ú µ¿Àû °áÇÕ
-  * Æ÷ÀÎÅÍ¿Í ÂüÁ¶ÇüÀÇ È£È¯
-  * °¡»ó ¸â¹ö ÇÔ¼ö¿Í µ¿Àû °áÇÕ
-    * ¿Ö µÎ Á¾·ùÀÇ °áÇÕÀÌ ÇÊ¿äÇÑ°¡? ¿Ö Á¤Àû °áÇÕÀÌ µğÆúÆ®ÀÎ°¡?
-    * °¡»ó ÇÔ¼ö´Â ¾î¶»°Ô µ¿ÀÛÇÏ´Â°¡?
-  * °¡»ó ¸Ş¼­µå¿¡ ´ëÇØ ¾Ë¾Æ¾ß ÇÒ »çÇ×
-    * »ı¼ºÀÚ
-    * ÆÄ±«ÀÚ
-    * ÇÁ·»µå
-    * °¡»ó ÇÔ¼ö¸¦ ´Ù½Ã Á¤ÀÇÇÏÁö ¾ÊÀ¸¸é
-    * °¡»ó ÇÔ¼ö¸¦ ´Ù½Ã Á¤ÀÇÇÏ¸é ¸Ş¼­µå°¡ Àº´ĞµÈ´Ù
+* ### **13.4** ì •ì  ê²°í•©ê³¼ ë™ì  ê²°í•©
+  * í¬ì¸í„°ì™€ ì°¸ì¡°í˜•ì˜ í˜¸í™˜
+  * ê°€ìƒ ë©¤ë²„ í•¨ìˆ˜ì™€ ë™ì  ê²°í•©
+    * ì™œ ë‘ ì¢…ë¥˜ì˜ ê²°í•©ì´ í•„ìš”í•œê°€? ì™œ ì •ì  ê²°í•©ì´ ë””í´íŠ¸ì¸ê°€?
+    * ê°€ìƒ í•¨ìˆ˜ëŠ” ì–´ë–»ê²Œ ë™ì‘í•˜ëŠ”ê°€?
+  * ê°€ìƒ ë©”ì„œë“œì— ëŒ€í•´ ì•Œì•„ì•¼ í•  ì‚¬í•­
+    * ìƒì„±ì
+    * íŒŒê´´ì
+    * í”„ë Œë“œ
+    * ê°€ìƒ í•¨ìˆ˜ë¥¼ ë‹¤ì‹œ ì •ì˜í•˜ì§€ ì•Šìœ¼ë©´
+    * ê°€ìƒ í•¨ìˆ˜ë¥¼ ë‹¤ì‹œ ì •ì˜í•˜ë©´ ë©”ì„œë“œê°€ ì€ë‹‰ëœë‹¤
   
-* ### **13.5** Á¢±Ù Á¦¾î : protected
+* ### **13.5** ì ‘ê·¼ ì œì–´ : protected
   
-* ### **13.6** Ãß»óÈ­ ±âÃÊ Å¬·¡½º
-  * ABC °³³äÀÇ Àû¿ë
+* ### **13.6** ì¶”ìƒí™” ê¸°ì´ˆ í´ë˜ìŠ¤
+  * ABC ê°œë…ì˜ ì ìš©
     * [[acctabc.h]](https://github.com/tlsehddbs/CPP_Basic/blob/main/13/11acctabc.h "Listing 13.11")
     * [[acctabc.cpp]](https://github.com/tlsehddbs/CPP_Basic/blob/main/13/12acctabc.cpp "Listing 13.12")
     * [[usebrass3.cpp]](https://github.com/tlsehddbs/CPP_Basic/blob/main/13/13usebrass3.cpp "Listing 13.13")
-  * ABC Ã¶ÇĞ
+  * ABC ì² í•™
   
-* ### **13.7** »ó¼Ó°ú µ¿Àû ¸Ş¸ğ¸® ´ëÀÔ
-  * °æ¿ì 1 - ÆÄ»ı Å¬·¡½º°¡ new¸¦ »ç¿ëÇÏÁö ¾Ê´Â´Ù
-  * °æ¿ì 2 - ÆÄ»ı Å¬·¡½º°¡ new¸¦ »ç¿ëÇÑ´Ù
-  * µ¿Àû ¸Ş¸ğ¸® ´ëÀÔ°ú ÇÁ·»µå¸¦ »ç¿ëÇÏ´Â »ó¼Ó ¿¹Á¦
+* ### **13.7** ìƒì†ê³¼ ë™ì  ë©”ëª¨ë¦¬ ëŒ€ì…
+  * ê²½ìš° 1 - íŒŒìƒ í´ë˜ìŠ¤ê°€ newë¥¼ ì‚¬ìš©í•˜ì§€ ì•ŠëŠ”ë‹¤
+  * ê²½ìš° 2 - íŒŒìƒ í´ë˜ìŠ¤ê°€ newë¥¼ ì‚¬ìš©í•œë‹¤
+  * ë™ì  ë©”ëª¨ë¦¬ ëŒ€ì…ê³¼ í”„ë Œë“œë¥¼ ì‚¬ìš©í•˜ëŠ” ìƒì† ì˜ˆì œ
     * [[dma.h]](https://github.com/tlsehddbs/CPP_Basic/blob/main/13/14dma.h "Listing 13.14")
     * [[dma.cpp]](https://github.com/tlsehddbs/CPP_Basic/blob/main/13/15dma.cpp "Listing 13.15")
     * [[usedma.cpp]](https://github.com/tlsehddbs/CPP_Basic/blob/main/13/16usedma.cpp "Listing 13.16")
 
-* ### **13.8** Å¬·¡½º ¼³°è º¹½À
-  * ÄÄÆÄÀÏ·¯°¡ ÀÚµ¿À¸·Î »ı¼ºÇÏ´Â ¸â¹ö ÇÔ¼öµé
-    * µğÆúÆ® »ı¼ºÀÚ
-    * º¹»ç »ı¼ºÀÚ
-    * ´ëÀÔ ¿¬»êÀÚ
-  * Å¬·¡½º ¸Ş¼­µå¿¡ °ü·ÃµÈ ±× ¹ÛÀÇ °í·Á »çÇ×
-    * »ı¼ºÀÚ °ü·Ã »çÇ×
-    * ÆÄ±«ÀÚ °ü·Ã »çÇ×
-    * º¯È¯ °ü·Ã »çÇ×
-    * °ªÀ¸·Î Àü´Ş°ú ÂüÁ¶·Î ¸®ÅÏ
-    * °´Ã¼ ¸®ÅÏ°ú ÂüÁ¶ ¸®ÅÏ
-    * constÀÇ »ç¿ë
-  * public »ó¼Ó¿¡ °ü·ÃµÈ ±× ¹ÛÀÇ °í·Á »çÇ×
-    * is-a °ü°è
-    * »ó¼ÓµÇÁö ¾Ê´Â °Í
-    * ´ëÀÔ ¿¬»êÀÚ °ü·Ã »çÇ×
-    * private ¸â¹ö¿Í protected ¸â¹ö
-    * °¡»ó ¸Ş¼­µå
-    * ÆÄ±«ÀÚ °ü·Ã »çÇ×
-    * ÇÁ·»µå °ü·Ã »çÇ×
-    * ±âÃÊ Å¬·¡½º ¸Ş¼­µåÀÇ È°¿ë
-  * Å¬·¡½º ÇÔ¼ö ¿ä¾à
+* ### **13.8** í´ë˜ìŠ¤ ì„¤ê³„ ë³µìŠµ
+  * ì»´íŒŒì¼ëŸ¬ê°€ ìë™ìœ¼ë¡œ ìƒì„±í•˜ëŠ” ë©¤ë²„ í•¨ìˆ˜ë“¤
+    * ë””í´íŠ¸ ìƒì„±ì
+    * ë³µì‚¬ ìƒì„±ì
+    * ëŒ€ì… ì—°ì‚°ì
+  * í´ë˜ìŠ¤ ë©”ì„œë“œì— ê´€ë ¨ëœ ê·¸ ë°–ì˜ ê³ ë ¤ ì‚¬í•­
+    * ìƒì„±ì ê´€ë ¨ ì‚¬í•­
+    * íŒŒê´´ì ê´€ë ¨ ì‚¬í•­
+    * ë³€í™˜ ê´€ë ¨ ì‚¬í•­
+    * ê°’ìœ¼ë¡œ ì „ë‹¬ê³¼ ì°¸ì¡°ë¡œ ë¦¬í„´
+    * ê°ì²´ ë¦¬í„´ê³¼ ì°¸ì¡° ë¦¬í„´
+    * constì˜ ì‚¬ìš©
+  * public ìƒì†ì— ê´€ë ¨ëœ ê·¸ ë°–ì˜ ê³ ë ¤ ì‚¬í•­
+    * is-a ê´€ê³„
+    * ìƒì†ë˜ì§€ ì•ŠëŠ” ê²ƒ
+    * ëŒ€ì… ì—°ì‚°ì ê´€ë ¨ ì‚¬í•­
+    * private ë©¤ë²„ì™€ protected ë©¤ë²„
+    * ê°€ìƒ ë©”ì„œë“œ
+    * íŒŒê´´ì ê´€ë ¨ ì‚¬í•­
+    * í”„ë Œë“œ ê´€ë ¨ ì‚¬í•­
+    * ê¸°ì´ˆ í´ë˜ìŠ¤ ë©”ì„œë“œì˜ í™œìš©
+  * í´ë˜ìŠ¤ í•¨ìˆ˜ ìš”ì•½
 
 ### [Listing 13 SUMMARY](https://github.com/tlsehddbs/CPP_Basic/blob/main/13/.SUMMARY13.md ".SUMMARY13.md")  
 ### [Listing 13 Programming Exercise](https://github.com/tlsehddbs/CPP_Basic/tree/main/13/PROGRAMMING%20EXERCISE)
 ### [Compatibility](https://github.com/tlsehddbs/CPP_Basic/blob/main/13/Compatibility(Listing13).md "Compatibility(Listing13.md") | [Note](https://github.com/tlsehddbs/CPP_Basic/blob/main/13/Note(Listing13).md "Note(Listing13).md") | [Tip](https://github.com/tlsehddbs/CPP_Basic/blob/main/13/Tip(Listing13).md "Tip(Listing13).md")
 ___
-## **14** C++ ÄÚµåÀÇ ÀçÈ°¿ë
+## **14** C++ ì½”ë“œì˜ ì¬í™œìš©
 <details>
-<summary>ÇĞ½À¸ñÇ¥</summary>
+<summary>í•™ìŠµëª©í‘œ</summary>
 <div markdown="1">
-¡Ü has - a °ü°è<br>
-¡Ü °´Ã¼ ¸â¹ö¸¦ °¡Áö´Â Å¬·¡½º(ÄÁÅ×ÀÎ¸ÕÆ®)<br>
-¡Ü valarray ÅÛÇÃ¸´ Å¬·¡½º<br>
-¡Ü private »ó¼Ó°ú protected »ó¼Ó<br>
-¡Ü ´ÙÁß »ó¼Ó<br>
-¡Ü °¡»ó ±âÃÊ ÅÛÇÃ¸´<br>
-¡Ü Å¬·¡½º ÅÛÇÃ¸´ ¸¸µé±â<br>
-¡Ü Å¬·¡½º ÅÛÇÃ¸´ »ç¿ëÇÏ±â<br>
-¡Ü ÅÛÇÃ¸´ Æ¯¼ö·Ö<br>
+â— has - a ê´€ê³„<br>
+â— ê°ì²´ ë©¤ë²„ë¥¼ ê°€ì§€ëŠ” í´ë˜ìŠ¤(ì»¨í…Œì¸ë¨¼íŠ¸)<br>
+â— valarray í…œí”Œë¦¿ í´ë˜ìŠ¤<br>
+â— private ìƒì†ê³¼ protected ìƒì†<br>
+â— ë‹¤ì¤‘ ìƒì†<br>
+â— ê°€ìƒ ê¸°ì´ˆ í…œí”Œë¦¿<br>
+â— í´ë˜ìŠ¤ í…œí”Œë¦¿ ë§Œë“¤ê¸°<br>
+â— í´ë˜ìŠ¤ í…œí”Œë¦¿ ì‚¬ìš©í•˜ê¸°<br>
+â— í…œí”Œë¦¿ íŠ¹ìˆ˜ë¡¸<br>
 </div>
 </details>
 
-* ### **14.1** °´Ã¼ ¸â¹ö¸¦ °¡Áö´Â Å¬·¡½º
-  * valarray Å¬·¡½º : ÈÈ¾îº¸±â
-  * Student Å¬·¡½º ¼³°è
-  * Student Å¬·¡½º ¿¹Á¦
+* ### **14.1** ê°ì²´ ë©¤ë²„ë¥¼ ê°€ì§€ëŠ” í´ë˜ìŠ¤
+  * valarray í´ë˜ìŠ¤ : í›‘ì–´ë³´ê¸°
+  * Student í´ë˜ìŠ¤ ì„¤ê³„
+  * Student í´ë˜ìŠ¤ ì˜ˆì œ
     * [[]]()
-    * ³»Æ÷µÈ °´Ã¼ÀÇ ÃÊ±âÈ­
-    * ³»Æ÷µÈ °´Ã¼ÀÇ ÀÎÅÍÆäÀÌ½º »ç¿ë
+    * ë‚´í¬ëœ ê°ì²´ì˜ ì´ˆê¸°í™”
+    * ë‚´í¬ëœ ê°ì²´ì˜ ì¸í„°í˜ì´ìŠ¤ ì‚¬ìš©
       * [[]]()
-    * student Å¬·¡½º »ç¿ë
+    * student í´ë˜ìŠ¤ ì‚¬ìš©
       * [[]]()
   
-* ### **14.2** private »ó¼Ó
-  * Student Å¬·¡½º ¿¹Á¦(»õ ¹öÀü)
-    * ±âÃÊ Å¬·¡½º ¼ººĞÀÇ ÃÊ±âÈ­
+* ### **14.2** private ìƒì†
+  * Student í´ë˜ìŠ¤ ì˜ˆì œ(ìƒˆ ë²„ì „)
+    * ê¸°ì´ˆ í´ë˜ìŠ¤ ì„±ë¶„ì˜ ì´ˆê¸°í™”
       * [[]]()
-    * ±âÃÊ Å¬·¡½º ¸Ş¼­µå¿¡ Á¢±ÙÇÏ±â
-    * ±âÃÊ Å¬·¡½º °´Ã¼¿¡ Á¢±ÙÇÏ±â
-    * ±âÃÊ Å¬·¡½º ÇÁ·»µå¿¡ Á¢±ÙÇÏ±â
+    * ê¸°ì´ˆ í´ë˜ìŠ¤ ë©”ì„œë“œì— ì ‘ê·¼í•˜ê¸°
+    * ê¸°ì´ˆ í´ë˜ìŠ¤ ê°ì²´ì— ì ‘ê·¼í•˜ê¸°
+    * ê¸°ì´ˆ í´ë˜ìŠ¤ í”„ë Œë“œì— ì ‘ê·¼í•˜ê¸°
       * [[]])
-    * °³Á¤µÈ Student Å¬·¡½º »ç¿ëÇÏ±â
+    * ê°œì •ëœ Student í´ë˜ìŠ¤ ì‚¬ìš©í•˜ê¸°
       * [[]]()
-  * ÄÁÅ×ÀÎ¸ÕÆ®¿Í private »ó¼Ó
-  * protected »ó¼Ó
-  * usingÀ» »ç¿ëÇÏ¿© Á¢±Ù ´Ù½Ã Á¤ÀÇÇÏ±â
+  * ì»¨í…Œì¸ë¨¼íŠ¸ì™€ private ìƒì†
+  * protected ìƒì†
+  * usingì„ ì‚¬ìš©í•˜ì—¬ ì ‘ê·¼ ë‹¤ì‹œ ì •ì˜í•˜ê¸°
   
-* ### **14.3** ´ÙÁß »ó¼Ó
+* ### **14.3** ë‹¤ì¤‘ ìƒì†
     * - [[]]()
     * - [[]]()
     * - [[]]()
-  * »ç¿ø ¼ö´Â ¸î ¸íÀÎ°¡?
-    * °¡»ó ±âÃÊ Å¬·¡½º
-    * »õ·Î¿î »ı¼ºÀÚ ±âÃÊ
-  * ¾î´À ¸Ş¼­µå¸¦ »ç¿ëÇÏ´Â°¡?
+  * ì‚¬ì› ìˆ˜ëŠ” ëª‡ ëª…ì¸ê°€?
+    * ê°€ìƒ ê¸°ì´ˆ í´ë˜ìŠ¤
+    * ìƒˆë¡œìš´ ìƒì„±ì ê¸°ì´ˆ
+  * ì–´ëŠ ë©”ì„œë“œë¥¼ ì‚¬ìš©í•˜ëŠ”ê°€?
     * [[]]()
     * [[]]()
     * [[]]()
-    * °¡»ó ±âÃÊ Å¬·¡½º¿Í °¡»óÀÌ ¾Æ´Ñ ±âÃÊ Å¬·¡½ºÀÇ È¥ÇÕ
-    * °¡»ó ±âÃÊ Å¬·¡½º¿Í ºñ±³ ¿ìÀ§
-  * ´ÙÁß »ó¼Ó ¿ä¾à
+    * ê°€ìƒ ê¸°ì´ˆ í´ë˜ìŠ¤ì™€ ê°€ìƒì´ ì•„ë‹Œ ê¸°ì´ˆ í´ë˜ìŠ¤ì˜ í˜¼í•©
+    * ê°€ìƒ ê¸°ì´ˆ í´ë˜ìŠ¤ì™€ ë¹„êµ ìš°ìœ„
+  * ë‹¤ì¤‘ ìƒì† ìš”ì•½
   
-* ### **14.4** Å¬·¡½º ÅÛÇÃ¸´
-  * Å¬·¡½º ÅÛÇÃ¸´ Á¤ÀÇ
+* ### **14.4** í´ë˜ìŠ¤ í…œí”Œë¦¿
+  * í´ë˜ìŠ¤ í…œí”Œë¦¿ ì •ì˜
     * [[]]()
-  * ÅÛÇÃ¸´ Å¬·¡½º »ç¿ë
+  * í…œí”Œë¦¿ í´ë˜ìŠ¤ ì‚¬ìš©
     * [[]]()
-  * ÅÛÇÃ¸´ Å¬·¡½º ÀÚ¼¼È÷ µé¿©´Ùº¸±â
-    * Æ÷ÀÎÅÍµéÀÇ ½ºÅÃÀ» Àß¸ø »ç¿ëÇÏ´Â °æ¿ì
-    * Æ÷ÀÎÅÍµéÀÇ ½ºÅÃÀ» ¹Ù¸£°Ô »ç¿ëÇÏ´Â °æ¿ì
+  * í…œí”Œë¦¿ í´ë˜ìŠ¤ ìì„¸íˆ ë“¤ì—¬ë‹¤ë³´ê¸°
+    * í¬ì¸í„°ë“¤ì˜ ìŠ¤íƒì„ ì˜ëª» ì‚¬ìš©í•˜ëŠ” ê²½ìš°
+    * í¬ì¸í„°ë“¤ì˜ ìŠ¤íƒì„ ë°”ë¥´ê²Œ ì‚¬ìš©í•˜ëŠ” ê²½ìš°
       * [[]]()
       * [[]]()
-    * ÇÁ·Î±×·¥ ºĞ¼®
-  * ¹è¿­ ÅÛÇÃ¸´ ¿¹Á¦¿Í µ¥ÀÌÅÍÇüÀÌ ¾Æ´Ñ ¸Å°³º¯¼ö
+    * í”„ë¡œê·¸ë¨ ë¶„ì„
+  * ë°°ì—´ í…œí”Œë¦¿ ì˜ˆì œì™€ ë°ì´í„°í˜•ì´ ì•„ë‹Œ ë§¤ê°œë³€ìˆ˜
     * [[]]()
-  * ÅÛÇÃ¸´ÀÇ À¶Åë¼º
-    * ÅÛÇÃ¸´ÀÇ Àç±ÍÀû »ç¿ë
+  * í…œí”Œë¦¿ì˜ ìœµí†µì„±
+    * í…œí”Œë¦¿ì˜ ì¬ê·€ì  ì‚¬ìš©
       * [[]]()
-    * ÇÏ³ª ÀÌ»óÀÇ µ¥ÀÌÅÍÇü ¸Å°³º¯¼ö »ç¿ë
+    * í•˜ë‚˜ ì´ìƒì˜ ë°ì´í„°í˜• ë§¤ê°œë³€ìˆ˜ ì‚¬ìš©
       * [[]]
-    * Å¬·¡½º ÅÛÇÃ¸´ µğÆúÆ® µ¥ÀÌÅÍÇü ¸Å°³º¯¼ö
-  * ÅÛÇÃ¸´ Æ¯¼öÈ­
-    * ¾Ï½ÃÀû ±¸Ã¼È­
-    * ¸í½ÃÀû ±¸Ã¼È­
-    * ¸í½ÃÀû Æ¯¼öÈ­
-    * ºÎºĞÀûÀÎ Æ¯¼öÈ­
-  * ¸â¹ö ÅÛÇÃ¸´
+    * í´ë˜ìŠ¤ í…œí”Œë¦¿ ë””í´íŠ¸ ë°ì´í„°í˜• ë§¤ê°œë³€ìˆ˜
+  * í…œí”Œë¦¿ íŠ¹ìˆ˜í™”
+    * ì•”ì‹œì  êµ¬ì²´í™”
+    * ëª…ì‹œì  êµ¬ì²´í™”
+    * ëª…ì‹œì  íŠ¹ìˆ˜í™”
+    * ë¶€ë¶„ì ì¸ íŠ¹ìˆ˜í™”
+  * ë©¤ë²„ í…œí”Œë¦¿
     * [[]]()
-  * ¸Å°³º¯¼ö ÅÛÇÃ¸´
+  * ë§¤ê°œë³€ìˆ˜ í…œí”Œë¦¿
     * [[]]()
-  * ÅÛÇÃ¸´ Å¬·¡½º¿Í ÇÁ·»µå ÇÔ¼ö
-    * ÅÛÇÃ¸´ Å¬·¡½º¿¡ ´ëÇÕ ÅÛÇÃ¸´ÀÌ ¾Æ´Ñ ÇÁ·»µå ÇÔ¼ö
+  * í…œí”Œë¦¿ í´ë˜ìŠ¤ì™€ í”„ë Œë“œ í•¨ìˆ˜
+    * í…œí”Œë¦¿ í´ë˜ìŠ¤ì— ëŒ€í•© í…œí”Œë¦¿ì´ ì•„ë‹Œ í”„ë Œë“œ í•¨ìˆ˜
       * [[]]()
-    * ÅÛÇÃ¸´ Å¬·¡½º¿¡ ´ëÇÑ ¹Ù¿îµå ÅÛÇÃ¸´ ÇÁ·»µå ÇÔ¼ö
+    * í…œí”Œë¦¿ í´ë˜ìŠ¤ì— ëŒ€í•œ ë°”ìš´ë“œ í…œí”Œë¦¿ í”„ë Œë“œ í•¨ìˆ˜
       * [[]]()
-    * ÅÛÇÃ¸´ Å¬·¡½º¿¡ ´ëÇÑ ¾ğ¹Ù¿îµå ÅÛÇÃ¸´ ÇÁ·»µå ÇÔ¼ö
+    * í…œí”Œë¦¿ í´ë˜ìŠ¤ì— ëŒ€í•œ ì–¸ë°”ìš´ë“œ í…œí”Œë¦¿ í”„ë Œë“œ í•¨ìˆ˜
       * [[]]()
-  * ÅÛÇÃ¸´ º°Äª(C++11)
+  * í…œí”Œë¦¿ ë³„ì¹­(C++11)
 
 ### [Listing 14 SUMMARY](https://github.com/tlsehddbs/CPP_Basic/blob/main/14/.SUMMARY14.md ".SUMMARY14.md")  
 ### [Listing 14 Programming Exercise](https://github.com/tlsehddbs/CPP_Basic/tree/main/14/PROGRAMMING%20EXERCISE)
 ___
-## **15** ÇÁ·»µå, ¿¹¿Ü, ±âÅ¸»çÇ×
+## **15** í”„ë Œë“œ, ì˜ˆì™¸, ê¸°íƒ€ì‚¬í•­
 <details>
-<summary>ÇĞ½À¸ñÇ¥</summary>
+<summary>í•™ìŠµëª©í‘œ</summary>
 <div markdown="1">
-¡Ü ÇÁ·»µå Å¬·¡½º<br>
-¡Ü ÇÁ·»µå Å¬·¡½ºÀÇ ¸Ş¼­µå<br>
-¡Ü ³»Æ÷µÈ Å¬·¡½º<br>
-¡Ü ¿¹¿Ü Ã³¸®, try ºí·Ï, catch ºí·Ï<br>
-¡Ü ¿¹¿Ü Å¬·¡½º<br>
-¡Ü RTTI(½ÇÇà ½Ã°£ µ¥ÀÌÅÍÇü Á¤º¸)<br>
-¡Ü dynamic_cast¿Í typeid<br>
-¡Ü static_cast, const_cast, reinterpret_cast<br>
+â— í”„ë Œë“œ í´ë˜ìŠ¤<br>
+â— í”„ë Œë“œ í´ë˜ìŠ¤ì˜ ë©”ì„œë“œ<br>
+â— ë‚´í¬ëœ í´ë˜ìŠ¤<br>
+â— ì˜ˆì™¸ ì²˜ë¦¬, try ë¸”ë¡, catch ë¸”ë¡<br>
+â— ì˜ˆì™¸ í´ë˜ìŠ¤<br>
+â— RTTI(ì‹¤í–‰ ì‹œê°„ ë°ì´í„°í˜• ì •ë³´)<br>
+â— dynamic_castì™€ typeid<br>
+â— static_cast, const_cast, reinterpret_cast<br>
 </div>
 </details>
 
-* ### **15.1** ÇÁ·»µå
-  * ÇÁ·»µå Å¬·¡½º
+* ### **15.1** í”„ë Œë“œ
+  * í”„ë Œë“œ í´ë˜ìŠ¤
     * [[]]()
     * [[]]()
     * [[]]()
-  * ÇÁ·»µå ¸â¹ö ÇÔ¼ö
+  * í”„ë Œë“œ ë©¤ë²„ í•¨ìˆ˜
     * [[]]()
-  * ±× ¹Û¿¡ ÇÁ·»µå °ü°è
-  * °øÀ¯ ÇÁ·»µå
+  * ê·¸ ë°–ì— í”„ë Œë“œ ê´€ê³„
+  * ê³µìœ  í”„ë Œë“œ
   
-* ### **15.2** ³»Æ÷ Å¬·¡½º 
-  * ³»Æ÷ Å¬·¡½º¿Í Á¢±Ù
-    * »ç¿ë ¹üÀ§
-    * Á¢±Ù Á¦¾î
-  * ÅÛÇÃ¸´¿¡¼­ÀÇ ³»Æ÷
+* ### **15.2** ë‚´í¬ í´ë˜ìŠ¤ 
+  * ë‚´í¬ í´ë˜ìŠ¤ì™€ ì ‘ê·¼
+    * ì‚¬ìš© ë²”ìœ„
+    * ì ‘ê·¼ ì œì–´
+  * í…œí”Œë¦¿ì—ì„œì˜ ë‚´í¬
     * [[]]()
     * [[]]()
   
-* ### **15.3** ¿¹¿Ü
-  * abort() È£Ãâ
+* ### **15.3** ì˜ˆì™¸
+  * abort() í˜¸ì¶œ
     * [[]]()
-  * ¿¡·¯ ÄÚµå ¸®ÅÏ
+  * ì—ëŸ¬ ì½”ë“œ ë¦¬í„´
     * [[]]()
-    * ÇÁ·Î±×·¥ ºĞ¼®
-  * ¿¹¿Ü ¸ŞÄ¿´ÏÁò
+    * í”„ë¡œê·¸ë¨ ë¶„ì„
+  * ì˜ˆì™¸ ë©”ì»¤ë‹ˆì¦˜
     * [[]]()
-    * ÇÁ·Î±×·¥ ºĞ¼®
-  * ¿¹¿Ü·Î °´Ã¼ »ç¿ëÇÏ±â
+    * í”„ë¡œê·¸ë¨ ë¶„ì„
+  * ì˜ˆì™¸ë¡œ ê°ì²´ ì‚¬ìš©í•˜ê¸°
     * [[]]()
     * [[]]()
-  * C++11¿¡¼­ÀÇ ¿¹¿Ü ±Ô°İ
-  * ½ºÅÃ Ç®±â
+  * C++11ì—ì„œì˜ ì˜ˆì™¸ ê·œê²©
+  * ìŠ¤íƒ í’€ê¸°
     * [[]]()
-    * ÇÁ·Î±×·¥ ºĞ¼®
-  * ¿¹¿ÜÀÇ ±× ¹ÛÀÇ ±â´É
-  * exception Å¬·¡½º
-    * stdexcept ¿¹¿Ü Å¬·¡½º
-    * bad_alloc ¿¹¿Ü¿Í new
+    * í”„ë¡œê·¸ë¨ ë¶„ì„
+  * ì˜ˆì™¸ì˜ ê·¸ ë°–ì˜ ê¸°ëŠ¥
+  * exception í´ë˜ìŠ¤
+    * stdexcept ì˜ˆì™¸ í´ë˜ìŠ¤
+    * bad_alloc ì˜ˆì™¸ì™€ new
       * [[]]()
-    * NULL Æ÷ÀÎÅÍ¿Í new
-  * ¿¹¿Ü, Å¬·¡½º, »ó¼Ó
+    * NULL í¬ì¸í„°ì™€ new
+  * ì˜ˆì™¸, í´ë˜ìŠ¤, ìƒì†
     * [[]]()
     * [[]]()
     * [[]]()
-  * Àß¸øµÈ ¿¹¿Ü
-  * ¿¹¿Ü ÁÖÀÇ»çÇÒ
+  * ì˜ëª»ëœ ì˜ˆì™¸
+  * ì˜ˆì™¸ ì£¼ì˜ì‚¬í• 
   
 * ### **15.4** RTTI
-  * RTTIÀÇ ¸ñÀû
-  * RTTIÀÇ µ¿ÀÛ ¹æ½Ä
+  * RTTIì˜ ëª©ì 
+  * RTTIì˜ ë™ì‘ ë°©ì‹
     * [[]]()
-    * typeid ¿¬»êÀÚ¿Í typr_info Å¬·¡½º
+    * typeid ì—°ì‚°ìì™€ typr_info í´ë˜ìŠ¤
       * [[]]()
-  * RTTIÀÇ ¿À¿ë
+  * RTTIì˜ ì˜¤ìš©
   
-* ### **15.5** µ¥ÀÌÅÍÇü º¯È¯ ¿¬»êÀÚ
+* ### **15.5** ë°ì´í„°í˜• ë³€í™˜ ì—°ì‚°ì
   * - [[]]()
 
 ### [Listing 15 SUMMARY](https://github.com/tlsehddbs/CPP_Basic/blob/main/15/.SUMMARY15.md ".SUMMARY15.md")  
 ### [Listing 15 Programming Exercise](https://github.com/tlsehddbs/CPP_Basic/tree/main/15/PROGRAMMING%20EXERCISE)
 ___
-## **16** stringÅ¬·¡½º¿Í Ç¥ÁØ ÅÛÇÃ¸´ ¶óÀÌºê·¯¸®
+## **16** stringí´ë˜ìŠ¤ì™€ í‘œì¤€ í…œí”Œë¦¿ ë¼ì´ë¸ŒëŸ¬ë¦¬
 <details>
-<summary>ÇĞ½À¸ñÇ¥</summary>
+<summary>í•™ìŠµëª©í‘œ</summary>
 <div markdown="1">
-¡Ü C++ Ç¥ÁØ string Å¬·¡½º<br>
-¡Ü suto_ptr ÅÛÇÃ¸´, unique_ptr ÅÛÇÃ¸´, shared_ptr ÅÛÇÃ¸´<br>
-¡Ü Ç¥ÁØ ÅÛÇÃ¸´ ¶óÀÌºê·¯¸®(STL)<br>
-¡Ü ÄÁÅ×ÀÌ³Ê Å¬·¡½º<br>
-¡Ü ÀÌÅÍ·¹ÀÌÅÍ(iterator)<br>
-¡Ü ÇÔ¼ö °´Ã¼(functor)<br>
-¡Ü STL ¾Ë°í¸®Áò<br>
-¡Ü initializer_list ÅÛÇÃ¸´<br>
+â— C++ í‘œì¤€ string í´ë˜ìŠ¤<br>
+â— suto_ptr í…œí”Œë¦¿, unique_ptr í…œí”Œë¦¿, shared_ptr í…œí”Œë¦¿<br>
+â— í‘œì¤€ í…œí”Œë¦¿ ë¼ì´ë¸ŒëŸ¬ë¦¬(STL)<br>
+â— ì»¨í…Œì´ë„ˆ í´ë˜ìŠ¤<br>
+â— ì´í„°ë ˆì´í„°(iterator)<br>
+â— í•¨ìˆ˜ ê°ì²´(functor)<br>
+â— STL ì•Œê³ ë¦¬ì¦˜<br>
+â— initializer_list í…œí”Œë¦¿<br>
 </div>
 </details>
 
-* ### **16.1** string Å¬·¡½º
-  * ¹®ÀÚ¿­ »ı¼º
+* ### **16.1** string í´ë˜ìŠ¤
+  * ë¬¸ìì—´ ìƒì„±
     * [[]]()
-    * ÇÁ·Î±×·¥ ºĞ¼®
-    * C++11 »ı¼ºÀÚµé
-  * string Å¬·¡½º ÀÔ·Â
+    * í”„ë¡œê·¸ë¨ ë¶„ì„
+    * C++11 ìƒì„±ìë“¤
+  * string í´ë˜ìŠ¤ ì…ë ¥
     * [[]]()
-  * ¹®ÀÚ¿­ ÀÛ¾÷
+  * ë¬¸ìì—´ ì‘ì—…
     * [[]]()
-    * ÇÁ·Î±×·¥ ºĞ¼®
-  * string Å¬·¡½º°¡ Á¦°øÇÏ´Â ±× ¹ÛÀÇ ±â´É
+    * í”„ë¡œê·¸ë¨ ë¶„ì„
+  * string í´ë˜ìŠ¤ê°€ ì œê³µí•˜ëŠ” ê·¸ ë°–ì˜ ê¸°ëŠ¥
     * [[]]()
-  * string ´Ù¾ç¼º
+  * string ë‹¤ì–‘ì„±
   
-* ### **16.2** ½º¸¶Æ® Æ÷ÀÎÅÍ ÅÛÇÃ¸´ Å¬·¡½º
-  * ½º¸¶Æ® Æ÷ÀÎÅÍÀÇ »ç¿ë
+* ### **16.2** ìŠ¤ë§ˆíŠ¸ í¬ì¸í„° í…œí”Œë¦¿ í´ë˜ìŠ¤
+  * ìŠ¤ë§ˆíŠ¸ í¬ì¸í„°ì˜ ì‚¬ìš©
     * [[]]()
-  * ½º¸¶Æ® Æ÷ÀÎÅÍ °í·Á »çÇ×
+  * ìŠ¤ë§ˆíŠ¸ í¬ì¸í„° ê³ ë ¤ ì‚¬í•­
     * [[]]()
-  * auto_ptrº¸´Ù unique_ptrÀÌ ´õ ÁÁÀº ÀÌÀ¯
-  * ½º¸¶Æ® Æ÷ÀÎÅÍ ¼±ÅÃ 
+  * auto_ptrë³´ë‹¤ unique_ptrì´ ë” ì¢‹ì€ ì´ìœ 
+  * ìŠ¤ë§ˆíŠ¸ í¬ì¸í„° ì„ íƒ 
   
-* ### **16.3** Ç¥ÁØ ÅÛÇÃ¸´ ¶óÀÌºê·¯¸®
-  * vector ÅÛÇÃ¸´ Å¬·¡½º
+* ### **16.3** í‘œì¤€ í…œí”Œë¦¿ ë¼ì´ë¸ŒëŸ¬ë¦¬
+  * vector í…œí”Œë¦¿ í´ë˜ìŠ¤
     * [[]]()
-  * vector¿¡¼­ ÇÒ ¼ö ÀÖ´Â °Í
+  * vectorì—ì„œ í•  ìˆ˜ ìˆëŠ” ê²ƒ
     * [[]]()
-  * vector¿¡¼­ ÇÒ ¼ö ÀÖ´Â ±× ¹ÛÀÇ °Í
+  * vectorì—ì„œ í•  ìˆ˜ ìˆëŠ” ê·¸ ë°–ì˜ ê²ƒ
     * [[]]()
-  * Range¿¡ ±âÃÊÇÑ ·çÇÁ(C++11)
+  * Rangeì— ê¸°ì´ˆí•œ ë£¨í”„(C++11)
 
-* ### **16.4** ÀÏ¹İÈ­ ÇÁ·Î±×·¡¹Ö
-  * ÀÌÅÍ·¹ÀÌÅÍ°¡ ÇÊ¿äÇÑ ÀÌÀ¯
-  * ÀÌÅÍ·¹ÀÌÅÍÀÇ Á¾·ù
-    * ÀÔ·Â ÀÌÅÍ·¹ÀÌÅÍ
-    * Ãâ·Â ÀÌÅÍ·¹ÀÌÅÍ
-    * Àü¹æ ÀÌÅÍ·¹ÀÌÅÍ
-    * ÀüÈÄ¹æ ÀÌÅÍ·¹ÀÌÅÍ
-    * ÀÓÀÇ Á¢±Ù ÀÌÅÍ·¹ÀÌÅÍ
-  * ÀÌÅÍ·¹ÀÌÅÍ °èÃş
-  * °³³ä, °³·®, ¸ğµ¨
-    * ÀÌÅÍ·¹ÀÌÅÍ ÀÚ°İÀÇ Æ÷ÀÎÅÍ
+* ### **16.4** ì¼ë°˜í™” í”„ë¡œê·¸ë˜ë°
+  * ì´í„°ë ˆì´í„°ê°€ í•„ìš”í•œ ì´ìœ 
+  * ì´í„°ë ˆì´í„°ì˜ ì¢…ë¥˜
+    * ì…ë ¥ ì´í„°ë ˆì´í„°
+    * ì¶œë ¥ ì´í„°ë ˆì´í„°
+    * ì „ë°© ì´í„°ë ˆì´í„°
+    * ì „í›„ë°© ì´í„°ë ˆì´í„°
+    * ì„ì˜ ì ‘ê·¼ ì´í„°ë ˆì´í„°
+  * ì´í„°ë ˆì´í„° ê³„ì¸µ
+  * ê°œë…, ê°œëŸ‰, ëª¨ë¸
+    * ì´í„°ë ˆì´í„° ìê²©ì˜ í¬ì¸í„°
     * copy(), ostream_iterator, istream_iterator
-    * ±âÅ¸ À¯¿ëÇÑ ÀÌÅÍ·¹ÀÌÅÍµé
+    * ê¸°íƒ€ ìœ ìš©í•œ ì´í„°ë ˆì´í„°ë“¤
       * [[]]()
       * [[]]()
-  * ÄÁÅ×ÀÌ³ÊÀÇ Á¾·ù
-    * ÄÁÅ×ÀÌ³Ê °³³ä
-    * C++11ÀÇ ÄÁÅ×ÀÌ³Ê ¿ä±¸ Á¶°Ç¿¡ ´ëÇÑ Ãß°¡ »çÇ×
-    * ½ÃÄö½º
+  * ì»¨í…Œì´ë„ˆì˜ ì¢…ë¥˜
+    * ì»¨í…Œì´ë„ˆ ê°œë…
+    * C++11ì˜ ì»¨í…Œì´ë„ˆ ìš”êµ¬ ì¡°ê±´ì— ëŒ€í•œ ì¶”ê°€ ì‚¬í•­
+    * ì‹œí€€ìŠ¤
     * vector
     * deque
     * list
       * [[]]()
-    * ÇÁ·Î±×·¥ ºĞ¼®
-    * list µµ±¸»óÀÚ
+    * í”„ë¡œê·¸ë¨ ë¶„ì„
+    * list ë„êµ¬ìƒì
     * forward_list(C++11)
     * queue
     * priority_queue
     * stack
-    * array ÅÛÇÃ¸´(C++11)
-  * °áÇÕ ÄÁÅ×ÀÌ³Ê
-    * set ¿¹Á¦
+    * array í…œí”Œë¦¿(C++11)
+  * ê²°í•© ì»¨í…Œì´ë„ˆ
+    * set ì˜ˆì œ
       * [[]]()
-    * multimap ¿¹Á¦
+    * multimap ì˜ˆì œ
       * [[]]()
-  * ¼ø¼­°¡ ºÎ¿©µÇÁö ¾ÊÀº °áÇÕ ÄÁÅ×ÀÌ³Ê(C++11)
+  * ìˆœì„œê°€ ë¶€ì—¬ë˜ì§€ ì•Šì€ ê²°í•© ì»¨í…Œì´ë„ˆ(C++11)
 
-* ### **16.5** ÇÔ¼ö °´Ã¼(Functor)
-  * ÆãÅ©ÅÍ °³³ä
+* ### **16.5** í•¨ìˆ˜ ê°ì²´(Functor)
+  * í‘í¬í„° ê°œë…
     * [[]]()
-  * ¹Ì¸® Á¤ÀÇµÈ ÆãÅ©ÅÍ
-  * ¾î´ğÅÍºí ÆãÅ©ÅÍ¿Í ÇÔ¼ö ¾î´ğÅÍ
+  * ë¯¸ë¦¬ ì •ì˜ëœ í‘í¬í„°
+  * ì–´ëŒ‘í„°ë¸” í‘í¬í„°ì™€ í•¨ìˆ˜ ì–´ëŒ‘í„°
     * [[]]()
 
-* ### **16.6** ¾Ë°í¸®Áò
-  * ¾Ë°í¸®Áò ±×·ì
-  * ¾Ë°í¸®ÁòÀÇ ÀÏ¹İÀûÀÎ Æ¯¼º
-  * STL°ú string Å¬·¡½º
+* ### **16.6** ì•Œê³ ë¦¬ì¦˜
+  * ì•Œê³ ë¦¬ì¦˜ ê·¸ë£¹
+  * ì•Œê³ ë¦¬ì¦˜ì˜ ì¼ë°˜ì ì¸ íŠ¹ì„±
+  * STLê³¼ string í´ë˜ìŠ¤
     * [[]]()
-  * ÇÔ¼ö¿Í ÄÁÅ×ÀÌ³Ê ¸Ş¼­µå
+  * í•¨ìˆ˜ì™€ ì»¨í…Œì´ë„ˆ ë©”ì„œë“œ
     * [[]]()
-  * STL »ç¿ëÇÏ±â
+  * STL ì‚¬ìš©í•˜ê¸°
     * [[]]()
   
-* ### **16.7** ±âÅ¸ ¶óÀÌºê·¯¸®
-  * vector¿Í valarray, ±×¸®°í array
+* ### **16.7** ê¸°íƒ€ ë¼ì´ë¸ŒëŸ¬ë¦¬
+  * vectorì™€ valarray, ê·¸ë¦¬ê³  array
     * [[]]()
     * [[]]()
-  * initializer_list ÅÛÇÃ¸´(C++11)
-  * initializer_list »ç¿ë
+  * initializer_list í…œí”Œë¦¿(C++11)
+  * initializer_list ì‚¬ìš©
     * [[]]()
-  * ÇÁ·Î±×·¥ ºĞ¼®
+  * í”„ë¡œê·¸ë¨ ë¶„ì„
 
 ### [Listing 16 SUMMARY](https://github.com/tlsehddbs/CPP_Basic/blob/main/16/.SUMMARY16.md ".SUMMARY16.md")  
 ### [Listing 16 Programming Exercise](https://github.com/tlsehddbs/CPP_Basic/tree/main/16/PROGRAMMING%20EXERCISE)
 ___
-## **17** ÀÔ·Â, Ãâ·Â, ÆÄÀÏ
+## **17** ì…ë ¥, ì¶œë ¥, íŒŒì¼
 <details>
-<summary>ÇĞ½À¸ñÇ¥</summary>
+<summary>í•™ìŠµëª©í‘œ</summary>
 <div markdown="1">
-¡Ü C++¿¡¼­ÀÇ ÀÔÃâ·Â<br>
-¡Ü iostream °è¿­ÀÇ Å¬·¡½º<br>
-¡Ü ¸®µğ·º¼Ç<br>
-¡Ü ostream Å¬·¡½º ¸Ş¼­µå<br>
-¡Ü Ãâ·Â Çü½Ä ÁöÁ¤<br>
-¡Ü istream Å¬·¡½º ¸Ş¼­µå<br>
-¡Ü ½ºÆ®¸²ÀÇ »óÅÂ<br>
-¡Ü ÆÄÀÏ ÀÔÃâ·Â<br>
-¡Ü ÆÄÀÏ·ÎºÎÅÍ ÀÔ·ÂÀ» ¹Ş´Â ifstream Å¬·¡½º<br>
-¡Ü ÆÄÀÏ¿¡ Ãâ·ÂÇÏ´Â ofstream Å¬·¡½º<br>
-¡Ü ÆÄÀÏ ÀÔÃâ·ÂÀ» À§ÇÑ fstreamÅ¬·¡½º<br>
-¡Ü ¸í·ÉÇà Ã³¸®<br>
-¡Ü 2Áø ÆÄÀÏ<br>
-¡Ü ÆÄÀÏ ÀÓÀÇ Á¢±Ù<br>
-¡Ü ÀÎÄÚ¾î Çü½Ä ÁöÁ¤<br>
+â— C++ì—ì„œì˜ ì…ì¶œë ¥<br>
+â— iostream ê³„ì—´ì˜ í´ë˜ìŠ¤<br>
+â— ë¦¬ë””ë ‰ì…˜<br>
+â— ostream í´ë˜ìŠ¤ ë©”ì„œë“œ<br>
+â— ì¶œë ¥ í˜•ì‹ ì§€ì •<br>
+â— istream í´ë˜ìŠ¤ ë©”ì„œë“œ<br>
+â— ìŠ¤íŠ¸ë¦¼ì˜ ìƒíƒœ<br>
+â— íŒŒì¼ ì…ì¶œë ¥<br>
+â— íŒŒì¼ë¡œë¶€í„° ì…ë ¥ì„ ë°›ëŠ” ifstream í´ë˜ìŠ¤<br>
+â— íŒŒì¼ì— ì¶œë ¥í•˜ëŠ” ofstream í´ë˜ìŠ¤<br>
+â— íŒŒì¼ ì…ì¶œë ¥ì„ ìœ„í•œ fstreamí´ë˜ìŠ¤<br>
+â— ëª…ë ¹í–‰ ì²˜ë¦¬<br>
+â— 2ì§„ íŒŒì¼<br>
+â— íŒŒì¼ ì„ì˜ ì ‘ê·¼<br>
+â— ì¸ì½”ì–´ í˜•ì‹ ì§€ì •<br>
 </div>
 </details>
 
-* ### **17.1** C++ ÀÔÃâ·ÂÀÇ °³¿ä
-  * ½ºÆ®¸²°ú ¹öÆÛ
-  * ½ºÆ®¸², ¹öÆÛ iostream ÆÄÀÏ
-  * ¸®µğ·º¼Ç
+* ### **17.1** C++ ì…ì¶œë ¥ì˜ ê°œìš”
+  * ìŠ¤íŠ¸ë¦¼ê³¼ ë²„í¼
+  * ìŠ¤íŠ¸ë¦¼, ë²„í¼ iostream íŒŒì¼
+  * ë¦¬ë””ë ‰ì…˜
 
-* ### **17.2** coutÀ» ÀÌ¿ëÇÑ Ãâ·Â
-  * ¿À¹ö·ÎµùµÈ << ¿¬»êÀÚ
-    * Ãâ·Â°ú Æ÷ÀÎÅÍ
-    * ¿¬ÀÌ¾î Ãâ·ÂÇÏ±â
-  * ±× ¹ÛÀÇ ostream ¸Ş¼­µåµé
+* ### **17.2** coutì„ ì´ìš©í•œ ì¶œë ¥
+  * ì˜¤ë²„ë¡œë”©ëœ << ì—°ì‚°ì
+    * ì¶œë ¥ê³¼ í¬ì¸í„°
+    * ì—°ì´ì–´ ì¶œë ¥í•˜ê¸°
+  * ê·¸ ë°–ì˜ ostream ë©”ì„œë“œë“¤
     * [[]]()
-  * Ãâ·Â ¹öÆÛ ºñ¿ì±â
-  * coutÀ» ÀÌ¿ëÇÑ Ãâ·Â Çü½Ä ÁöÁ¤
+  * ì¶œë ¥ ë²„í¼ ë¹„ìš°ê¸°
+  * coutì„ ì´ìš©í•œ ì¶œë ¥ í˜•ì‹ ì§€ì •
     * [[]]()
-    * È­¸é Ãâ·ÂÀ» À§ÇÑ Áø¹ı º¯°æ
+    * í™”ë©´ ì¶œë ¥ì„ ìœ„í•œ ì§„ë²• ë³€ê²½
       * [[]]()
-    * ÇÊµå Æø Á¶Á¤
+    * í•„ë“œ í­ ì¡°ì •
       * [[]]()
-    * Ã¤¿ò ¹®ÀÚ
+    * ì±„ì›€ ë¬¸ì
       * [[]]()
-    * ºÎµ¿ ¼Ò¼öÁ¡¼öÀÇ Ãâ·Â Á¤¹Ğµµ ¼³Á¤
+    * ë¶€ë™ ì†Œìˆ˜ì ìˆ˜ì˜ ì¶œë ¥ ì •ë°€ë„ ì„¤ì •
       * [[]]()
-    * µÚ¿¡ ºÙ´Â 0°ú ¼Ò¼öÁ¡ Ãâ·Â
+    * ë’¤ì— ë¶™ëŠ” 0ê³¼ ì†Œìˆ˜ì  ì¶œë ¥
       * [[]]()
-    * setf()¿¡ ´ëÇÑ º¸Ãæ
+    * setf()ì— ëŒ€í•œ ë³´ì¶©
       * [[]]()
       * [[]]()
-    * Ç¥ÁØ Á¶Á¤ÀÚ
-    * iomanip Çì´õ ÆÄÀÏ
-      * [[]]()
-
-* ### **17.3** cinÀ» ÀÌ¿ëÇÑ ÀÔ·Â
-  * cin >>Àº ÀÔ·ÂÀ» ¾î¶»°Ô º¸´Â°¡?
-    * [[]]()
-  * ½ºÆ®¸² »óÅÂ
-    * »óÅÂ ¼³Á¤
-    * ÀÔÃâ·Â°ú ¿¹¿Ü
-      * [[]]()
-    * ½ºÆ®¸² »óÅÂ È¿°ú
-  * ±× ¹Û¿¡ istream Å¬·¡½º ¸Ş¼­µåµé
-    * ´ÜÀÏ ¹®ÀÚ ÀÔ·Â
-    * get(char &)¸â¹ö ÇÔ¼ö
-    * getchar () ¸â¹ö ÇÔ¼ö
-    * ¾î¶² ´ÜÀÏ ºĞÀÚ ÀÔ·ÂÀ» »ç¿ëÇÒ °ÍÀÎ°¡?
-    * ¹®ÀÚ¿­ ÀÔ·Â : getline(), get(), ignore()
-      * [[]]()
-    * ±â´ëÇÏÁö ¾Ê´Â ¹®ÀÚ¿­ÀÇ ÀÔ·Â
-  * ±× ¹ÛÀÇ istream ¸Ş¼­µå
-      * [[]]()
-    * ÇÁ·Î±×·¥ ºĞ¼®
+    * í‘œì¤€ ì¡°ì •ì
+    * iomanip í—¤ë” íŒŒì¼
       * [[]]()
 
-* ### **17.4** ÆÄÀÏ ÀÔ·Â°ú Ãâ·Â
-  * °£´ÜÇÑ ÆÄÀÏ ÀÔÃâ·Â
+* ### **17.3** cinì„ ì´ìš©í•œ ì…ë ¥
+  * cin >>ì€ ì…ë ¥ì„ ì–´ë–»ê²Œ ë³´ëŠ”ê°€?
     * [[]]()
-  * ½ºÆ®¸² °Ë»ç¿Í is_open()
-  * ¿©·¯ °³ÀÇ ÆÄÀÏ ¿­±â
-  * ¸í·ÉÇà Ã³¸®
+  * ìŠ¤íŠ¸ë¦¼ ìƒíƒœ
+    * ìƒíƒœ ì„¤ì •
+    * ì…ì¶œë ¥ê³¼ ì˜ˆì™¸
+      * [[]]()
+    * ìŠ¤íŠ¸ë¦¼ ìƒíƒœ íš¨ê³¼
+  * ê·¸ ë°–ì— istream í´ë˜ìŠ¤ ë©”ì„œë“œë“¤
+    * ë‹¨ì¼ ë¬¸ì ì…ë ¥
+    * get(char &)ë©¤ë²„ í•¨ìˆ˜
+    * getchar () ë©¤ë²„ í•¨ìˆ˜
+    * ì–´ë–¤ ë‹¨ì¼ ë¶„ì ì…ë ¥ì„ ì‚¬ìš©í•  ê²ƒì¸ê°€?
+    * ë¬¸ìì—´ ì…ë ¥ : getline(), get(), ignore()
+      * [[]]()
+    * ê¸°ëŒ€í•˜ì§€ ì•ŠëŠ” ë¬¸ìì—´ì˜ ì…ë ¥
+  * ê·¸ ë°–ì˜ istream ë©”ì„œë“œ
+      * [[]]()
+    * í”„ë¡œê·¸ë¨ ë¶„ì„
+      * [[]]()
+
+* ### **17.4** íŒŒì¼ ì…ë ¥ê³¼ ì¶œë ¥
+  * ê°„ë‹¨í•œ íŒŒì¼ ì…ì¶œë ¥
     * [[]]()
-  * ÆÄÀÏ ¸ğµå
-    * ÆÄÀÏ¿¡ µ£ºÙÀÌ±â
+  * ìŠ¤íŠ¸ë¦¼ ê²€ì‚¬ì™€ is_open()
+  * ì—¬ëŸ¬ ê°œì˜ íŒŒì¼ ì—´ê¸°
+  * ëª…ë ¹í–‰ ì²˜ë¦¬
+    * [[]]()
+  * íŒŒì¼ ëª¨ë“œ
+    * íŒŒì¼ì— ë«ë¶™ì´ê¸°
       * [[]]()
-    * 2Áø ÆÄÀÏ
+    * 2ì§„ íŒŒì¼
       * [[]]()
-  * ÀÓÀÇ Á¢±Ù
+  * ì„ì˜ ì ‘ê·¼
     * [[]]()
 
-* ### **17.5** ÀÎÄÚ¾î Çü½ÄÀÇ ÁöÁ¤
+* ### **17.5** ì¸ì½”ì–´ í˜•ì‹ì˜ ì§€ì •
     * - [[]]()
     * - [[]]()
 
 ### [Listing 17 SUMMARY](https://github.com/tlsehddbs/CPP_Basic/blob/main/17/.SUMMARY17.md ".SUMMARY17.md")  
 ### [Listing 17 Programming Exercise](https://github.com/tlsehddbs/CPP_Basic/tree/main/17/PROGRAMMING%20EXERCISE)
 ___
-## **18** »õ·Î¿î C++ Ç¥ÁØ°úÀÇ ¸¸³²
+## **18** ìƒˆë¡œìš´ C++ í‘œì¤€ê³¼ì˜ ë§Œë‚¨
 <details>
-<summary>ÇĞ½À¸ñÇ¥</summary>
+<summary>í•™ìŠµëª©í‘œ</summary>
 <div markdown="1">
-¡Ü Move semantics rvalue ÂüÁ¶<br>
-¡Ü ¶÷´Ù Ç¥Çö½Ä<br>
-¡Ü ·¡ÆÛ ÇÔ¼ö ÅÛÇÃ¸´<br>
-¡Ü ´Ù¾çÇÑ ÅÛÇÃ¸´<br>
+â— Move semantics rvalue ì°¸ì¡°<br>
+â— ëŒë‹¤ í‘œí˜„ì‹<br>
+â— ë˜í¼ í•¨ìˆ˜ í…œí”Œë¦¿<br>
+â— ë‹¤ì–‘í•œ í…œí”Œë¦¿<br>
 </div>
 </details>
 
-* ### **18.1** C++11 Æ¯Â¡ Àç°í
-  * »õ·Î¿î Å¸ÀÔ
-  * ±ÕÀÏÈ­µÈ ÃÊ±âÈ­
-    * Çü º¯È¯
+* ### **18.1** C++11 íŠ¹ì§• ì¬ê³ 
+  * ìƒˆë¡œìš´ íƒ€ì…
+  * ê· ì¼í™”ëœ ì´ˆê¸°í™”
+    * í˜• ë³€í™˜
     * std::initializer_list
-  * ¼±¾ğ
+  * ì„ ì–¸
     * auto
     * decltype
-    * º¯È¯ Å¸ÀÔ ÃßÀû
-    * ÅÛÇÃ¸´ º°Äª : using =
+    * ë³€í™˜ íƒ€ì… ì¶”ì 
+    * í…œí”Œë¦¿ ë³„ì¹­ : using =
   * nullptr
-  * ½º¸¶Æ® Æ÷ÀÎÅÍ
-  * ¿¹¿Ü ÁöÁ¤(Exception Specification) º¯È­
-  * ¹üÀ§°¡ ÁöÁ¤µÈ ¿­°ÅÃ¼
-  * Å¬·¡½º º¯È­
-    * explicit º¯È¯ ¿¬»êÀÚ
-    * Å¬·¡½º ³» ¸â¹ö ÃÊ±âÈ­
-  * ÅÛÇÃ¸´°ú STL º¯È­
-    * ¹üÀ§ ±â¹İ ¹İº¹¹®
-    * »õ·Î¿î STL ÄÁÅ×ÀÌ³Ê
-    * »õ·Î¿î STL ÇÔ¼ö
-    * valarray ¾÷±×·¹ÀÌµå
-    * export »ç¶óÁö´Ù
-    * ²©¼è °ıÈ£
-  * rvalue ÂüÁ¶
+  * ìŠ¤ë§ˆíŠ¸ í¬ì¸í„°
+  * ì˜ˆì™¸ ì§€ì •(Exception Specification) ë³€í™”
+  * ë²”ìœ„ê°€ ì§€ì •ëœ ì—´ê±°ì²´
+  * í´ë˜ìŠ¤ ë³€í™”
+    * explicit ë³€í™˜ ì—°ì‚°ì
+    * í´ë˜ìŠ¤ ë‚´ ë©¤ë²„ ì´ˆê¸°í™”
+  * í…œí”Œë¦¿ê³¼ STL ë³€í™”
+    * ë²”ìœ„ ê¸°ë°˜ ë°˜ë³µë¬¸
+    * ìƒˆë¡œìš´ STL ì»¨í…Œì´ë„ˆ
+    * ìƒˆë¡œìš´ STL í•¨ìˆ˜
+    * valarray ì—…ê·¸ë ˆì´ë“œ
+    * export ì‚¬ë¼ì§€ë‹¤
+    * êº½ì‡  ê´„í˜¸
+  * rvalue ì°¸ì¡°
     * [[]]()
 
-* ### **18.2** Move Semantics°ú Rvalue ÂüÁ¶
-  * Movw SemanticsÀÇ ÇÊ¿ä¼º
-  * ÀÌµ¿ ¿¹Á¦
+* ### **18.2** Move Semanticsê³¼ Rvalue ì°¸ì¡°
+  * Movw Semanticsì˜ í•„ìš”ì„±
+  * ì´ë™ ì˜ˆì œ
     * [[]]()
-  * ÀÌµ¿ »ı¼ºÀÚ ºĞ¼®
-  * ´ëÀÔ
-  * °­Á¦ ÀÌµ¿
+  * ì´ë™ ìƒì„±ì ë¶„ì„
+  * ëŒ€ì…
+  * ê°•ì œ ì´ë™
     * [[]]()
   
-* ### **18.3** »õ·Î¿î Å¬·¡½º ÇüÅÂ
-  * Æ¯º°ÇÑ ¸â¹ö ÇÔ¼öµé
-  * ±âº»°ú »èÁ¦ ÇÔ¼ö
-  * À§ÀÓ »ı¼ºÀÚ
-  * »ó¼Ó »ı¼ºÀÚ
-  * °¡»ó ÇÔ¼ö °ü¸® : override¿Í final
+* ### **18.3** ìƒˆë¡œìš´ í´ë˜ìŠ¤ í˜•íƒœ
+  * íŠ¹ë³„í•œ ë©¤ë²„ í•¨ìˆ˜ë“¤
+  * ê¸°ë³¸ê³¼ ì‚­ì œ í•¨ìˆ˜
+  * ìœ„ì„ ìƒì„±ì
+  * ìƒì† ìƒì„±ì
+  * ê°€ìƒ í•¨ìˆ˜ ê´€ë¦¬ : overrideì™€ final
 
-* ### **18.4** ¶÷´Ù ÇÔ¼öµé
-  * ÇÔ¼ö Æ÷ÀÎÅÍ, ÆãÅ©ÅÍ ±×¸®°í ÇÔ´Ù »ç¿ë¹ı
+* ### **18.4** ëŒë‹¤ í•¨ìˆ˜ë“¤
+  * í•¨ìˆ˜ í¬ì¸í„°, í‘í¬í„° ê·¸ë¦¬ê³  í•¨ë‹¤ ì‚¬ìš©ë²•
     * [[]]()
-  * ¿Ö ¶÷´ÙÀÎ°¡
+  * ì™œ ëŒë‹¤ì¸ê°€
     * [[]]()
 
-* ### **18.5** ·¡ÆÛ(Wrapper)
-  * ÇÔ¼ö ·¡ÆÛ¿Í ÅÛÇÃ¸´ ºñÈ¿À²¼º
+* ### **18.5** ë˜í¼(Wrapper)
+  * í•¨ìˆ˜ ë˜í¼ì™€ í…œí”Œë¦¿ ë¹„íš¨ìœ¨ì„±
     * [[]]()
     * [[]]()
-  * ¹®Á¦ ÇØ°á
+  * ë¬¸ì œ í•´ê²°
     * [[]]()
-  * ´õ ¸¹Àº ¿É¼Ç
+  * ë” ë§ì€ ì˜µì…˜
 
-* ### **18.6** °¡º¯ÀÎÀÚ ÅÛÇÃ¸´
-  * ÅÛÇÃ¸´°ú ÇÔ¼ö ¸Å°³º¯¼ö ÆÑ
-  * ¾ğÆĞÅ· ÆÑ
-  * °¡º¯ÀÎÀÚ ÅÛÇÃ¸´ ÇÔ¼ö¿¡¼­ Àç±Í »ç¿ë
+* ### **18.6** ê°€ë³€ì¸ì í…œí”Œë¦¿
+  * í…œí”Œë¦¿ê³¼ í•¨ìˆ˜ ë§¤ê°œë³€ìˆ˜ íŒ©
+  * ì–¸íŒ¨í‚¹ íŒ©
+  * ê°€ë³€ì¸ì í…œí”Œë¦¿ í•¨ìˆ˜ì—ì„œ ì¬ê·€ ì‚¬ìš©
     * [[]]()
-    * ÇÁ·Î±×·¥ ³ëÆ®
-    * °³¼± »çÇ×
+    * í”„ë¡œê·¸ë¨ ë…¸íŠ¸
+    * ê°œì„  ì‚¬í•­
       * [[]]()
 
-* ### **18.7** C++11 ´õ ¸¹Àº ±â´Éµé
-  * ´ÙÁß ÇÁ·Î±×·¡¹Ö
-  * ¶óÀÌºê·¯¸® Ãß°¡
-  * Àú¼öÁØ ÇÁ·Î±×·¡¹Ö
-  * ±âÅ¸
+* ### **18.7** C++11 ë” ë§ì€ ê¸°ëŠ¥ë“¤
+  * ë‹¤ì¤‘ í”„ë¡œê·¸ë˜ë°
+  * ë¼ì´ë¸ŒëŸ¬ë¦¬ ì¶”ê°€
+  * ì €ìˆ˜ì¤€ í”„ë¡œê·¸ë˜ë°
+  * ê¸°íƒ€
 
-* ### **18.8** ¾ğ¾î º¯È­
-  * Boost ÇÁ·ÎÁ§Æ®
+* ### **18.8** ì–¸ì–´ ë³€í™”
+  * Boost í”„ë¡œì íŠ¸
   * TR1
-  * Boost »ç¿ë
+  * Boost ì‚¬ìš©
     * [[]]()
 
-* ### **18.9** ÀÌÁ¦ ¾î¶»°Ô ÇÒ °ÍÀÎ°¡
+* ### **18.9** ì´ì œ ì–´ë–»ê²Œ í•  ê²ƒì¸ê°€
 
 ### [Listing 18 SUMMARY](https://github.com/tlsehddbs/CPP_Basic/blob/main/18/.SUMMARY18.md ".SUMMARY18.md")  
 ### [Listing 18 Programming Exercise](https://github.com/tlsehddbs/CPP_Basic/tree/main/08/PROGRAMMING%20EXERCISE)
